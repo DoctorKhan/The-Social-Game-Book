@@ -18,26 +18,26 @@ nav:
   - chapter-6-beyond-good-and-evil-a-new-framework-for-ethics.md
   - chapter-7-the-internets-false-democracy.md
   - chapter-8-the-modern-disruption.md
-  - chapter-4.md
-  - the-elite-alliance-pattern-weaponizing-the-weaker-against-the-stronger.md
-  - chapter-9-the-mystery-of-thriving-communities.md
+  - chapter-9-chapter-4.md
+  - chapter-10-the-elite-alliance-pattern-weaponizing-the-weaker-against-the-stronger.md
+  - chapter-11-the-mystery-of-thriving-communities.md
 - 'Part 2: The Social Game':
   - part-2-the-social-game.md
-  - chapter-10-investigation-report-1-the-social-mirror-phenomenon.md
-  - chapter-11-true-hierarchy-vs-false-equality.md
-  - chapter-12-the-digital-hijacking.md
-  - chapter-13-the-scale-dependent-nature-of-social-systems.md
+  - chapter-12-investigation-report-1-the-social-mirror-phenomenon.md
+  - chapter-13-true-hierarchy-vs-false-equality.md
+  - chapter-14-the-digital-hijacking.md
+  - chapter-15-the-scale-dependent-nature-of-social-systems.md
 - 'Part 3: The Cultural Game':
   - part-3-the-cultural-game.md
-  - chapter-14-the-creative-trap.md
-  - chapter-15-cultural-analysis-1-the-science-authority-deception.md
-  - chapter-16-practices-as-resistance-daily-actions-that-undermine-social-programming.md
+  - chapter-16-the-creative-trap.md
+  - chapter-17-cultural-analysis-1-the-science-authority-deception.md
+  - chapter-18-practices-as-resistance-daily-actions-that-undermine-social-programming.md
 - 'Part 4: The Meta-Game':
   - part-4-the-meta-game.md
-  - chapter-17-solution-integration-1-the-endless-game.md
-  - chapter-18-cultural-preservation-and-creation-building-sacred-community-in-a-secular-age.md
-  - chapter-19-practical-implementation-guide-building-your-upward-spiral.md
-  - glossary-of-terms.md
+  - chapter-19-solution-integration-1-the-endless-game.md
+  - chapter-20-cultural-preservation-and-creation-building-sacred-community-in-a-secular-age.md
+  - chapter-21-practical-implementation-guide-building-your-upward-spiral.md
+  - chapter-22-glossary-of-terms.md
 - Downloads: downloads/index.md
 theme:
   name: material
