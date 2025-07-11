@@ -26,6 +26,18 @@
 
 **Revision**: Modifying or abandoning hypotheses that don't match the evidence.
 
+### The Replication Principle: Science's Decentralized Nature
+
+**The Fundamental Insight**: Science is fundamentally decentralized. If one institution comes to a false conclusion, another can simply refute it through independent replication—especially if they are in another country with different funding sources and institutional pressures.
+
+**Why This Matters**: The strength of science lies not in any single study or institution, but in the distributed network of researchers who can independently test and verify claims. This decentralization makes science naturally resistant to institutional capture—when it's allowed to function properly.
+
+**The Current Challenge**: However, the amount of funds and expertise necessary to conduct modern science means that there are not many groups that can effectively replicate complex studies. This concentration of resources creates vulnerability to institutional bias and corruption.
+
+**The Media Distortion**: What's often called the "replication crisis" is actually a media interpretation problem. Scientists themselves understand that replication is essential—the only "crisis" is in public interpretation of studies as not needing to be replicated. When media reports single studies as definitive truth rather than preliminary findings requiring replication, they misrepresent how science actually works.
+
+**The AI Opportunity**: Artificial intelligence may democratize scientific research by allowing more people to participate in science in a decentralized way and raise funds through crowdsourcing platforms like Kickstarter or blockchain-based funding. This could restore science's naturally decentralized character and reduce dependence on institutional gatekeepers.
+
 **The Key Insight**: Science is a process of verification, not a source of authority. It's a tool for distinguishing between what's true and what we want to be true, between what works and what sounds good, between reality and wishful thinking.
 
 ## The Institutional Capture of Science
