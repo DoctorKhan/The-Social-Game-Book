@@ -1,4 +1,4 @@
-# Chapter 19: Practical Implementation Guide: Building Your Upward Spiral
+# Chapter 21: Practical Implementation Guide: Building Your Upward Spiral
 
 *"The best time to plant a tree was 20 years ago. The second best time is now."* - Chinese Proverb
 

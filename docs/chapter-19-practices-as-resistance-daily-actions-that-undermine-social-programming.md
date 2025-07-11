@@ -1,4 +1,4 @@
-# Chapter 16: Practices as Resistance: Daily Actions That Undermine Social Programming
+# Chapter 17: Practices as Resistance: Daily Actions That Undermine Social Programming
 
 *"The most potent weapon in the hands of the oppressor is the mind of the oppressed."* - Steve Biko
 
@@ -163,6 +163,3 @@ The goal isn't to create a perfect alternative society overnight, but to live in
 
 In a world of manufactured reality, conscious living is the ultimate act of resistance. It's also the foundation for whatever better world wants to emerge through our collective choices.
 
-
-
----

@@ -107,6 +107,3 @@ Understanding these distinctions is the first step toward reclaiming authentic r
 
 *The next time someone tells you "we're all family here" while handing you a performance improvement plan, you'll know exactly what game is being played—and you can choose whether or not to play along.*
 
-
-
----

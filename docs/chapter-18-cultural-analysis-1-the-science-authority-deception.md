@@ -1,4 +1,4 @@
-# Chapter 15: Cultural Analysis #1: The Science Authority Deception
+# Chapter 16: Cultural Analysis #1: The Science Authority Deception
 
 ## The Weaponization of Truth
 

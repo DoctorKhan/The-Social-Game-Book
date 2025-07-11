@@ -27,17 +27,19 @@ nav:
   - chapter-13-true-hierarchy-vs-false-equality.md
   - chapter-14-the-digital-hijacking.md
   - chapter-15-the-scale-dependent-nature-of-social-systems.md
+  - chapter-16-the-apocalyptic-escalation.md
 - 'Part 3: The Cultural Game':
   - part-3-the-cultural-game.md
-  - chapter-16-the-creative-trap.md
-  - chapter-17-cultural-analysis-1-the-science-authority-deception.md
-  - chapter-18-practices-as-resistance-daily-actions-that-undermine-social-programming.md
+  - chapter-17-the-creative-trap.md
+  - chapter-18-cultural-analysis-1-the-science-authority-deception.md
+  - chapter-19-practices-as-resistance-daily-actions-that-undermine-social-programming.md
+  - chapter-20-the-peace-protocol.md
 - 'Part 4: The Meta-Game':
   - part-4-the-meta-game.md
-  - chapter-19-solution-integration-1-the-endless-game.md
-  - chapter-20-cultural-preservation-and-creation-building-sacred-community-in-a-secular-age.md
-  - chapter-21-practical-implementation-guide-building-your-upward-spiral.md
-  - chapter-22-glossary-of-terms.md
+  - chapter-21-solution-integration-1-the-endless-game.md
+  - chapter-22-cultural-preservation-and-creation-building-sacred-community-in-a-secular-age.md
+  - chapter-23-practical-implementation-guide-building-your-upward-spiral.md
+  - chapter-24-glossary-of-terms.md
 - Downloads: downloads/index.md
 theme:
   name: material
