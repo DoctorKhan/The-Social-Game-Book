@@ -10,36 +10,34 @@ nav:
 - The Social Game: the-social-game.md
 - 'Part 1: The Lost Art of Community':
   - part-1-the-lost-art-of-community.md
-  - chapter-1-the-mystery-of-thriving-communities.md
-  - chapter-2-the-social-mirror-how-healthy-identity-forms.md
+  - chapter-1-the-grackle-clue-the-rhythm-of-belonging.md
+  - chapter-2-the-architecture-of-natural-belonging-the-social-mirror.md
   - chapter-3-evidence-file-1-the-divide-and-conquer-phenomenon.md
   - chapter-4-true-hierarchy-vs-false-hierarchy-how-natural-learning-communities-develop.md
   - chapter-5-evidence-file-2-the-perpetual-adolescence-mystery.md
   - chapter-6-beyond-good-and-evil-a-new-framework-for-ethics.md
   - chapter-7-the-internets-false-democracy.md
-  - chapter-8-the-modern-disruption.md
-  - chapter-9-chapter-4.md
-  - chapter-10-the-elite-alliance-pattern-weaponizing-the-weaker-against-the-stronger.md
-  - chapter-11-the-mystery-of-thriving-communities.md
-- 'Part 2: The Social Game':
-  - part-2-the-social-game.md
-  - chapter-12-investigation-report-1-the-social-mirror-phenomenon.md
-  - chapter-13-true-hierarchy-vs-false-equality.md
-  - chapter-14-the-digital-hijacking.md
-  - chapter-15-the-scale-dependent-nature-of-social-systems.md
-  - chapter-16-the-apocalyptic-escalation.md
-- 'Part 3: The Cultural Game':
-  - part-3-the-cultural-game.md
-  - chapter-17-the-creative-trap.md
-  - chapter-18-cultural-analysis-1-the-science-authority-deception.md
-  - chapter-19-practices-as-resistance-daily-actions-that-undermine-social-programming.md
-  - chapter-20-the-peace-protocol.md
+  - chapter-8-investigation-report-the-elite-alliance-pattern-divide-and-conquer.md
+  - chapter-9-the-mystery-of-thriving-communities.md
+- 'Part 2: The Modern Disruption':
+  - part-2-the-modern-disruption.md
+  - chapter-10-investigation-report-1-the-social-mirror-phenomenon.md
+  - chapter-11-true-hierarchy-vs-false-equality.md
+  - chapter-12-investigation-report-the-digital-hijacking-weaponizing-human-psychology.md
+  - chapter-13-investigation-report-the-scale-deception-how-size-enables-manipulation.md
+  - chapter-14-investigation-report-the-ultimate-stakes-how-social-programming-drives-humanity-toward-extinction.md
+- 'Part 3: The Path Forward':
+  - part-3-the-path-forward.md
+  - chapter-15-the-creative-trap.md
+  - chapter-16-cultural-analysis-1-the-science-authority-deception.md
+  - chapter-17-practices-as-resistance-daily-actions-that-undermine-social-programming.md
+  - chapter-18-the-peace-protocol.md
 - 'Part 4: The Meta-Game':
   - part-4-the-meta-game.md
-  - chapter-21-solution-integration-1-the-endless-game.md
-  - chapter-22-cultural-preservation-and-creation-building-sacred-community-in-a-secular-age.md
-  - chapter-23-practical-implementation-guide-building-your-upward-spiral.md
-  - chapter-24-glossary-of-terms.md
+  - chapter-19-solution-integration-1-the-endless-game.md
+  - chapter-20-cultural-preservation-and-creation-building-sacred-community-in-a-secular-age.md
+  - chapter-21-practical-implementation-guide-building-your-upward-spiral.md
+  - chapter-22-glossary-of-terms.md
 - Downloads: downloads/index.md
 theme:
   name: material
