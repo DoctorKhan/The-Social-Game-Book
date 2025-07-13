@@ -1,4 +1,4 @@
-# Chapter 3: Investigation Report: The Elite Alliance Pattern - Divide and Conquer
+# Chapter 8: Investigation Report: The Elite Alliance Pattern - Divide and Conquer
 
 David Chen, the political consultant, couldn't shake the feeling that his work wasn't just about persuasion; it was about division. He saw how campaigns deliberately amplified cultural wedge issues to prevent voters with shared economic interests from uniting. Digging into history and political strategy, he stumbled upon an ancient pattern that seemed to be operating with terrifying efficiency in the modern world.
 

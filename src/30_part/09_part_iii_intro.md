@@ -1,4 +1,4 @@
-# Part III: The Path Forward
+# Part 3: The Path Forward
 ## Reconstruction: Building Immunity and Authentic Community
 
 *"Now that we understand both what we've lost and what destroyed it, how do we rebuild authentic community, cultivate resilience, and live consciously within the system?"*

@@ -1,4 +1,4 @@
-# Chapter 16: The Peace Protocol
+# Chapter 18: The Peace Protocol
 ## Practical Strategies for Reducing Global Tensions
 
 Understanding how social programming drives us toward conflict is only the first step. The real question is: How do we actively build peace in a world designed for division?

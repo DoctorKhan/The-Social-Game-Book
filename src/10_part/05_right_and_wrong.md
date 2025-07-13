@@ -1,4 +1,4 @@
-# Chapter 9: Beyond Good and Evil - A New Framework for Ethics
+# Chapter 6: Beyond Good and Evil - A New Framework for Ethics
 
 ## The Story of Two Brothers
 

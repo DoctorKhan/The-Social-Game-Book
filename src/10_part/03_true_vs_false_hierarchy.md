@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 4: True Hierarchy vs. False Hierarchy: How Natural Learning Communities Develop
 # True Hierarchy vs. False Hierarchy: How Natural Learning Communities Develop
 
 *The master craftsman runs his fingers along the wood grain, feeling for imperfections invisible to the untrained eye. His apprentice watches, eager to learn, but when he tries to replicate the gesture, his hands find nothing. "What am I missing?" he asks. The master smiles. "Twenty years," he replies.*

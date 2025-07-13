@@ -1,4 +1,4 @@
-# The Mystery of Thriving Communities
+# Chapter 9: The Mystery of Thriving Communities
 
 ## The Grackle Phenomenon
 

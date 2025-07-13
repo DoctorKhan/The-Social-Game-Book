@@ -1,4 +1,4 @@
-# Investigation Report #1: The Social Mirror Phenomenon
+# Chapter 10: Investigation Report #1: The Social Mirror Phenomenon
 
 ## The Case of the Multiple Selves
 

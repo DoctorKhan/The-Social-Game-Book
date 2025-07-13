@@ -1,4 +1,4 @@
-# Chapter 4: Investigation Report: The Digital Hijacking - Weaponizing Human Psychology
+# Chapter 12: Investigation Report: The Digital Hijacking - Weaponizing Human Psychology
 
 Sarah Kim, the algorithm designer, had been building the very systems that were fragmenting human attention and social connection. As she shared her findings with the other investigators, they began to understand how technology had become the primary delivery mechanism for the elite alliance pattern and other forms of social manipulation.
 

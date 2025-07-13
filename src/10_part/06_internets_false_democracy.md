@@ -1,4 +1,4 @@
-# The Internet's False Democracy
+# Chapter 7: The Internet's False Democracy
 
 The internet promised to democratize knowledge and level the playing field. No longer would wisdom be hoarded by elites or gatekeepers. Everyone would have access to the same information, the same platforms, the same voice. We celebrated this flattening as progress—a move toward equality, justice, and the free exchange of ideas. The expert and the amateur could now engage as equals in the marketplace of ideas. Hierarchies of knowledge seemed antiquated, oppressive relics of a less enlightened time.
 

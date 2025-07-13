@@ -1,4 +1,4 @@
-# Evidence File #1: The Divide and Conquer Phenomenon
+# Chapter 3: Evidence File #1: The Divide and Conquer Phenomenon
 
 ## The Puzzling Pattern
 

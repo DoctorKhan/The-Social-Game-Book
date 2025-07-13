@@ -1,4 +1,4 @@
-# Practices as Resistance: Daily Actions That Undermine Social Programming
+# Chapter 17: Practices as Resistance: Daily Actions That Undermine Social Programming
 
 *"The most potent weapon in the hands of the oppressor is the mind of the oppressed."* - Steve Biko
 

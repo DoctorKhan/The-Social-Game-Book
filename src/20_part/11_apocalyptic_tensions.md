@@ -1,4 +1,4 @@
-# Chapter 6: Investigation Report: The Ultimate Stakes - How Social Programming Drives Humanity Toward Extinction
+# Chapter 14: Investigation Report: The Ultimate Stakes - How Social Programming Drives Humanity Toward Extinction
 
 As the investigators pooled their findings, a terrifying pattern emerged. The family argument they'd witnessed—mother versus son, generation versus generation—wasn't just personal dysfunction. It was the same pattern playing out across millions of households, communities, and nations. The social programming that turns family members into enemies was driving humanity toward potential extinction.
 

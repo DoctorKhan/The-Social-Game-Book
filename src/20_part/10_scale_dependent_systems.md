@@ -1,4 +1,4 @@
-# Chapter 5: Investigation Report: The Scale Deception - How Size Enables Manipulation
+# Chapter 13: Investigation Report: The Scale Deception - How Size Enables Manipulation
 
 Marcus Thompson, the corporate trainer, had spent years watching executives use family language while implementing engine logic. "We're all family here," the CEO would say to employees she'd never met, moments before announcing layoffs. Something about this felt fundamentally wrong, and Marcus's investigation revealed why.
 
