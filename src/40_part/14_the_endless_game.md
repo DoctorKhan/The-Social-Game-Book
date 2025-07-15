@@ -1,4 +1,4 @@
-# Chapter 19: Solution Integration #1: The Endless Game
+# Chapter 20: Solution Integration #1: The Endless Game
 
 ## The Mystery Solved—Now What?
 
