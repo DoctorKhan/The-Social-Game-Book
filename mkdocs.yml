@@ -3,7 +3,7 @@ site_description: An examination of social programming, digital manipulation, an
   the construction of collective reality.
 site_author: Rez Khan
 site_url: https://universalbookcompiler.com/20_The_Social_Game/
-site_dir: ../site_build
+site_dir: output/web_build
 docs_dir: docs
 nav:
 - index.md
