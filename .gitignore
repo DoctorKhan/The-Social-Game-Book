@@ -1,31 +1,27 @@
-# Ignore all files by default
-*
-
-# But not these!
-!.gitignore
-!book_config.yaml
-!index.html
-!README.md
-!mkdocs.yml
-!sitemap.xml
-!sitemap.xml.gz
-!summary_*.md
-!Manual_Override.pdf
-
-# Allow all directories (so submodules work)
-!*/
-
-# Ignore Python cache and build artifacts
+# Python cache and build artifacts
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore temporary/editor files
+# Temporary/editor files
 *.swp
 *.swo
 *.bak
 .DS_Store
 
-# Ignore output folders
+# Build/output folders
 output/
+site/
+build/
+dist/
+assets/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+Thumbs.db
+.DS_Store
