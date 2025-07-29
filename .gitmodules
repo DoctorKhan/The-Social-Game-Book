@@ -1,0 +1,9 @@
+[submodule "books/20_Manual_Override"]
+	path = books/20_Manual_Override
+	url = https://github.com/DoctorKhan/Manual-Override-Book.git
+[submodule "books/30_The_Human_Experiment"]
+	path = books/30_The_Human_Experiment
+	url = https://github.com/DoctorKhan/The-Human-Experiment-Book.git
+[submodule "books/40_The_Cosmic_Game"]
+	path = books/40_The_Cosmic_Game
+	url = https://github.com/DoctorKhan/The-Cosmic-Game-Book.git
