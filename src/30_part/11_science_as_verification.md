@@ -1,4 +1,4 @@
-# Chapter 17: Cultural Analysis #1: The Science Authority Deception
+# Chapter 7: Cultural Analysis #1: The Science Authority Deception
 
 ## The Weaponization of Truth
 

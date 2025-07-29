@@ -1,4 +1,4 @@
-# The Social Game
+# The Social Game: The Playbook of Control
 
 ## How collective systems program individual consciousness
 
@@ -10,9 +10,9 @@ An examination of social programming, digital manipulation, and the construction
 
 ## Download Options
 
-- **[📖 Read Online](the-social-game.md)** - Start reading the web version
-- **[📄 Download PDF](downloads/20_The_Social_Game.pdf)** - Get the complete book as PDF
-- **[📝 Download Markdown](downloads/20_The_Social_Game.md)** - Get the source markdown
+- **[📖 Read Online](the-social-game-the-playbook-of-control.md)** - Start reading the web version
+- **[📄 Download PDF](downloads/10_The_Social_Game.pdf)** - Get the complete book as PDF
+- **[📝 Download Markdown](downloads/10_The_Social_Game.md)** - Get the source markdown
 
 ---
 
@@ -22,8 +22,8 @@ An examination of social programming, digital manipulation, and the construction
 
 ## Navigation
 
-Use the navigation menu on the left to browse through the chapters, or start with the [Introduction](the-social-game.md).
+Use the navigation menu on the left to browse through the chapters, or start with the [Introduction](the-social-game-the-playbook-of-control.md).
 
 ---
 
-*Last updated: July 17, 2025*
+*Last updated: July 28, 2025*

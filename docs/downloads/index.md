@@ -1,14 +1,14 @@
 # Downloads
 
-Download The Social Game in different formats:
+Download The Social Game: The Playbook of Control in different formats:
 
 ## Available Formats
 
 <div class="download-buttons">
-    <a href="20_The_Social_Game.md" class="download-btn">
+    <a href="10_The_Social_Game.md" class="download-btn">
         📝 Markdown Source
     </a>
-    <a href="20_The_Social_Game.pdf" class="download-btn secondary">
+    <a href="10_The_Social_Game.pdf" class="download-btn secondary">
         📄 PDF Version
     </a>
 </div>

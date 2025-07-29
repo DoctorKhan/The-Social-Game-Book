@@ -1,4 +1,4 @@
-# Chapter 17: Cultural Analysis #1: The Science Authority Deception
+# Chapter 7: Cultural Analysis #1: The Science Authority Deception
 
 ## The Weaponization of Truth
 
@@ -268,3 +268,6 @@ The goal isn't to reject all institutional science, but to reclaim the scientifi
 
 Science belongs to everyone who's willing to use its methods honestly. Don't let institutions steal it from you.
 
+
+
+---
