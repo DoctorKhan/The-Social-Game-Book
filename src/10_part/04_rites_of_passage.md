@@ -50,6 +50,10 @@ The result is a society of biological adults who remain psychologically adolesce
 
 ## The Modern Substitute: Credentialism
 
+A traditional rite of passage was a high-stakes, transformative **game**. The initiate played the role of the dying child and the reborn adult. The community played the role of witness and guide. The game was intense, but it had a clear end: you won the game by becoming an adult. The play was purposeful.
+
+Modern perpetual adolescence is the state of being trapped in games that have no end and offer no transformation. The validation game of social media, the status game of consumerism, the career game of endless competition—these are forms of **unconscious play**. We are still playing, but we have forgotten the purpose. The games no longer serve our development; we serve the games.
+
 A traditional rite of passage was an **embodied community drama**. It involved storytelling, music, and symbolic performance where the entire community served as both cast and audience, witnessing and validating the individual's transformation. The initiate was the protagonist in a story the whole community was telling.
 
 A college graduation or a corporate promotion is a **passive, disembodied ceremony of individual credentialing**. There is no shared story, no collective participation, only the receiving of a certificate that validates compliance with an institution.
