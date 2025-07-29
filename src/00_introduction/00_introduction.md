@@ -85,6 +85,18 @@ The result is a population vulnerable to economic exploitation, political manipu
 
 **But the solution exists**. The grackles still find their flocks. Some human communities still thrive. The patterns are there, waiting to be discovered.
 
+## How to Use This Trilogy
+
+This book, *The Social Game*, is the first step in a three-part journey designed to provide you with a complete understanding of our current situation and the tools needed to navigate it consciously.
+
+**The Social Game (The Diagnosis)**: This book provides an unflinching analysis of the systems that shape our world. You'll understand how divide-and-conquer tactics work, why communities fail, how digital platforms manipulate psychology, and why traditional social structures have been systematically dismantled. It is designed to give you clear sight into the mechanisms of control that most people never recognize.
+
+**Manual Override (The Toolkit)**: This is where you'll find the complete, practical guide to liberation from the systems diagnosed in this book. *Manual Override* provides detailed instructions for achieving both internal sovereignty (de-programming your mind) and external sovereignty (building resilient communities). It's the comprehensive answer to the question: "Now that I understand the problem, how do I actually live differently?"
+
+**The Human Experiment (The Origin Story)**: This provides the deep, mythological context for why our world is the way it is. It explores the hidden history of human origins and the cosmic forces that have shaped our species' development. After learning to see the Social Game and developing the tools to transcend it, you'll be ready for the profound questions about humanity's ultimate purpose and potential.
+
+**We recommend reading them in this order for the most complete journey.**
+
 ## Your Role in This Investigation
 
 This isn't about becoming cynical or withdrawing from society. It's about developing the detective skills to distinguish between authentic human connection and manufactured manipulation, between genuine community and artificial tribal identity.
