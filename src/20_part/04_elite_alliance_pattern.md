@@ -43,7 +43,7 @@ As David shared his research with the other investigators, they began recognizin
 
 As the investigators compared their findings, they realized they were all participants in the same system—a vast, largely unconscious implementation of divide and conquer principles.
 
-"We're not dealing with a conspiracy," David said during one of their online meetings. "We're dealing with something worse—an emergent system that implements these control principles automatically."
+"We're not dealing with a conspiracy," David said during one of their online meetings. "We're dealing with something worse—an emergent system that implements these control principles automatically. But here's what's really unsettling: these principles are too sophisticated, too comprehensive, and too ancient to be the product of any single generation of human elites. It's as if the system is running on code written by someone who understood human psychology at a level that transcends individual lifetimes of observation."
 
 **The Automated Implementation**: Modern systems had automated the elite alliance pattern:
 *   **Political systems** automatically implement divide-and-conquer strategies through wedge issues

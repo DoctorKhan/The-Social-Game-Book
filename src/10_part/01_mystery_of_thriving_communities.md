@@ -44,7 +44,9 @@ It wasn't rigid scheduling or mandatory attendance. It was the natural pulsing o
 
 From the grackles' sunset formations to Hawaii's "flow," Bali's nested ceremonies, and the festival's cycles, the evidence pointed to the same pattern: thriving communities move to a beat that feels organic, not mechanical.
 
-But if this rhythm is so fundamental, how did modern society lose it? And who benefits from the disconnect? The investigators knew they needed to dig deeper, to pool their insights and examine the crime scene of modern social breakdown. Their isolated clues were just the beginning.
+But if this rhythm is so fundamental, how did modern society lose it? And who benefits from the disconnect? The investigators sensed they were touching something ancient—patterns that felt less like recent innovations and more like echoes of a much older human operating system. The grackles still remembered their natural coordination. Some human communities still carried fragments of this ancestral wisdom. But something had systematically disrupted these patterns in most of modern civilization.
+
+The investigators knew they needed to dig deeper, to pool their insights and examine the crime scene of modern social breakdown. Their isolated clues were just the beginning of a mystery that would lead them far deeper than they imagined.
 
 ---
 

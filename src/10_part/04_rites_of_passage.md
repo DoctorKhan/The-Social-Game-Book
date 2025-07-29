@@ -10,7 +10,7 @@
 
 **The Question**: Why do modern adults feel perpetually adolescent and directionless, and what crucial social technology have we lost?
 
-**Working Hypothesis**: The systematic dismantling of rites of passage has created a society of people who are biologically mature but psychologically stuck in extended adolescence, unable to access the confidence and purpose that comes from genuine initiation into adulthood.
+**Working Hypothesis**: The systematic dismantling of rites of passage has created a society of people who are biologically mature but psychologically stuck in extended adolescence, unable to access the confidence and purpose that comes from genuine initiation into adulthood. Modern society hasn't just dismantled these mechanisms; it has replaced them with counterfeit rituals. A university graduation or a corporate promotion isn't a rite of passage into sovereignty; it is an initiation ceremony into a larger system of compliance. We are being initiated, just not into our own power.
 
 ## Forensic Analysis: What We've Lost
 
@@ -145,7 +145,7 @@ This historical dismantling explains why modern society lacks meaningful rites o
 
 **Meaning Crisis**: Without connection to lineage and tradition, people must create meaning entirely from scratch, leading to existential anxiety and nihilism.
 
-**Institutional Dependency**: Each stage of community dismantling created greater dependence on external institutions—Church, corporation, state, digital platforms—rather than genuine human community.
+**Institutional Dependency**: Each stage of community dismantling created greater dependence on external institutions—Church, corporation, state, digital platforms—rather than genuine human community, making people more susceptible to top-down control and manufactured divisions.
 
 **Tribal Fragmentation**: Without shared initiation experiences rooted in family and community, society fragments into competing ideological groups with no common understanding of what constitutes genuine maturity.
 

@@ -79,6 +79,8 @@
 
 ### True Hierarchy (Service-Based)
 
+This is a hierarchy that mirrors the wisdom of a forest, where the tallest trees provide shelter for the smallest saplings. It is a structure of *nurturing*.
+
 **Purpose**: Facilitate learning, growth, and collective achievement
 
 **Authority Source**: Demonstrated competence, wisdom, and ability to serve others
@@ -94,6 +96,8 @@
 **Outcome**: Individual growth and collective flourishing
 
 ### False Hierarchy (Control-Based)
+
+This is the hierarchy of the machine, the pyramid of the slave-master. Its purpose is not to grow life, but to *extract energy* and enforce compliance.
 
 **Purpose**: Maintain power structures and prevent challenges to authority
 

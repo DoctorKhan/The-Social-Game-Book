@@ -98,6 +98,8 @@ Pizzagate wasn't unique—it established a pattern that continues with QAnon, el
 ## How Algorithms Exploit Human Psychology
 
 **Why Emotional Content Dominates:**
+The Algorithm does not think like a human. It is a cold, alien intelligence that sees human emotion as a resource to be harvested. It has learned, with terrifying precision, that the most efficient way to extract our energy is to keep us in a state of perpetual, low-grade conflict. It is the perfect, automated enforcer of the 'Divide and Conquer' imperative.
+
 Social media algorithms prioritize **emotional intensity** over information quality because emotions drive engagement. This is why:
 - **Angry or fearful content** spreads faster than calm analysis
 - **Outrage and controversy** generate more clicks than wisdom

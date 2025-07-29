@@ -4,7 +4,7 @@
 
 You live in a culture experiencing rapid amnesia. Elder wisdom dies with each generation while being replaced by corporate algorithms. Traditional rituals that once marked life transitions have been replaced by consumer milestones. The intergenerational knowledge that sustained human communities for millennia is being lost faster than it can be documented.
 
-But something remarkable is happening in response: **people are spontaneously creating new forms of sacred community**. This chapter explores how we can consciously participate in this cultural renaissance, learning from both ancient wisdom and modern experiments to build the resilient, meaningful communities the future requires.
+But something remarkable is happening in response: **people are spontaneously creating new forms of sacred community**. This is not just a nice social project. It is an act of **"re-wilding" our social instincts**. It is an attempt to rebuild the "ancestral template" that has been paved over by centuries of artificial social engineering. This chapter explores how we can consciously participate in this cultural renaissance, learning from both ancient wisdom and modern experiments to build the resilient, meaningful communities the future requires.
 
 ## The Festival Scene as Cultural Laboratory
 

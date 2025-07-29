@@ -12,7 +12,7 @@ He could see the games within games, the programming within programming, the sto
 
 **The Integration Problem**: How do you navigate daily life when you can see the manipulation but still need to buy groceries, maintain relationships, and contribute to society? How do you engage authentically when authenticity itself has been revealed as a construction?
 
-**The Solution**: Learning to live as a **conscious participant** in the endless game of existence—engaging fully while holding all positions lightly, participating without being trapped, playing the game while remembering it's a game.
+**The Solution**: Learning to live as a **conscious participant** in the endless game of existence—engaging fully while holding all positions lightly, participating without being trapped, playing the game while remembering it's a game. But as Marcus and the other investigators would soon discover, even this solution raised deeper questions about the nature of the game itself, and whether humanity had been playing by rules written by someone else entirely.
 
 ## Thought Experiments for the Conscious Participant
 
