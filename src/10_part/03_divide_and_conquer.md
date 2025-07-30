@@ -99,6 +99,8 @@ When the layoffs came, Jennifer had only vertical relationships to rely on. She 
 
 When horizontal bonds are severed, people become dependent on vertical relationships with institutions—exactly what enables top-down control. Jennifer's isolation wasn't a personal failure; it was the predictable result of decades of social change that served some interests (corporate profits, political control, individual freedom) while undermining others (community resilience, collective action, mutual aid).
 
+From the perspective of network science, the strategy being deployed is brutally clear: sever the resilient 'mesh' structure of a community and replace it with a fragile 'hub-and-spoke' model. In a healthy community mesh, every node (person) has multiple connections to other nodes, creating redundant pathways for support and information. If one connection fails, the network remains strong. The goal of atomization is to eliminate these horizontal bonds until each node is connected only to the central hub—the state, the corporation, the digital platform. An atomized individual is a node with only one connection, making them completely dependent on and controllable by the central system. It is the textbook method for making a network fragile.
+
 ### Manufactured Tribal Conflicts: The Coffee Shop Experiment
 
 To see how manufactured tribal conflicts work in practice, imagine walking into a coffee shop in any American town and overhearing three conversations happening simultaneously.
