@@ -1,4 +1,4 @@
-# Chapter 3: War Room Discovery - The Ancient Playbook
+# Chapter 6: War Room Discovery - The Ancient Playbook
 
 *Three months after David's flight home, the four investigators met for the first time in a rented conference room at the University of California, Berkeley. The walls were covered with whiteboards, timelines, and connection maps that looked more like a detective's murder board than academic research. Elena had driven down from San Francisco, Sarah had flown in from Seattle, and Marcus had taken a red-eye from New York.*
 

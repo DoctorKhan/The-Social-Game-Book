@@ -1,4 +1,4 @@
-# Chapter 8: The Principles of Liberation
+# Chapter 11: The Principles of Liberation
 
 *"The most potent weapon in the hands of the oppressor is the mind of the oppressed."* - Steve Biko
 

@@ -1,4 +1,4 @@
-# Investigator Roundtable: Who Benefits?
+# Chapter 9: Investigator Roundtable: Who Benefits?
 
 *Six months into their investigation, the four researchers reconvened in Elena's therapy office after hours. The walls were covered with flowcharts, timelines, and connection maps that looked more like a detective's murder board than academic research. They had traced the systematic dismantling of community structures, but the question that haunted them was becoming unavoidable: Was this intentional?*
 
