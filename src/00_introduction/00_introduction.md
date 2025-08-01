@@ -8,6 +8,8 @@ This is the **Grackle Phenomenon**—the paradox of a hyper-social species that 
 
 You wake up each morning in a world where something has gone terribly wrong with human social connection. Political discourse has devolved into tribal warfare. Economic systems concentrate wealth while promising prosperity. Social media platforms designed to "connect" us leave us feeling more isolated and anxious than ever. This isn't just another social problem. This is the systematic dismantling of humanity's most fundamental capacity: **the ability to form thriving communities.**
 
+We are living in a world built by fallen angels. Not in a theological sense, but in a systemic one. Our world was designed by its original guardians, but somewhere along the line, the guards decided to become the wardens. This book is a forensic analysis of the prison they built.
+
 ## The Investigators
 
 Our story begins with four individuals, each wrestling with a piece of this mystery from their unique vantage point. They didn't know each other, or that their isolated observations were fragments of a much larger puzzle.
