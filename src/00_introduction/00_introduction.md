@@ -4,6 +4,40 @@ Every evening in Austin, Texas, thousands of grackles perform a ritual that hold
 
 This is the **Grackle Phenomenon**—the paradox of a hyper-social species that has somehow lost the ability to create the very thing it needs most: authentic community. We are more connected than ever, yet loneliness and social fragmentation are at epidemic levels. It feels less like something we've forgotten, and more like something that was *taken* from us.
 
+## How to Use This Series: A Reader's Guide
+
+You are about to embark on a four-part journey into the nature of reality, consciousness, and human potential. Each book builds upon the last, guiding you from a clear diagnosis of our current world to the practical tools for personal liberation and a profound understanding of our cosmic purpose. For the most complete experience, we highly recommend reading them in the following order:
+
+---
+
+**Book 1: *The Social Game* (The Diagnosis)**
+This book provides an unflinching, evidence-based analysis of the external systems that shape our world. You will learn to see the invisible rules of the 'social game'—the political, economic, and technological forces that manufacture division and control. This is the essential first step: understanding the environment you are operating in.
+
+**Book 2: *Manual Override* (The Toolkit)**
+Having diagnosed the external game, we turn inward. This book is a practical user's manual for your own mind. You will learn the psychological tools to de-program your automatic reactions, reclaim your conscious choice, and achieve internal sovereignty.
+
+**Book 3: *The Human Experiment* (The Origin Story)**
+With the external landscape mapped and the internal toolkit in hand, you will be ready for the deepest part of the investigation: our origin story. This book explores the hidden history of humanity, revealing that we are part of a grand experiment.
+
+**Book 4: *The Cosmic Game* (The Ultimate Purpose)**
+Having understood our origins, we arrive at the final question: What is the meaning of it all? This capstone book reframes the entire human journey as a sacred game for the evolution of the soul.
+
+---
+
+**You are currently reading *The Social Game*.**
+
+**Welcome to the investigation.**
+
+---
+
+## This Book's Purpose: The Diagnosis
+
+This book is the diagnosis. We will not offer easy solutions here. The goal is to develop clear sight—to see the invisible rules of the social game that shapes our world. We will examine the sophisticated machinery of social control, identify the patterns that repeat across cultures and centuries, and understand the principles of resistance that can break these patterns.
+
+By the end of this investigation, you will have immunity to manipulation, clarity about the external forces shaping your life, and the framework for understanding why our social systems seem designed to divide rather than unite us.
+
+But understanding the game board is not enough. The most sophisticated mechanisms of control are not in our institutions, but inside our own minds. This diagnosis will prepare you for the internal work that follows.
+
 ## The Anomaly
 
 You wake up each morning with a sense that something doesn't add up. We have built astonishing networks of digital connection, yet we find ourselves in an epidemic of loneliness. We are drowning in data, yet starved for the wisdom to distinguish truth from fiction. We see communities founded with hope and shared values dissolve for reasons that defy conventional wisdom, while the rare ones that thrive seem to follow forgotten rules we no longer understand.

@@ -85,3 +85,17 @@ The social investigation has revealed the external machinery of control. But it 
 *The next investigation would take them not into the world around them, but into the world within them. Not into the systems that control society, but into the system that controls the individual mind.*
 
 *The social game was just the beginning. The real game was about to start.*
+
+---
+
+## The Journey Continues
+
+**We have now mapped the external control systems. We understand the rules of the Social Game.**
+
+But understanding the game board is not enough. The most sophisticated mechanisms of control are not in our institutions, but inside our own minds. The game is being played through our automatic reactions, our tribal loyalties, and our unconscious programming.
+
+**To find true freedom, we must now turn our investigation inward.**
+
+The journey continues in ***Manual Override: The Complete Guide to Consciousness and Community***, where you will learn the practical tools to reclaim conscious choice and achieve internal sovereignty.
+
+**The diagnosis is complete. The toolkit awaits.**
