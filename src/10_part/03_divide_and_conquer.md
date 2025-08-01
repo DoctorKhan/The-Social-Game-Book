@@ -24,6 +24,8 @@
 
 *David stared at the page, his hands trembling slightly. But even Machiavelli felt like a recent student of a much older school. This strategy wasn't just a political trick; it felt like a fundamental law of power, a kind of social physics that had been engineered into human civilization from its very foundation. It was too perfect, too ruthlessly effective, to be merely human.*
 
+*What David was discovering, though he didn't yet have the framework to understand it, was that this modern political playbook might not be a new invention at all. The patterns were too consistent, too sophisticated, too perfectly calibrated to human psychology. Someone—or some group—had been refining these techniques for a very long time.*
+
 **The Elite Alliance Pattern Revealed**
 
 David's research revealed the core mechanism behind divide and conquer: **Allying with a weaker group to turn them against a stronger group, thereby preventing the stronger group from challenging power.** This wasn't just ancient history; he saw it in action every day.

@@ -16,6 +16,8 @@ The master craftsman runs his fingers along the wood grain, feeling for imperfec
 
 **The Principle**: These weren't arbitrary power structures designed to keep people in their place. They were functional relationships based on the recognition that learning is a process, that wisdom accumulates over time, and that those who have traveled a path can guide others more effectively than those who are still finding their way.
 
+This distinction reveals something profound about human social organization: there are two fundamentally different approaches to structuring power relationships. One serves learning and growth; the other serves control and extraction. Understanding this difference is crucial for diagnosing what has gone wrong with our modern institutions.
+
 ### The Characteristics of True Hierarchy
 
 The difference between True and False Hierarchy is the difference between playing a game and being trapped in one. A True Hierarchy, like that of the temporary 'May King,' is one where everyone remembers they are playing. The 'king's' authority is a role, granted by the community for a specific purpose and duration. He never forgets he is a player.
