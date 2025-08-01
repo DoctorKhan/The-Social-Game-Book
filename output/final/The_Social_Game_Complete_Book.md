@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-**Compiled**: 2025-07-29 23:24:25
+**Compiled**: 2025-07-31 23:01:06
 
 ---
 
@@ -17,6 +17,8 @@ This is the **Grackle Phenomenon**—the paradox of a hyper-social species that 
 ## The Crime Scene
 
 You wake up each morning in a world where something has gone terribly wrong with human social connection. Political discourse has devolved into tribal warfare. Economic systems concentrate wealth while promising prosperity. Social media platforms designed to "connect" us leave us feeling more isolated and anxious than ever. This isn't just another social problem. This is the systematic dismantling of humanity's most fundamental capacity: **the ability to form thriving communities.**
+
+We are living in a world built by fallen angels. Not in a theological sense, but in a systemic one. Our world was designed by its original guardians, but somewhere along the line, the guards decided to become the wardens. This book is a forensic analysis of the prison they built.
 
 ## The Investigators
 
