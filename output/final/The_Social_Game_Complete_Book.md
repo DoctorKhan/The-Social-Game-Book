@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-**Compiled**: 2025-08-02 15:40:37
+**Compiled**: 2025-08-02 16:12:47
 
 ---
 
@@ -840,7 +840,7 @@ The uncomfortable answer they discovered was that we avoid these questions becau
 
 #### The Most Potent Act of Resistance
 
-The 'Divide and Conquer' strategy functions by getting us to see other people as one-dimensional caricatures—as members of an opposing tribe, as political opponents, as nothing more than their programmed beliefs. In essence, the control system *wants* you to see others as NPCs. It wants you to forget that behind the liberal or conservative programming, behind the frustrating social script, there is a complex, sovereign human being.
+The 'Divide and Conquer' strategy functions by getting us to see other people as one-dimensional caricatures—as members of an opposing tribe, as political opponents, as nothing more than their programmed beliefs. In essence, the control system's greatest victory is when you dismiss others as mere **Autopilots**. It *wants* you to forget that behind the liberal or conservative programming, behind the frustrating social script, there is a complex, sovereign human being.
 
 Therefore, the most potent act of social and political resistance is to refuse to do this. To consciously look for the Player behind the programming of your 'opponent' is a revolutionary act. It breaks the spell of the entire Divide and Conquer game. When you see the sovereign soul in the person you are supposed to hate, the control system loses all of its power over you.
 
