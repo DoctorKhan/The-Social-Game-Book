@@ -117,6 +117,16 @@ This book, *The Social Game*, is the first step in a three-part journey designed
 
 **We recommend reading them in this order for the most complete journey.**
 
+#### ⚠️ The Flotilla Principle: A Foundational Ethic
+
+Before we begin this investigation, we must establish a crucial ethical foundation. As you learn to see the systems of control and the patterns of programming that shape human behavior, you will face a critical choice: Will you use this knowledge to judge others, or to serve them?
+
+**The Flotilla Principle**: Imagine sailors who have learned to navigate treacherous waters. Instead of sailing alone in superiority, they lash their boats together, creating a stable platform that can weather storms no individual vessel could survive. They share navigation charts, point out dangerous currents to one another, and celebrate each successful passage together.
+
+**Your task is not to judge the other rafts, but to help them navigate.** When you see someone caught in the systems we'll explore—tribal programming, algorithmic manipulation, hierarchical control—remember that you too have been caught in these same currents. The goal is not to feel superior to those still struggling, but to extend a rope and share what you've learned.
+
+**This investigation is not about creating an elite of the "awakened" looking down on the "asleep." It is about building a flotilla of conscious beings helping each other navigate toward freedom.**
+
 #### Your Role in This Investigation
 
 This isn't about becoming cynical or withdrawing from society. It's about developing the detective skills to distinguish between authentic human connection and manufactured manipulation, between genuine community and artificial tribal identity.

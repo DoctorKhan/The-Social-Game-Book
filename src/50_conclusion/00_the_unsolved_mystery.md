@@ -110,13 +110,19 @@ The social investigation has revealed the external machinery of control. But it 
 
 ---
 
-#### The Journey Continues
+#### ⚠️ A Warning Before Proceeding
 
 **We have now mapped the external control systems. We understand the rules of the Social Game.**
 
 But understanding the game board is not enough. The most sophisticated mechanisms of control are not in our institutions, but inside our own minds. The game is being played through our automatic reactions, our tribal loyalties, and our unconscious programming.
 
 **To find true freedom, we must now turn our investigation inward.**
+
+However, the investigation that follows in *The Human Experiment* will challenge the foundations of your worldview. The tools in *Manual Override* are not optional; they are the required training to navigate the next phase of this journey without losing your psychological grounding.
+
+**Do not proceed to the origin story until you have developed a stable Observer.** The consciousness technologies in *Manual Override* are your psychological safety equipment for the deeper investigation ahead.
+
+#### The Journey Continues
 
 The journey continues in ***Manual Override: The Complete Guide to Consciousness and Community***, where you will learn the practical tools to reclaim conscious choice and achieve internal sovereignty.
 
