@@ -1,5 +1,5 @@
 ## Part 4: The Meta-Game
-# The Meta-Game
+# Part 4: The Meta-Game
 ## Playing Consciously
 
 You've journeyed through the personal game of consciousness versus programming, the social game of individual discernment versus collective conditioning, and the cultural game of human wisdom versus technological and ideological forces. At each level, you've learned to recognize the rules, see the players, and choose conscious participation over unconscious reaction.
