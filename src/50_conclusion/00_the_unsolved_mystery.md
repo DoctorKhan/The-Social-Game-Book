@@ -122,6 +122,10 @@ However, the investigation that follows in *The Human Experiment* will challenge
 
 **Do not proceed to the origin story until you have developed a stable Observer.** The consciousness technologies in *Manual Override* are your psychological safety equipment for the deeper investigation ahead.
 
+#### The Deeper Mystery
+
+The investigation into our social systems has revealed an external prison. But it begs a deeper question: why is our internal psychology so susceptible to this programming? What if the very evolution of our physical bodies and the development of our consciousness have been part of a single, interwoven story? What if our biology has been shaped not just by survival, but by the curriculum our souls came here to learn? This question of co-evolution—of the body shaping the soul, and the soul calling for new forms of embodiment—is a mystery that takes us beyond the social game and into the very origins of what it means to be human.
+
 #### The Journey Continues
 
 The journey continues in ***Manual Override: The Complete Guide to Consciousness and Community***, where you will learn the practical tools to reclaim conscious choice and achieve internal sovereignty.
