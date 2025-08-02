@@ -1,4 +1,4 @@
-# Chapter 12: The Science of Sovereign Connection: Protocols for a Networked Civilization
+# Chapter 15: The Science of Sovereign Connection: Protocols for a Networked Civilization
 
 The investigators had completed their diagnosis of the Social Game and identified the principles of individual resistance. But as they prepared to conclude their investigation, a final question emerged—one that would determine whether their work would remain merely academic or become the foundation for genuine transformation.
 

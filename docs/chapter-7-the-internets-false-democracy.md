@@ -1,4 +1,4 @@
-# Chapter 6: The Internet's False Democracy
+# Chapter 7: The Internet's False Democracy
 
 The internet promised to democratize knowledge, flattening the hierarchies that had once hoarded wisdom. We celebrated this as progress. But what if this "democratization" has created one of the most profound sources of modern meaninglessness?
 
@@ -243,6 +243,3 @@ The internet's false democracy didn't just change how we access information—it
 
 
 
-
-
----

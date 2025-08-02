@@ -15,19 +15,23 @@ nav:
   - chapter-3-evidence-file-1-the-divide-and-conquer-phenomenon.md
   - chapter-4-true-hierarchy-vs-false-hierarchy.md
   - chapter-5-evidence-file-2-the-perpetual-adolescence-mystery.md
-  - chapter-6-the-internets-false-democracy.md
-  - chapter-7-part-2-the-modern-disruption.md
+  - chapter-6-war-room-discovery-the-ancient-playbook.md
+  - chapter-7-the-internets-false-democracy.md
+  - chapter-8-investigator-roundtable-the-lost-architecture.md
+- 'Part 2: The Modern Disruption':
+  - part-2-the-modern-disruption.md
+  - chapter-9-investigator-roundtable-who-benefits.md
 - 'Part 3: The Path Forward':
-  - part-2-the-path-forward.md
-  - chapter-8-cultural-analysis-1-the-science-authority-deception.md
+  - part-3-the-path-forward.md
+  - chapter-10-cultural-analysis-1-the-science-authority-deception.md
 - 'Part 4: The Meta-Game':
-  - part-3-the-meta-game.md
-  - chapter-9-the-principles-of-liberation.md
-  - chapter-10-conclusion-the-great-forgetting.md
-  - chapter-11-the-counter-strategy-principles-of-sovereign-community.md
-  - chapter-12-the-sovereign-mind-principles-of-internal-resistance.md
-  - chapter-13-the-science-of-sovereign-connection-protocols-for-a-networked-civilization.md
-  - chapter-14-glossary-of-terms.md
+  - part-4-the-meta-game.md
+  - chapter-11-the-principles-of-liberation.md
+  - chapter-12-conclusion-the-great-forgetting.md
+  - chapter-13-the-counter-strategy-principles-of-sovereign-community.md
+  - chapter-14-the-sovereign-mind-principles-of-internal-resistance.md
+  - chapter-15-the-science-of-sovereign-connection-protocols-for-a-networked-civilization.md
+  - chapter-16-glossary-of-terms.md
 - Downloads: downloads/index.md
 theme:
   name: material
