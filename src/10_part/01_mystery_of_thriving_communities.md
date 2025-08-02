@@ -1,4 +1,4 @@
-# Chapter 1: The Grackle Clue - The Rhythm of Belonging
+### Chapter 1: The Grackle Clue - The Rhythm of Belonging
 
 David Chen, the political consultant, felt the first pull of the mystery not in a polling data set, but standing on a street corner in Austin, watching the grackles. He'd spent his career studying human groups, manipulating their loyalties, predicting their behaviors. Yet, these birds, operating without polls or campaigns, seemed to achieve a level of social coordination and optimization that eluded his highly engineered human systems.
 
@@ -6,7 +6,7 @@ How did they find their flock? How did they reorganize so seamlessly? It sparked
 
 Meanwhile, miles away, other clues were waiting to be found by other investigators.
 
-## Evidence for the Lost Rhythm: Three Exhibits
+#### Evidence for the Lost Rhythm: Three Exhibits
 
 Evidence for this lost social rhythm is found wherever modern programming has not fully taken root. The investigators discovered three compelling exhibits that all pointed to the same conclusion:
 
@@ -19,7 +19,7 @@ In Bali, seemingly "inefficient" ceremonies are the very technology that builds 
 **Exhibit C: The Festival Cycle**
 Temporary events like Burning Man create profound connection through intense, rhythmic cycles of gathering and dispersal. The anticipation and preparation, the intense collaboration, the peak experiences, and the poignant dispersal mirror natural human patterns of coming together and separating. The temporary setting allows people to quickly find their "flock" without the pressure of permanence, demonstrating that the pressure for constant, permanent connection in modern life might be preventing natural social optimization.
 
-## Piecing Together the First Clues: Social Rhythm
+#### Piecing Together the First Clues: Social Rhythm
 
 Working independently, our investigators had each stumbled upon the same underlying principle: **Social Rhythm**.
 

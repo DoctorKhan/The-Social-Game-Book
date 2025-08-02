@@ -4,7 +4,7 @@
 
 ---
 
-## **WARNING: Do not attempt this journey alone.**
+#### **WARNING: Do not attempt this journey alone.**
 
 You have been shown evidence that the systems of our world are designed to isolate you. The single most powerful act of resistance you can perform is to consciously and deliberately break that isolation.
 
@@ -12,7 +12,7 @@ The information in these books can be psychologically destabilizing. Attempting 
 
 ---
 
-## The Isolation Strategy
+#### The Isolation Strategy
 
 Before we examine how social systems control us, understand this: **isolation is the primary weapon of control**. Every effective control system throughout history has used the same strategy:
 
@@ -30,11 +30,11 @@ This pattern appears everywhere:
 
 The investigation you're about to undertake will show you how these same patterns operate at a civilizational level. **The system's greatest fear is that you will find others who see what you see.**
 
-## Your First Mission: Find Your Crew
+#### Your First Mission: Find Your Crew
 
 **Objective:** To form a "Flotilla"—a small, trusted group of 2-4 individuals who will go through this material with you. This is your peer-to-peer support network, your reality-testing lab, and your co-investigative team.
 
-### Identifying Potential Flotilla Members
+##### Identifying Potential Flotilla Members
 
 **Who in your life has expressed that same feeling of "something is off"?**
 
@@ -50,7 +50,7 @@ Look for people who:
 
 **Do not try to convince anyone.** The right crew will not need convincing. They will feel a sense of recognition—the relief of finding others who share their questions and concerns.
 
-### The Flotilla Charter: Rules of Engagement
+##### The Flotilla Charter: Rules of Engagement
 
 For a Flotilla to be a safe harbor and not just another social game, it must operate by a clear set of protocols. Agree to these five rules before you begin:
 
@@ -66,7 +66,7 @@ For a Flotilla to be a safe harbor and not just another social game, it must ope
 >
 > **5. The Work is the Goal.** The purpose of gathering is to work through this material and its practical exercises together. While social connection will be a natural outcome, the primary focus is on the shared work of liberation.
 
-### First Meeting Agenda Template (90 Minutes)
+##### First Meeting Agenda Template (90 Minutes)
 
 **Objective:** To establish the container and begin the journey.
 
@@ -80,7 +80,7 @@ For a Flotilla to be a safe harbor and not just another social game, it must ope
 
 **5. Check-Out (15 min):** Go around the circle. Each person answers: "What is one insight you are taking with you from this meeting?" and "When shall we meet next?"
 
-### Questions for Your Flotilla (Chapter 1)
+##### Questions for Your Flotilla (Chapter 1)
 
 Use these questions to guide your first discussion:
 
@@ -94,26 +94,26 @@ Use these questions to guide your first discussion:
 
 5. **Commitment Level:** What hopes and concerns do you have about going through this material together? What do you need from this group to feel safe exploring challenging ideas?
 
-## The Flotilla Advantage
+#### The Flotilla Advantage
 
 Working through this material in a small group provides several crucial benefits:
 
-### Reality Testing
+##### Reality Testing
 When you encounter information that challenges your worldview, having trusted others to discuss it with prevents you from either dismissing it too quickly or accepting it too uncritically.
 
-### Emotional Support
+##### Emotional Support
 The process of awakening to social control systems can be emotionally intense. Having others who understand what you're going through prevents isolation and despair.
 
-### Diverse Perspectives
+##### Diverse Perspectives
 Each person brings their own background, insights, and blind spots. This diversity strengthens the investigation and prevents groupthink.
 
-### Accountability
+##### Accountability
 It's easy to read about consciousness practices and never implement them. A Flotilla creates gentle accountability for actually doing the work.
 
-### Collective Wisdom
+##### Collective Wisdom
 The insights that emerge from group discussion often exceed what any individual could discover alone. The whole becomes greater than the sum of its parts.
 
-## A Note on Group Dynamics
+#### A Note on Group Dynamics
 
 **Beware of these common pitfalls:**
 
@@ -125,7 +125,7 @@ The insights that emerge from group discussion often exceed what any individual 
 
 **Remember:** The goal is not to create another insular group, but to develop the skills and support needed to engage more consciously with the wider world.
 
-## Your Assignment Before Continuing
+#### Your Assignment Before Continuing
 
 **Do not proceed to Chapter 2 until you have:**
 
@@ -140,7 +140,7 @@ This is not optional. The material ahead is designed to be processed in communit
 
 ---
 
-## The Deeper Purpose
+#### The Deeper Purpose
 
 Finding your Flotilla is not just about safety—it's about modeling the solution. The social control systems we'll investigate thrive on isolation and division. By consciously creating small, trusted communities based on mutual support and shared inquiry, you are already beginning to build the alternative.
 

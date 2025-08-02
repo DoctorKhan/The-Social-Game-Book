@@ -1,4 +1,4 @@
-# Part 1: The Lost Art of Community
+## Part 1: The Lost Art of Community
 ## Clues from Thriving Communities
 
 *"Before we can solve the crisis, we must understand what was stolen. What does authentic community actually look like?"*

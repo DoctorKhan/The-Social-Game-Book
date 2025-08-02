@@ -1,4 +1,4 @@
-# Chapter 9: Investigator Roundtable: Who Benefits?
+### Chapter 9: Investigator Roundtable: Who Benefits?
 
 *Six months into their investigation, the four researchers reconvened in Elena's therapy office after hours. The walls were covered with flowcharts, timelines, and connection maps that looked more like a detective's murder board than academic research. They had traced the systematic dismantling of community structures, but the question that haunted them was becoming unavoidable: Was this intentional?*
 
@@ -20,7 +20,7 @@
 
 **David**: "But systems don't create themselves. Someone designed the algorithms, wrote the policies, built the institutions. Even if it's emergent now, it had to start somewhere."
 
-## The Beneficiary Analysis
+#### The Beneficiary Analysis
 
 **Sarah**: "I've been mapping the flow of benefits from social fragmentation. The patterns are clear, even if the intentions aren't."
 
@@ -36,7 +36,7 @@
 
 **Sarah**: "That's what I'm seeing in the data. Each system is locally rational—social media algorithms maximize engagement, financial systems maximize profit, political systems maximize votes. But the global effect is the systematic erosion of social bonds."
 
-## The Historical Pattern
+#### The Historical Pattern
 
 **Elena**: "I've been researching historical precedents. This isn't the first time human communities have been systematically disrupted. The enclosure movement in England, the destruction of indigenous communities, the urbanization of rural populations—there's a pattern."
 
@@ -52,7 +52,7 @@
 
 **Marcus**: "It's like an autoimmune disease. The systems that were supposed to serve us have turned against the social bonds that keep us healthy."
 
-## The Acceleration Question
+#### The Acceleration Question
 
 **David**: "But why is it accelerating now? Why does it feel like we're reaching a breaking point?"
 
@@ -64,7 +64,7 @@
 
 **David**: "So what do we do? How do you fight a system that has no central control?"
 
-## The Resistance Question
+#### The Resistance Question
 
 **Sarah**: "We study the exceptions. The communities that are thriving, the systems that are working, the people who have figured out how to maintain connection in a fragmenting world."
 
@@ -74,7 +74,7 @@
 
 **David**: "Which brings us to Part 3. If we understand what we've lost and how we lost it, the question becomes: how do we build something better?"
 
-## The Path Forward
+#### The Path Forward
 
 **Elena**: "I think the key insight is that we're not fighting people—we're fighting systems. And systems can be changed."
 
@@ -86,7 +86,7 @@
 
 ---
 
-## Key Insights for Part 3
+#### Key Insights for Part 3
 
 As the investigators prepared to shift from diagnosis to prescription, they identified several crucial insights:
 

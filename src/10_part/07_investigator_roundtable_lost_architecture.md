@@ -1,4 +1,4 @@
-# Chapter 8: Investigator Roundtable: The Lost Architecture
+### Chapter 8: Investigator Roundtable: The Lost Architecture
 
 *The four investigators sat around a table covered with research notes, photographs from Bali and Burning Man, algorithm flowcharts, and psychological assessment data. After months of independent research, they had finally come together to synthesize their findings. The evidence was compelling, but the implications were unsettling.*
 
@@ -40,7 +40,7 @@
 
 ---
 
-## Key Questions for Part 2
+#### Key Questions for Part 2
 
 As the investigators prepared to dive deeper into the modern disruption, they identified the critical questions that would guide their next phase of research:
 

@@ -4,7 +4,7 @@
 
 ---
 
-## Why Start with Direct Experience?
+#### Why Start with Direct Experience?
 
 Most people approach information about social control in one of two ways:
 1. **Immediate Belief:** "Yes! This explains everything!" (Confirmation bias)
@@ -14,7 +14,7 @@ Both responses prevent genuine investigation. This 30-day protocol bypasses your
 
 **The goal is not to prove or disprove anything, but to develop the skill of conscious observation.**
 
-## The Pattern Detective Mindset
+#### The Pattern Detective Mindset
 
 For the next 30 days, you are a field researcher studying the behavior of a fascinating species: yourself. You will observe your own reactions, impulses, and behaviors with the curiosity of a scientist and the compassion of a wise friend.
 
@@ -24,9 +24,9 @@ For the next 30 days, you are a field researcher studying the behavior of a fasc
 - **Small data points reveal large systems**
 - **Your experience is valid evidence**
 
-## Week 1: Attention Hijacking Patterns
+#### Week 1: Attention Hijacking Patterns
 
-### Daily Practice: The Attention Audit
+##### Daily Practice: The Attention Audit
 
 **Objective:** To observe how your attention is captured, directed, and monetized without your conscious consent.
 
@@ -58,15 +58,15 @@ Evening Reflection:
 - Most surprising capture: _______
 ```
 
-### Week 1 Flotilla Questions:
+##### Week 1 Flotilla Questions:
 1. What patterns did you notice in how your attention gets hijacked?
 2. Which platforms/activities are most effective at capturing your focus?
 3. How did it feel to observe your attention patterns without judgment?
 4. What surprised you most about where your attention actually goes?
 
-## Week 2: Emotional Manipulation Patterns
+#### Week 2: Emotional Manipulation Patterns
 
-### Daily Practice: The Emotional Weather Report
+##### Daily Practice: The Emotional Weather Report
 
 **Objective:** To observe how external stimuli are designed to trigger specific emotional states that influence your behavior.
 
@@ -103,15 +103,15 @@ Impulse: Update my own profile, apply for new jobs
 Action Taken: Spent 2 hours updating resume
 ```
 
-### Week 2 Flotilla Questions:
+##### Week 2 Flotilla Questions:
 1. Which types of content most reliably trigger strong emotional responses?
 2. How do different emotions lead to different behaviors (spending, scrolling, arguing, etc.)?
 3. Can you identify any patterns in how your emotions are being "farmed" for engagement or profit?
 4. What would change if you waited 10 minutes before acting on triggered emotions?
 
-## Week 3: Social Division Patterns
+#### Week 3: Social Division Patterns
 
-### Daily Practice: The Polarization Monitor
+##### Daily Practice: The Polarization Monitor
 
 **Objective:** To observe how social and media systems amplify division and reduce complex issues to binary choices.
 
@@ -148,15 +148,15 @@ Personal Polarization Moments:
 - Wanted to "educate" someone about ___
 ```
 
-### Week 3 Flotilla Questions:
+##### Week 3 Flotilla Questions:
 1. Where do you see the most effective division-creation happening?
 2. Which topics make you most likely to think in "us vs. them" terms?
 3. How does it feel to notice your own tribal reactions without acting on them?
 4. Can you think of examples where you've seen nuanced issues artificially polarized?
 
-## Week 4: Behavioral Programming Patterns
+#### Week 4: Behavioral Programming Patterns
 
-### Daily Practice: The Choice Audit
+##### Daily Practice: The Choice Audit
 
 **Objective:** To observe how your choices are influenced by systems designed to shape behavior in specific directions.
 
@@ -198,15 +198,15 @@ Default Behaviors Noticed:
 - Bought suggested add-on items at checkout
 ```
 
-### Week 4 Flotilla Questions:
+##### Week 4 Flotilla Questions:
 1. How often do you choose from presented options vs. creating your own options?
 2. Which systems are most effective at influencing your behavior without you noticing?
 3. What would change if you paused before every significant choice to ask "Who benefits from this?"
 4. Where do you see the biggest gaps between your stated values and your actual choices?
 
-## Integration Week: Pattern Recognition
+#### Integration Week: Pattern Recognition
 
-### Synthesis Practice: Connecting the Dots
+##### Synthesis Practice: Connecting the Dots
 
 **Objective:** To see how the individual patterns you've observed connect into larger systems of influence and control.
 
@@ -224,7 +224,7 @@ Default Behaviors Noticed:
    - Which influences serve your authentic interests vs. others' interests
    - What changes you want to make based on your observations
 
-### Final Flotilla Discussion:
+##### Final Flotilla Discussion:
 
 **Integration Questions:**
 1. **Biggest Surprises:** What did you discover about yourself and social systems that you didn't expect?
@@ -233,7 +233,7 @@ Default Behaviors Noticed:
 4. **Sovereignty Opportunities:** Where do you see the biggest opportunities to reclaim conscious choice?
 5. **System Design:** If you were designing systems to influence behavior, what would you do differently based on what you learned?
 
-## Your Investigation Report
+#### Your Investigation Report
 
 At the end of 30 days, compile a brief "Investigation Report" for yourself:
 
@@ -253,7 +253,7 @@ At the end of 30 days, compile a brief "Investigation Report" for yourself:
 - Environmental changes to reduce unconscious influence
 - Community strategies to support mutual awareness
 
-## Why This Investigation Matters
+#### Why This Investigation Matters
 
 By completing this 30-day protocol, you will have:
 - **Developed the skill of conscious observation** without reactive judgment

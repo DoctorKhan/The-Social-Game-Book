@@ -1,4 +1,4 @@
-# Part 4: The Meta-Game
+## Part 4: The Meta-Game
 # The Meta-Game
 ## Playing Consciously
 

@@ -1,4 +1,4 @@
-# Part 2: The Modern Disruption
+## Part 2: The Modern Disruption
 ## The Investigation: Uncovering the Crime Scene
 
 *"Now that we know what healthy community looks like, let's investigate the systematic forces that dismantled it, and uncover the playbook of the perpetrators."*
