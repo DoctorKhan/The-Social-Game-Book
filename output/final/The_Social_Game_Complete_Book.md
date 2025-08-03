@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-**Compiled**: 2025-08-03 00:03:58
+**Compiled**: 2025-08-03 12:36:45
 
 ---
 
@@ -212,11 +212,17 @@ The investigation you're about to undertake will show you how these same pattern
 **Who in your life has expressed that same feeling of "something is off"?**
 
 Look for people who:
+
 - Question mainstream narratives without being conspiracy theorists
+
 - Feel spiritually curious but aren't satisfied with traditional religion
+
 - Express frustration with political polarization and social division
+
 - Show interest in personal growth and consciousness development
+
 - Demonstrate intellectual honesty and emotional maturity
+
 - Have expressed feeling isolated or "different" from mainstream culture
 
 **Trust your intuition.** Send them the introduction to this book and simply ask, "Does this resonate with you?"
