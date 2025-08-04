@@ -22,6 +22,7 @@ Before we examine how social systems control us, understand this: **isolation is
 4. **Provide** artificial solutions that increase dependency
 
 This pattern appears everywhere:
+
 - **Cults** isolate members from family and friends
 - **Abusive relationships** cut victims off from support systems
 - **Totalitarian regimes** break down community bonds
@@ -41,15 +42,10 @@ The investigation you're about to undertake will show you how these same pattern
 Look for people who:
 
 - Question mainstream narratives without being conspiracy theorists
-
 - Feel spiritually curious but aren't satisfied with traditional religion
-
 - Express frustration with political polarization and social division
-
 - Show interest in personal growth and consciousness development
-
 - Demonstrate intellectual honesty and emotional maturity
-
 - Have expressed feeling isolated or "different" from mainstream culture
 
 **Trust your intuition.** Send them the introduction to this book and simply ask, "Does this resonate with you?"
