@@ -62,7 +62,7 @@ This approach prevents the "fine print" exploitation that characterizes most cur
 
 #### Principle 3: Game Theory for Win-Win Protocols (The "What")
 
-We use game theory not for competition, but for cooperation. When designing an "API" to connect with a city, region, or larger system, the community must design the rules so that the only logical interaction is a "positive-sum" or "win-win" game.
+Here, we reclaim the essence of play at a civilizational level. We consciously use the principles of game theory not for competition, but to design better, more life-affirming games. When designing an "API" to connect with a city, region, or larger system, the community must design the rules so that the only logical interaction is a "positive-sum" or "win-win" game—a game that all players want to continue playing because it benefits everyone involved.
 
 **Example: Community Waste-Recycling Contract**
 A community designs a waste-recycling contract with a city. The community gets paid to turn the city's organic waste into high-quality compost, which it then uses for its own food production. The city solves its waste problem and reduces landfill costs. The community creates a valuable resource and generates income. Both sides win.

@@ -25,7 +25,7 @@ Watch someone in a job interview, she thought. They automatically adjust their p
 
 *David's investigation into traditional societies revealed the most crucial pillar of all.* The final and most crucial pillar of natural belonging was humanity's capacity for **playful sovereignty**. Anthropological evidence suggests that for millennia, human societies treated their social structures not as rigid, permanent realities, but as imaginative games. A community might appoint a 'May King' for a festival, granting him absolute ritual authority, only for him to return to being a regular villager the next day. They experimented with different modes of being, understanding that hierarchy, like any game, was a temporary and consensual reality.
 
-This was the ultimate expression of the Gardeners' neotenous design: a species that never lost the child's ability to say, 'Let's pretend.' This social flexibility was our greatest strength, allowing us to adapt, innovate, and prevent any single power structure from becoming permanent. It was a cultural immune system against tyranny.
+This was the ultimate expression of our neotenous design: a species that never lost the child's ability to say, 'Let's pretend.' This social flexibility was our greatest strength, allowing us to adapt, innovate, and prevent any single power structure from becoming permanent. They understood a profound secret we have forgotten: **true power lies not in winning the current game, but in remembering that you have the freedom to change the rules and play a different one.** It was a cultural immune system against tyranny, rooted in the joyful seriousness of play.
 
 #### Piecing Together Part I: The Lost Architecture of Thriving
 

@@ -38,7 +38,7 @@ Just as the Social Game uses predictable external strategies, it also relies on 
 
 **How It's Exploited**: The Social Game creates artificial identities—political, cultural, professional, consumer—that people defend as if they were defending their lives, making them predictable and manipulable.
 
-**The Resistance Principle**: Develop identity flexibility—the ability to hold your various roles and identities lightly, recognizing them as useful tools rather than fixed definitions of who you are.
+**The Resistance Principle**: Develop identity flexibility—the ability to hold your various roles and identities lightly, recognizing them as useful tools rather than fixed definitions of who you are. This is the essence of play: recognizing that you are the player, not the role you are playing. An identity is a costume you can wear to participate in a specific game, but true sovereignty comes from knowing you can take the costume off.
 
 **Practical Application**: Notice when you feel defensive about your political views, professional status, lifestyle choices, or group memberships. Practice holding these identities as temporary roles rather than permanent definitions of your worth.
 
