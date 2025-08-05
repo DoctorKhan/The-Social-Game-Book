@@ -267,4 +267,4 @@ Most importantly, you will have proven to yourself that you can observe your own
 
 ---
 
-*In the next chapter, we'll examine the grackle phenomenon and what it reveals about natural vs. artificial social systems. But now you'll read it with the eyes of someone who has already observed these patterns operating in your own life.*
+*Having completed this 30-day investigation, you now have direct evidence of how social programming operates in your own life. You're ready to examine the broader patterns with the eyes of someone who has already observed these dynamics firsthand.*

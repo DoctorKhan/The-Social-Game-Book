@@ -1,4 +1,4 @@
-### Chapter 5: Evidence File #2: The Perpetual Adolescence Mystery
+### Chapter 5: The Purpose of Passage
 
 Evidence from our own biology reveals a startling paradox. Humans are a profoundly **neotenous** species; we retain the physical and psychological traits of juveniles—curiosity, flexibility, a long learning period—well into adulthood. Biologically, we are designed to be perpetual adolescents.
 

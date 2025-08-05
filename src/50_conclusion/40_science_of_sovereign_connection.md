@@ -1,4 +1,4 @@
-### Chapter 15: The Science of Sovereign Connection: Protocols for a Networked Civilization
+### Chapter 13: The Science of Sovereign Connection - Protocols for a Networked Civilization
 
 The investigators had completed their diagnosis of the Social Game and identified the principles of individual resistance. But as they prepared to conclude their investigation, a final question emerged—one that would determine whether their work would remain merely academic or become the foundation for genuine transformation.
 
@@ -117,7 +117,7 @@ This approach is grounded in the best available knowledge from multiple scientif
 
 We stand at a historical crossroads. The old systems of centralized control are failing, creating chaos and suffering. We can respond with fear and retreat into isolation, or we can respond with wisdom and build the networked civilization that our species is ready for.
 
-The grackles show us that complex coordination is possible without centralized control. The thriving communities around the world show us that human-scale organization can work. The science exists to scale these solutions.
+Nature shows us that complex coordination is possible without centralized control. The thriving communities around the world show us that human-scale organization can work. The science exists to scale these solutions.
 
 What we need now is the courage to build them.
 

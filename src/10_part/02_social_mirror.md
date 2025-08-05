@@ -1,4 +1,4 @@
-### Chapter 2: The Architecture of Natural Belonging
+### Chapter 4: The Architecture of Natural Belonging
 
 As the investigators compared their initial findings about social rhythm, another question emerged: How do individuals find their place *within* a thriving community? Their separate paths led them to examine the deep, often invisible, processes that create authentic belonging—and how the systematic destruction of these processes makes people vulnerable to the manipulation detailed in Part 2.
 

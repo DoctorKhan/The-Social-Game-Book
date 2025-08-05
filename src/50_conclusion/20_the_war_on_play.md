@@ -1,4 +1,4 @@
-### Chapter 15.5: The War on Play
+### Chapter 10: The War on Play - Reclaiming Our Sovereign Nature
 
 As we assemble the clues from our investigation, the nature of the crime becomes chillingly clear. The manufactured divisions, the false hierarchies, the endless cycles of outrage—these are not separate tactics. They are fronts in a single, ancient war: **a war against human play.**
 

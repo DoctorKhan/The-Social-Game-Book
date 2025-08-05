@@ -1,4 +1,4 @@
-### Chapter 12: Conclusion: The Great Forgetting
+### Epilogue: The Unsolved Mystery
 
 The investigation is complete. The evidence, from the seasonal kingdoms of our ancestors to the frozen hierarchies of the modern corporation, points to a single, devastating conclusion. The ultimate tragedy of the Social Game is not that we are being manipulated. It is that we have **forgotten we were ever playing.**
 

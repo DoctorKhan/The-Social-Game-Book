@@ -1,4 +1,4 @@
-### Chapter 14: The Sovereign Mind - Principles of Internal Resistance
+### Chapter 11: Principles of the Sovereign Mind
 
 The investigators arrived at a crucial realization: liberation from the external game is impossible without first addressing the game being played within our own minds. The most sophisticated prison is the one where the prisoners guard themselves.
 

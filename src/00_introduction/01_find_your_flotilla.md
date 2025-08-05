@@ -154,4 +154,4 @@ Welcome to the resistance. It begins with connection.
 
 ---
 
-*Once you have established your Flotilla, you are ready to begin the investigation. In the next chapter, we'll examine the first piece of evidence: the grackle phenomenon and what it reveals about natural vs. artificial social systems.*
+*Once you have established your Flotilla, you are ready to begin the investigation. The next chapter will provide a systematic protocol for observing social programming patterns in your own life.*

@@ -7,10 +7,6 @@ Our investigation begins not with the crime scene, but with looking for clues ab
 
 Our investigators, working independently, each stumbled upon pieces of this puzzle in unexpected places.
 
-David Chen, the political consultant, felt the first pull of the mystery not in a polling data set, but standing on a street corner in Austin, watching the grackles. He'd spent his career studying human groups, manipulating their loyalties, predicting their behaviors. Yet, these birds, operating without polls or campaigns, seemed to achieve a level of social coordination and optimization that eluded his highly engineered human systems.
-
-How did they find their flock? How did they reorganize so seamlessly? It sparked a question that gnawed at him: What fundamental human social intelligence had we lost?
-
-Meanwhile, miles away, other clues were waiting to be found by other investigators.
+Our investigators, working independently, each stumbled upon pieces of this puzzle in unexpected places. David's grackle observation in Austin, Sarah's discovery of natural social rhythm in Hawaii, Elena's experience of authentic community at Burning Man, and Marcus's encounter with resilient social architecture in Bali—all pointed to the same conclusion: the patterns of healthy community still exist, but they've been systematically disrupted in modern civilization.
 
 ---

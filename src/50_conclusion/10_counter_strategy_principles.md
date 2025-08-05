@@ -1,4 +1,4 @@
-### Chapter 13: The Counter-Strategy - Principles of Sovereign Community
+### Chapter 12: The Counter-Strategy - Principles of Sovereign Community
 
 Having documented the mechanisms of the Social Game, our investigators faced the crucial question: Is resistance possible? The answer lies in understanding the system's fundamental weakness: **it depends entirely on our unconscious participation.**
 

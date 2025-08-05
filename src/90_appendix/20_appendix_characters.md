@@ -1,6 +1,6 @@
 # The Investigators
 
-**David Chen:** A political consultant who saw how the strategies he used to win elections systematically divided people. Watching the grackles, he felt the first pull of the mystery: How did these birds achieve the social coordination that eluded his highly engineered human systems?
+**David Chen:** A political consultant who saw how the strategies he used to win elections systematically divided people. His observation of natural social coordination sparked the central question: What fundamental human social intelligence have we lost?
 
 **Sarah Kim:** An algorithm designer who saw how the technology she built was exploiting psychological vulnerabilities. A sabbatical in Hawaii, a place with limited cell service, revealed something profound about human connection.
 
