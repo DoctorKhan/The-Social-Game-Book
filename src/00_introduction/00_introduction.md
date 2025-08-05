@@ -54,14 +54,11 @@ The question is not "Who is to blame?" but "What is the pattern, and what does i
 
 #### The Investigators
 
-Our story begins with four individuals, each wrestling with a piece of this mystery from their unique vantage point. They didn't know each other, or that their isolated observations were fragments of a much larger puzzle.
+This book follows the trail of four investigators, each initially working in isolation, who saw a different piece of the puzzle. A political consultant in Austin, a therapist in San Francisco, an algorithm designer in Seattle, and a corporate trainer in Bali. They didn't know their individual questions—about flocking birds, fleeting communities, addictive technologies, and resilient societies—were all pointing to the same, unsettling pattern.
 
-*   **David Chen:** A political consultant who saw how the strategies he used to win elections systematically divided people. Watching the grackles, he felt the first pull of the mystery: How did these birds achieve the social coordination that eluded his highly engineered human systems?
-*   **Sarah Kim:** An algorithm designer who saw how the technology she built was exploiting psychological vulnerabilities. A sabbatical in Hawaii, a place with limited cell service, revealed something profound about human connection.
-*   **Elena Vasquez:** A therapist who saw how her patients were trapped in a cycle of performance and isolation. At Burning Man, she found a fleeting but powerful sense of belonging that held clues to our natural rhythms.
-*   **Marcus Thompson:** A corporate trainer who saw how modern institutions undermined genuine leadership. In Bali, he was captivated by a society that looked inefficient but created incredible resilience.
+Each had reached a breaking point in their professional life, a moment when the systems they had helped build or worked within revealed something deeply troubling about the nature of modern social coordination. Each had experienced a glimpse of something different—a moment of authentic connection or natural community that stood in stark contrast to the manufactured social environments they knew so well.
 
-This book is their investigation. We will follow them as their paths converge to piece together the clues.
+This is the story of their investigation as their paths converge to uncover the rules of the Social Game.
 
 ##### The Anomalies That Don't Add Up
 

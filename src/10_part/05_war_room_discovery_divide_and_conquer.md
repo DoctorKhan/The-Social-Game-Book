@@ -1,6 +1,8 @@
 ### Chapter 6: War Room Discovery - The Ancient Playbook
 
-*Three months after David's flight home, the four investigators met for the first time in a rented conference room at the University of California, Berkeley. The walls were covered with whiteboards, timelines, and connection maps that looked more like a detective's murder board than academic research. Elena had driven down from San Francisco, Sarah had flown in from Seattle, and Marcus had taken a red-eye from New York.*
+*Three months after David's grackle revelation, the four investigators met for the first time in a rented conference room at the University of California, Berkeley. The walls were covered with whiteboards, timelines, and connection maps that looked more like a detective's murder board than academic research. Elena had driven down from San Francisco, still processing her Burning Man insights. Sarah had flown in from Seattle, her notebooks from Hawaii tucked under her arm. Marcus had taken a red-eye from New York, his Balinese observations fresh in his mind.*
+
+*Each had been haunted by the same question from different angles: Why had they witnessed such profound social coordination in some contexts, while their professional lives were dominated by systems that seemed designed to fragment and isolate?*
 
 *David stood at the main whiteboard, marker in hand, looking at the scattered evidence they'd each brought. "We all see the same pattern," he said. "Communities fragmenting, people becoming isolated, systems that seem designed to keep us divided. But I think we're looking at something much older than social media."*
 
