@@ -7,6 +7,4 @@ Our investigation begins not with the crime scene, but with looking for clues ab
 
 Our investigators, working independently, each stumbled upon pieces of this puzzle in unexpected places.
 
-Our investigators, working independently, each stumbled upon pieces of this puzzle in unexpected places. David's grackle observation in Austin, Sarah's discovery of natural social rhythm in Hawaii, Elena's experience of authentic community at Burning Man, and Marcus's encounter with resilient social architecture in Bali—all pointed to the same conclusion: the patterns of healthy community still exist, but they've been systematically disrupted in modern civilization.
-
 ---
