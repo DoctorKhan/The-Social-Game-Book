@@ -42,13 +42,7 @@ Having identified the architects, we uncover the ultimate purpose behind the ent
 
 ---
 
-### The Flotilla Principle: A Foundational Ethic
 
-Before we begin, we must establish a crucial ethical foundation. As you learn to see the systems of control, you will face a choice: Will you use this knowledge to judge others or to serve them?
-
-Imagine sailors who have learned to navigate treacherous waters. Instead of sailing alone in superiority, they lash their boats together, creating a stable platform that can weather storms no individual vessel could survive.
-
-**Your task is not to judge the other rafts, but to help them navigate.** When you see someone caught in the systems we'll explore, remember that you too have been caught in these same currents. This investigation is not about creating an elite of the "awakened." It is about building a flotilla of conscious beings helping each other navigate toward freedom.
 
 ---
 
