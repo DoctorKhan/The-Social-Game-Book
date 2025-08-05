@@ -72,9 +72,9 @@ The patterns were too perfect. The manipulation techniques too precisely calibra
 
 **The external investigation is complete. You now understand the social game.**
 
-**But the internal investigation is just beginning. To understand why you're so susceptible to these systems, you need to investigate the system within your own mind.**
+**You have foundational tools—you can see your strings and manage emotional whirlpools. But the internal investigation is just beginning. To understand why you're so susceptible to these systems, you need to investigate the deeper system within your own mind.**
 
-**You need to understand your own programming. You need to find your own manual override.**
+**You need to understand your own programming. You need to develop your complete manual override.**
 
 **The social game investigation has ended. The consciousness investigation is about to begin.**
 
@@ -191,9 +191,9 @@ But understanding the game board is not enough. The most sophisticated mechanism
 
 **To find true freedom, we must now turn our investigation inward.**
 
-However, the investigation that follows in *The Human Experiment* will challenge the foundations of your worldview. The tools in *Manual Override* are not optional; they are the required training to navigate the next phase of this journey without losing your psychological grounding.
+However, the investigation that follows in *The Human Experiment* will challenge the foundations of your worldview. While you now have foundational tools for managing your internal state, the complete systematic training in *Manual Override* is essential for navigating the next phase of this journey without losing your psychological grounding.
 
-**Do not proceed to the origin story until you have developed a stable Observer.** The consciousness technologies in *Manual Override* are your psychological safety equipment for the deeper investigation ahead.
+**Do not proceed to the origin story until you have developed a stable Observer through the complete training.** The advanced consciousness technologies in *Manual Override* are your psychological safety equipment for the deeper investigation ahead.
 
 #### The Deepening Mystery
 
@@ -211,6 +211,6 @@ This question takes us beyond the social game and into the very origins of what 
 
 #### The Journey Continues
 
-The journey continues in ***Manual Override: The Complete Guide to Consciousness and Community***, where you will learn the practical tools to reclaim conscious choice and achieve internal sovereignty.
+The journey continues in ***Manual Override: The Complete Guide to Consciousness and Community***, where you will receive the complete, systematic training to achieve full internal sovereignty.
 
-**The diagnosis is complete. The toolkit awaits.**
+**The diagnosis is complete. You have foundational tools. The complete toolkit awaits.**

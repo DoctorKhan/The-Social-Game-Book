@@ -108,6 +108,8 @@ The social investigation had revealed the external game. But it pointed to a dee
 
 **Who, or what, first wrote the rules to the Social Game?**
 
+You now have the foundational tools to see your strings and manage emotional whirlpools. You understand how the Social Game operates and how your internal state affects the larger world. But this is just the beginning.
+
 The external investigation was complete. The internal investigation was about to begin.
 
-*The journey continues in **Manual Override: The Complete Guide to Consciousness and Community**, and the origin story is revealed in **The Human Experiment: A New Story for Humanity.***
+*The complete, systematic training for achieving full internal sovereignty awaits you in **Manual Override: The Complete Guide to Consciousness and Community**. The origin story behind all these patterns is revealed in **The Human Experiment: A New Story for Humanity.***
