@@ -33,6 +33,7 @@ At the meta-game level, all the paradoxes that seemed resolvable at lower levels
 The meta-game reveals the most sophisticated spiritual trap of all: the desire to integrate everything into a final, coherent position. This creates what we might call "integration as spiritual materialism"—using the language of transcendence to create a new, more subtle form of ego identity.
 
 Signs of the integration trap:
+
 - Feeling superior to those still "caught in stories"
 - Using meta-awareness to avoid practical responsibilities
 - Collecting insights and experiences as spiritual trophies
@@ -53,6 +54,7 @@ In this final section, you'll learn:
 The deepest insight of the meta-game is that even the "meta-position" of seeing through all positions is itself a position. This leads to what we might call the **ultimate non-position**—a way of being that doesn't depend on any particular framework or identity.
 
 Characteristics of the non-position:
+
 - **Responsive** rather than reactive
 - **Flexible** rather than rigid  
 - **Curious** rather than certain
@@ -64,6 +66,7 @@ Characteristics of the non-position:
 At the meta-game level, the ultimate structure becomes clear: free will operates as **information from one level above** wherever you're currently identified. Each level of consciousness experiences the next level as miraculous freedom. As development continues, these levels get infinitely close together—the gap between mechanical and free, conditioned and spontaneous, approaches zero.
 
 This means:
+
 - Freedom is always available, but never where you expect to find it
 - It's always emerging from just beyond your current level of identification
 - The search for ultimate free will becomes like trying to catch your own shadow
@@ -80,6 +83,7 @@ Rather than seeking final answers, the meta-game involves learning to live comfo
 - What is the nature of consciousness?
 
 The art of not-knowing involves:
+
 - Maintaining curiosity without demanding answers
 - Acting decisively despite uncertainty
 - Holding beliefs lightly while living them fully

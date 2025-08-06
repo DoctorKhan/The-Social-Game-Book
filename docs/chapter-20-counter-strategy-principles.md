@@ -11,12 +11,14 @@ But first, they needed to understand the master strategy that underlies all the 
 As the investigators synthesized their findings, a chilling pattern emerged. Every control system throughout history—regardless of scale, context, or stated ideology—uses the same fundamental strategy:
 
 **The Four-Step Isolation Process:**
+
 1. **Separate** individuals from their natural support networks
 2. **Overwhelm** them with information and stimulation
 3. **Exhaust** their capacity for critical thinking through constant stress
 4. **Provide** artificial solutions that increase dependency
 
 This pattern appears everywhere:
+
 - **Cults** isolate members from family and friends
 - **Abusive relationships** cut victims off from support systems
 - **Totalitarian regimes** break down community bonds
@@ -156,6 +158,7 @@ As we assemble the clues from our investigation, the nature of the crime becomes
 Our species was designed to be neotenous, to learn and bond through the joyful, spontaneous creation of shared reality. This playful nature is the very source of our resilience, creativity, and sovereignty. A playful people cannot be easily controlled. They invent their own games, create their own meaning, and bond in ways that transcend institutional authority.
 
 The Social Game, therefore, is a system designed with one primary objective: to suppress, corrupt, and channel this playful instinct into predictable, profitable, and controllable forms. It replaced:
+
 - **Participatory Ritual** with **Passive Spectacle.**
 - **Creative Drama** with **Consumer Entertainment.**
 - **Community Sport** with **Gladiatorial Tribalism.**

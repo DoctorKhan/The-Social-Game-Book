@@ -95,6 +95,7 @@ The internet, however, has accelerated the collapse of True Hierarchy, creating 
 *Consider what we've lost in the flattening of all hierarchies. The relationship between master and apprentice was never just about information transfer—it was about wisdom transmission.*
 
 **What Traditional Mentorship Provided**:
+
 - **Modeling**: How to approach work, problems, and relationships
 - **Standards**: What excellence looks like and how to maintain it
 - **Values**: The ethics and principles that guide the craft
@@ -102,6 +103,7 @@ The internet, however, has accelerated the collapse of True Hierarchy, creating 
 - **Humility**: Recognition that there's always more to learn
 
 **What We Have Instead**:
+
 - **YouTube tutorials**: Information without context or wisdom
 - **Online courses**: Techniques without mentorship or feedback
 - **Credential programs**: Certificates without competence verification
@@ -114,6 +116,7 @@ The internet, however, has accelerated the collapse of True Hierarchy, creating 
 **The Mechanism**: The Dunning-Kruger effect describes the tendency for people with limited knowledge in a domain to overestimate their competence. They don't know enough to know what they don't know.
 
 **The Online Amplification**: Digital platforms amplify this effect by:
+
 - Removing gatekeepers and quality control
 - Rewarding confident assertions over careful analysis
 - Creating echo chambers that reinforce amateur opinions

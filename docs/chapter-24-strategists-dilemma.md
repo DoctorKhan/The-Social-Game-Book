@@ -31,6 +31,7 @@ The investigators began to envision a future that transcended the traditional re
 Imagine a world where **AI, the ultimate Clockmaker tool, manages the Sphere of the System**—optimizing global logistics, resource allocation, and infrastructure to create material abundance. This frees up humanity to **cultivate the Sphere of Kinship**—focusing on art, ritual, child-rearing, elder care, and local governance.
 
 In this vision:
+
 - AI handles the complex coordination that humans struggle with (supply chains, resource optimization, infrastructure management)
 - Humans focus on what we do best (creativity, relationship, meaning-making, wisdom cultivation)
 - The AI's prime directive would be to maximize local sovereignty rather than centralized control
@@ -41,18 +42,21 @@ In this vision:
 This isn't about escaping the system or reforming it. It's about building a better one that makes the old one obsolete. The strategy involves:
 
 **Phase 1: Build Local Resilience**
+
 - Form flotillas of conscious individuals
 - Develop local economic interdependence
 - Practice collective decision-making
 - Preserve and transmit traditional skills
 
 **Phase 2: Create Selective Interfaces**
+
 - Design clear protocols for engaging with larger systems
 - Maintain sovereignty while accessing beneficial resources
 - Build networks between resilient communities
 - Develop alternative economic and governance models
 
 **Phase 3: Scale Through Demonstration**
+
 - Prove that conscious communities can thrive
 - Attract others through example rather than evangelism
 - Share successful models and protocols

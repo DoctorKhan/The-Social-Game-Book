@@ -20,6 +20,7 @@ Our investigation has revealed that the Social Game operates on two interconnect
 **The Solution Framework**: You must achieve **cognitive independence**—the ability to observe your own mental programming, interrupt automatic reactions, and choose conscious responses based on your authentic values rather than installed conditioning.
 
 This involves:
+
 - **De-programming techniques** that help you recognize and interrupt social conditioning
 - **Attention training** that builds the mental stability needed to see through manipulation
 - **Emotional sovereignty** that reduces your need for external validation and tribal belonging
@@ -31,6 +32,7 @@ This involves:
 **The Solution Framework**: You must participate in creating **parallel systems**—economic, social, and cultural alternatives that serve human flourishing rather than elite control.
 
 This involves:
+
 - **Resilient communities** based on mutual aid rather than institutional dependency
 - **Local economic networks** that keep wealth circulating within communities
 - **Alternative information systems** that resist algorithmic manipulation

@@ -17,6 +17,7 @@ This is the innermost circle, representing your individual being—your body, yo
 This is the primary domain of *Manual Override*—the ability to observe your own mental and emotional patterns, interrupt automatic reactions, and choose conscious responses.
 
 **Healthy Self Sphere Characteristics:**
+
 - Emotional regulation and resilience
 - Clear boundaries and authentic self-expression
 - Ability to process stress without projecting it outward
@@ -28,6 +29,7 @@ This is the primary domain of *Manual Override*—the ability to observe your ow
 This is the middle circle, representing your direct, horizontal, high-trust relationships. It includes family (both blood and chosen), close friends, neighbors, and the small, resilient community networks we call "the Flotilla." It is the natural container for the individual. Its state of health is determined by **co-regulation, mutual aid, and authentic belonging**.
 
 **Healthy Kinship Sphere Characteristics:**
+
 - Mutual support and reciprocal care
 - Shared resources and skill-sharing
 - Conflict resolution through relationship rather than authority
@@ -39,6 +41,7 @@ This is the middle circle, representing your direct, horizontal, high-trust rela
 This is the outermost circle, representing large-scale, impersonal, vertical institutions—government, corporations, mass media, the global economy. This is the "Engine" and the domain of "The Rulers." Its state of health is determined by **organization, resource allocation, and (in its current form) control**.
 
 **System Sphere Functions:**
+
 - Large-scale coordination and infrastructure
 - Resource distribution across populations
 - Legal frameworks and social organization
@@ -108,6 +111,7 @@ The final stage of the collapse. The individual now stands alone, their need for
 **What We Have Now**: With the Sphere of Kinship gone, the individual stands naked and alone before the full force of the System. There is no buffer. There is no flotilla. There is only the isolated Self and the all-encompassing System.
 
 **The Consequences**:
+
 - Complete dependence on the System for economic survival
 - Social identity derived from System-provided roles and brands
 - Sense of self-worth tied to System-defined metrics of success
@@ -123,6 +127,7 @@ This created the Hollow Middle. The individual becomes completely dependent on t
 **The Perfect Control Mechanism**: A population of atomized individuals, starved for the belonging that was stolen from them, who will accept any surrogate tribe the System offers, no matter how toxic.
 
 **Examples of Surrogate Tribes**:
+
 - Political parties that demand absolute loyalty
 - Consumer brands that promise identity and belonging
 - Social media platforms that provide artificial community
@@ -134,6 +139,7 @@ This created the Hollow Middle. The individual becomes completely dependent on t
 **The Solution**: Consciously rebuild the Sphere of Kinship while developing the skills for healthy self-regulation and wise engagement with necessary System functions.
 
 **The Three-Sphere Strategy**:
+
 1. **Strengthen the Self**: Develop internal sovereignty and emotional regulation
 2. **Rebuild Kinship**: Create authentic community bonds and mutual aid networks
 3. **Engage the System Consciously**: Participate in necessary System functions without being controlled by them

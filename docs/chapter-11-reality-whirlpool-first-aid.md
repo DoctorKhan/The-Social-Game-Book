@@ -39,6 +39,7 @@ The key is to intervene as soon as you notice you're caught. There are three doo
 Use this door when the **physical sensation** of the emotion is strongest—the heat of anger, the vibration of fear, the emptiness of sadness. The goal is to stay with the physical sensation until your nervous system realizes it isn't a threat.
 
 **The Practice: Signal Adaptation**
+
 1. **Locate:** Drop your awareness out of the story and into your body. Where, specifically, do you feel the emotion? Is it a tightness in your throat? A pressure in your chest? Get precise.
 2. **Stay:** Instead of trying to eliminate the feeling, bring gentle, curious attention to the raw physical sensations. Observe it without judgment.
 3. **Breathe:** Gently direct your breath toward the area of sensation, as if creating space around it. This signals to your body that it's safe to be present with this energy.
@@ -49,6 +50,7 @@ Use this door when the **physical sensation** of the emotion is strongest—the 
 Use this door when the **looping thought or story** is most prominent. The goal is not to argue with the thought but to fundamentally change your relationship to it.
 
 **The Practice: The Compassionate Reframe**
+
 1. **Notice:** Recognize the specific thought that is hooking you. "I'm a failure." "This will never work."
 2. **Reframe:** This is the crucial move. Instead of hearing the thought as objective truth, reframe it as a part of you speaking. **"I am a failure"** becomes **"A part of me that feels like a failure is speaking right now."**
 3. **Listen:** Treat the thought as a messenger from a part of yourself. What is this part afraid of? What is it trying to protect you from? Listen with compassion, not belief.
@@ -59,6 +61,7 @@ Use this door when the **looping thought or story** is most prominent. The goal 
 Use this door when a whirlpool is **too intense** to engage with directly. The goal is to competitively occupy your awareness with a different, more compelling sensory input.
 
 **The Practice: Sensory Starvation**
+
 1. **Choose:** Select a simple, physical activity you can engage with using all your senses. Examples: walking, drinking tea, listening to music, or just feeling your feet on the floor.
 2. **Engage:** For 1-2 minutes, commit 100% of your attention to the sensory experience.
    * **Mindful Walking:** Feel the exact sensation of your foot lifting, moving, and pressing onto the ground. Notice the subtle shifts in balance.
@@ -75,6 +78,7 @@ The Three Doors give you emergency tools for escaping whirlpools in the moment. 
 Our investigators discovered a systematic way to architect your day for mental clarity and resilience:
 
 #### Zone 1: The Foundation Zone (Morning)
+
 * **Purpose:** To start the day with a clear mind and a regulated nervous system. This is your "clean zone" for building focus.
 * **Practices:**
   * No phone for the first 30-60 minutes.
@@ -82,24 +86,28 @@ Our investigators discovered a systematic way to architect your day for mental c
   * Set an Intention for the day.
 
 #### Zone 2: The Engagement Zone (Daytime)
+
 * **Purpose:** To skillfully navigate the "messy" world where whirlpools form.
 * **Practices:**
   * Micro-Resets: Use alarms to remind you to take 60-second breaks to use a "door."
   * Notice the Hook: Practice identifying the exact moment a whirlpool begins.
 
 #### Zone 3: The Integration Zone (Evening)
+
 * **Purpose:** To consciously discharge the mental and emotional energy of the day.
 * **Practices:**
   * Day Review (5 min): Without judgment, briefly review the day's whirlpools and moments of presence.
   * Body Scan: Lie down and allow stored tension to release.
 
 #### Zone 4: The Emergency Zone (As Needed)
+
 * **Purpose:** To rapidly stabilize yourself during moments of acute stress or panic.
 * **Practices:**
   * **The 5-4-3-2-1 Method:** Name 5 things you see, 4 you touch, 3 you hear, 2 you smell, 1 you taste.
   * **The STOP Technique:** Stop. Take a breath. Observe. Proceed.
 
 #### Zone 5: The Wind-Down Zone (Before Sleep)
+
 * **Purpose:** To prepare your mind and body for deep, restorative rest.
 * **Practices:**
   * Digital Sunset: No screens for the final 30-60 minutes.
@@ -159,6 +167,7 @@ The System thrives on your inability to self-regulate. It wants you to be a leak
 **Mastering your inner world is not an escape from the world's problems. It is the most direct and potent way to begin healing them.**
 
 When you exit a whirlpool:
+
 - You stop exporting stress to your loved ones
 - You model conscious response instead of unconscious reaction
 - You break the cycle that feeds systemic dysfunction
@@ -177,12 +186,14 @@ This is why the practices matter beyond personal peace. Every moment of consciou
 ---
 
 **Daily Practice:**
+
 1. **Morning Setup:** Choose which door you'll focus on practicing today (rotate through all three during the week)
 2. **Whirlpool Spotting:** Throughout the day, notice when you're caught in a thought-feeling loop
 3. **Door Practice:** Use your chosen door to exit the whirlpool
 4. **Evening Review:** Reflect on what worked and what was challenging
 
 **Weekly Integration:**
+
 - Which door felt most natural to you?
 - What patterns did you notice in your whirlpools?
 - How did your relationships change when you stopped exporting unresolved charge?

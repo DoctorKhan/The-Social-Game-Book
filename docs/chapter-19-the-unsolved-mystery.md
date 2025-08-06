@@ -135,11 +135,13 @@ The patterns were too perfect. The manipulation techniques too precisely calibra
 *She began drawing. "AI is the ultimate Clockmaker tool. Its proper function isn't to replace human judgment, but to build supportive scaffolding for human Gardens to grow."*
 
 **AI Manages the Engine Sphere:**
+
 - **Global Logistics**: Optimizing supply chains to eliminate waste and ensure abundance
 - **Resource Allocation**: Managing complex environmental and economic data for sustainability
 - **Infrastructure**: Running power grids, transport, and communication networks with flawless efficiency
 
 **Humans Cultivate the Kinship Sphere:**
+
 - **Art & Ritual**: Creating the deep, meaningful cultural life of the Balinese
 - **Child-Rearing & Elder Care**: Providing the presence and connection that is the foundation of healthy society
 - **Local Governance**: Making consensus-based decisions about their own communities, like the Subak system

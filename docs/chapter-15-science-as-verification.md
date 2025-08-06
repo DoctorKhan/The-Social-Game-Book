@@ -89,6 +89,7 @@ When Sarah tried to replicate a famous study in her field and found that the res
 **Scientism**: The belief that institutional science is the only source of truth and that questioning scientific authorities is anti-intellectual or dangerous.
 
 **How to Recognize Scientism:**
+
 - Appeals to authority rather than evidence ("Scientists say...")
 - Discourages independent verification ("Trust the experts")
 - Treats scientific conclusions as permanent truth rather than provisional findings
@@ -96,6 +97,7 @@ When Sarah tried to replicate a famous study in her field and found that the res
 - Conflates institutional positions with empirical evidence
 
 **How to Recognize Real Science:**
+
 - Provides specific, testable claims
 - Encourages independent verification
 - Acknowledges uncertainty and limitations
@@ -161,12 +163,14 @@ Since institutional science has been compromised in many areas, building indepen
 The ability to verify claims independently is inherently political because it threatens systems that depend on controlling information:
 
 **Why Elites Discourage Independent Verification:**
+
 - Independent verification can expose profitable lies
 - It reduces dependence on institutional authorities
 - It enables informed resistance to harmful policies
 - It creates alternative sources of credible information
 
 **Why Independent Verification is Essential for Freedom:**
+
 - It prevents manipulation through false information
 - It enables informed decision-making about personal and community choices
 - It provides tools for holding institutions accountable
@@ -175,6 +179,7 @@ The ability to verify claims independently is inherently political because it th
 #### Practical Guidelines for Scientific Thinking
 
 **Daily Practice:**
+
 - Question claims that seem too convenient for those making them
 - Look for specific, testable assertions rather than vague generalizations
 - Seek multiple independent sources before accepting important claims
@@ -182,6 +187,7 @@ The ability to verify claims independently is inherently political because it th
 - Pay attention to who benefits from you believing specific claims
 
 **Red Flags:**
+
 - Claims that can't be questioned without being labeled anti-science
 - Research funded by entities that profit from specific conclusions
 - Studies that can't be replicated or verified independently
@@ -189,6 +195,7 @@ The ability to verify claims independently is inherently political because it th
 - Pressure to accept conclusions without examining methods
 
 **Green Flags:**
+
 - Specific, testable claims with clear evidence
 - Research that can be independently verified
 - Acknowledgment of limitations and uncertainties

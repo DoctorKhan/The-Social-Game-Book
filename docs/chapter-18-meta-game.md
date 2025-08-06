@@ -30,6 +30,7 @@ The Meta-Game is the dance between these two forces—the eternal play between f
 The central paradox of the Meta-Game is that it cannot be "won" in any conventional sense. Every attempt to establish a final, ultimate position—even the position of "seeing through all games"—becomes itself another game.
 
 At this level, apparent opposites are recognized as complementary:
+
 - **Meaning and Meaninglessness**: Both are true simultaneously
 - **Free Will and Determinism**: Both describe valid aspects of experience
 - **Engagement and Detachment**: Both are necessary for conscious participation
@@ -46,6 +47,7 @@ The mature Meta-Game player learns to hold all positions lightly, using whatever
 If the Meta-Game cannot be won, what is its purpose? The goal is not to achieve a final state but to develop the capacity for **conscious participation in the ongoing dance of reality creation**.
 
 This involves:
+
 - **Fluid Perspective**: The ability to shift between different levels of analysis as appropriate
 - **Compassionate Engagement**: Full participation in the human drama while maintaining awareness of its constructed nature
 - **Creative Responsibility**: Conscious participation in the ongoing creation of reality rather than passive consumption of pre-existing meanings
@@ -68,6 +70,7 @@ In practical terms, living the Meta-Game means:
 Understanding the Meta-Game provides the deepest possible immunity to the Social Game. When you recognize that all social structures are temporary games, you can participate consciously rather than being unconsciously manipulated.
 
 You can:
+
 - **Play your roles** without being identified with them
 - **Engage with systems** without being controlled by them  
 - **Hold beliefs** without being trapped by them
@@ -86,6 +89,7 @@ The Meta-Game extends an invitation that transcends all other invitations: to pa
 This is not about becoming enlightened or awakened in any final sense. It is about becoming a conscious player in the ongoing game of reality creation—someone who can dance between form and formlessness, meaning and emptiness, engagement and detachment.
 
 You are invited to:
+
 - **Play fully** while holding lightly
 - **Create meaning** while recognizing its provisional nature
 - **Engage passionately** while maintaining perspective
