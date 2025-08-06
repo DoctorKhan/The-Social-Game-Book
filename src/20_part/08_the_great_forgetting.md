@@ -15,6 +15,7 @@ These weren't arbitrary power structures designed to keep people in their place.
 The nurturing relationship of master and apprentice was systematically replaced by the **False Hierarchy** of the modern corporation. Here, authority comes from appointed position, not competence. Information is hoarded as a tool of power, and loyalty to the system is valued over genuine skill.
 
 In False Hierarchy:
+
 - Authority is imposed from above rather than earned through service
 - Information flows downward as commands rather than upward as wisdom
 - The goal is compliance rather than competence

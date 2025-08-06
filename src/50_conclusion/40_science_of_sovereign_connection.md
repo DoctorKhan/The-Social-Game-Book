@@ -35,6 +35,7 @@ A city should not manage a neighborhood park—the neighborhood can do this more
 This principle protects local sovereignty by design. It prevents the concentration of power that inevitably leads to corruption and inefficiency. It also ensures that decisions are made by people who live with the consequences.
 
 **Modern Applications:**
+
 - **Education**: Local communities designing curricula that serve their children's needs while meeting basic competency standards
 - **Healthcare**: Community health programs that address local conditions while connecting to regional medical centers for specialized care  
 - **Economic Development**: Local businesses and cooperatives that serve community needs while trading with the broader economy
@@ -52,6 +53,7 @@ Sovereign communities must develop their own "social APIs"—transparent protoco
 "Our community welcomes trade. Here are our transparent protocols: We exchange our surplus organic vegetables for medical supplies. The exchange rate is published weekly based on actual production costs plus fair compensation for labor. All transactions are public record. We do not accept GMO products or engage in debt-based finance. We reserve the right to refuse trades that conflict with our community values."
 
 **Key Elements of Healthy APIs:**
+
 - **Transparency**: All rules and procedures are public and clearly stated
 - **Reciprocity**: Benefits flow in both directions, not just toward the larger system
 - **Boundaries**: Clear limits on what the community will and won't do
@@ -70,6 +72,7 @@ A community designs a waste-recycling contract with a city. The community gets p
 This contrasts with the current "zero-sum" game where the city pays a corporation to dump the waste in a landfill near the community, creating pollution and health problems while extracting profit.
 
 **Designing Win-Win Protocols:**
+
 - **Identify mutual needs**: What does each party genuinely need that the other can provide?
 - **Eliminate extraction**: Ensure that value flows benefit both parties, not just the larger system
 - **Create positive feedback loops**: Design interactions that become more beneficial over time
@@ -85,12 +88,14 @@ This is the principle of self-similarity across scales. The values and governanc
 This creates a coherent and resilient culture that scales naturally, without needing a "world government" to impose rules from the top down. Each level of organization reflects the same core principles, adapted to its appropriate scale and function.
 
 **Example: Fractal Decision-Making**
+
 - **Family Level**: Consensus-based decisions about household matters, with age-appropriate participation from children
 - **Neighborhood Level**: Council meetings using the same consensus process to address local issues
 - **Regional Level**: Federation of neighborhood representatives using the same decision-making principles for larger-scale coordination
 - **Bioregional Level**: Coordination between regions using the same values-based approach for ecosystem management
 
 **Benefits of Fractal Governance:**
+
 - **Cultural Coherence**: People understand how to participate at any level because the principles are consistent
 - **Resistance to Corruption**: Values-based decision-making at every level prevents the concentration of power
 - **Adaptive Resilience**: The system can respond to challenges at the appropriate scale without losing coherence

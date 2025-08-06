@@ -45,6 +45,7 @@
 **Marcus**: "Here's what I call the 'Elite Calculation.' It's not a conspiracy—it's a strategic principle that gets rediscovered by every power structure because it works so well."
 
 **The Elite Calculation:**
+
 1. **Identify existing divisions** in the population (race, class, gender, religion, region)
 2. **Amplify those divisions** through media, policy, and resource allocation
 3. **Channel grievances horizontally** (group vs. group) rather than vertically (people vs. power)

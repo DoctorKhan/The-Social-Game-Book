@@ -17,12 +17,14 @@ He pulled out his notebook—the same one where he'd been documenting voter mani
 David's observation crystallized a paradox that had been haunting him for months. Every day, he witnessed two contradictory realities:
 
 **Reality 1: Humans Are Naturally Social**
+
 - We evolved as a hyper-social species
 - Our brains are wired for cooperation and empathy  
 - We have language, culture, and unprecedented communication technology
 - We can coordinate complex projects across continents
 
 **Reality 2: Human Social Coordination Is Systematically Failing**
+
 - Political polarization reaches new extremes daily
 - Communities fragment despite digital "connection"
 - Collective problems go unsolved while individual intelligence soars

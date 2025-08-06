@@ -191,6 +191,7 @@ Instead, we have:
 **Aging Teenagers**: People who are chronologically adult but psychologically stuck in patterns of rebellion, dependency, or fantasy.
 
 This creates a society where:
+
 - Important decisions are made by people who haven't developed genuine wisdom
 - Young people have no clear models of authentic adulthood
 - Everyone feels like they're "faking it" because most people actually are
@@ -199,6 +200,7 @@ This creates a society where:
 #### The Recognition Problem: Why Modern "Rites" Fail
 
 One challenge in understanding this crisis is that our culture has lost the ability to recognize authentic transformation. We're better at recognizing:
+
 - Credentials than character
 - Performance than development
 - Achievement than wisdom
@@ -247,6 +249,7 @@ This creates the perfect conditions for the Social Game: a population of perpetu
 #### The Recognition Problem
 
 One challenge in creating modern rites of passage is that our culture has lost the ability to recognize authentic transformation. We're better at recognizing:
+
 - Credentials than character
 - Performance than development
 - Achievement than wisdom
@@ -258,6 +261,7 @@ The solution is to consciously develop communities—professional, spiritual, or
 
 **Learning from Bali:**
 The Balinese model suggests that effective recognition systems require:
+
 - **Regular community gatherings** where people can demonstrate growth and contribution
 - **Graduated responsibilities** that naturally acknowledge increasing maturity
 - **Elder guidance** from people who have undergone similar development
@@ -271,6 +275,7 @@ If you recognize yourself as someone who has never undergone a genuine rite of p
 The answer depends on your current edge—the place where you're avoiding growth because it would require you to face something difficult about yourself or your situation.
 
 **Questions for Reflection:**
+
 - What challenges have you been avoiding because they seem too difficult?
 - What would you attempt if you knew you had skilled guidance and community support?
 - What kind of person would you need to become to handle responsibilities you currently avoid?

@@ -10,6 +10,7 @@ This exercise will show you exactly where you are vulnerable to manipulation and
 
 **Step 1: Draw Your Spheres**
 Draw three concentric circles on your page:
+
 - **Inner circle**: Label "SELF" 
 - **Middle circle**: Label "KINSHIP"
 - **Outer circle**: Label "SYSTEM"
@@ -20,18 +21,21 @@ Draw three concentric circles on your page:
 
 **1. Self-Regulation Tools**
 List your primary tools for managing your internal state:
+
 - Meditation, exercise, journaling, time in nature
 - Emotional regulation practices
 - Stress management techniques
 - Creative outlets and hobbies
 
 **Assessment Questions**:
+
 - How strong are these tools? (Rate 1-10)
 - Do you use them consistently or only in crisis?
 - Which ones actually work versus which ones you think should work?
 
 **2. Internal Dependencies**
 List what you depend on externally for your internal state:
+
 - Social media validation
 - News consumption for identity
 - Shopping for mood regulation
@@ -45,6 +49,7 @@ List what you depend on externally for your internal state:
 
 **1. Your Flotilla**
 List the people you turn to for:
+
 - **Emotional support** during difficult times
 - **Practical help** in emergencies
 - **Honest feedback** about your blind spots
@@ -53,6 +58,7 @@ List the people you turn to for:
 
 **2. Relationship Quality Assessment**
 For each person listed, note:
+
 - Is this relationship reciprocal or one-sided?
 - Do you feel authentic or performative with them?
 - Would they support you even if you couldn't offer anything in return?
@@ -60,6 +66,7 @@ For each person listed, note:
 
 **3. Community Functions Analysis**
 Draw arrows showing where you get essential needs met:
+
 - **Childcare/eldercare support**
 - **Financial help in crisis**
 - **Skill sharing and learning**
@@ -74,6 +81,7 @@ Draw arrows showing where you get essential needs met:
 **In the "System" circle, map your institutional dependencies:**
 
 **1. Economic Dependencies**
+
 - Your job and income source
 - Health insurance and benefits
 - Retirement planning
@@ -81,18 +89,21 @@ Draw arrows showing where you get essential needs met:
 - Housing situation
 
 **2. Information Dependencies**
+
 - News sources and media consumption
 - Social media platforms
 - Educational institutions
 - Expert authorities you trust
 
 **3. Identity Dependencies**
+
 - Professional identity and status
 - Political party or ideological affiliation
 - Consumer brands and lifestyle choices
 - Social media persona
 
 **4. Meaning Dependencies**
+
 - Religious or spiritual institutions
 - Political movements or causes
 - Career achievement and recognition
@@ -103,16 +114,19 @@ Draw arrows showing where you get essential needs met:
 **Now examine how stress moves through your spheres:**
 
 **1. Self → Kinship Cascade**
+
 - When you're stressed or triggered, how does it affect your relationships?
 - Do you tend to withdraw, lash out, or seek excessive reassurance?
 - Which relationships suffer most when you're not self-regulated?
 
 **2. Kinship → System Cascade**
+
 - When your family/community is stressed, how does it affect your political views?
 - Do relationship conflicts make you more susceptible to tribal thinking?
 - Does community dysfunction make you seek System solutions (therapy, medication, political activism)?
 
 **3. System → Self Cascade**
+
 - How do news cycles affect your internal state?
 - Does work stress create personal anxiety?
 - Do political events trigger personal whirlpools?
@@ -123,6 +137,7 @@ Draw arrows showing where you get essential needs met:
 
 **1. Surrogate Tribes**
 What System institutions provide you with:
+
 - **Belonging**: Social media communities, political parties, consumer tribes
 - **Identity**: Job titles, brands, ideological labels
 - **Meaning**: Corporate missions, political causes, lifestyle movements
@@ -130,11 +145,13 @@ What System institutions provide you with:
 
 **2. Dependency Mapping**
 For each essential life function, ask:
+
 - Is this handled by authentic Kinship relationships?
 - Has this been outsourced to System institutions?
 - What would happen if the System option disappeared?
 
 **Examples**:
+
 - **Childcare**: Family/community vs. daycare/nannies
 - **Elder care**: Family/community vs. nursing homes
 - **Emotional support**: Friends/family vs. therapy/medication
@@ -146,16 +163,19 @@ For each essential life function, ask:
 **Rate your vulnerability in each sphere (1-10, where 10 is most vulnerable):**
 
 **Self Vulnerability**:
+
 - How dependent are you on external validation?
 - How easily are you triggered into whirlpools?
 - How much do you need System inputs for your internal state?
 
 **Kinship Vulnerability**:
+
 - How isolated would you be if System connections disappeared?
 - How many people would help you in a real crisis?
 - How much authentic community do you actually have?
 
 **System Vulnerability**:
+
 - How dependent are you on institutions you don't control?
 - What happens if your job, insurance, or benefits disappear?
 - How much of your identity depends on System-provided roles?
@@ -165,16 +185,19 @@ For each essential life function, ask:
 **Based on your audit, identify specific actions to strengthen each sphere:**
 
 **Strengthening Self**:
+
 - Which self-regulation practices need development?
 - What internal dependencies need to be reduced?
 - How can you build genuine internal sovereignty?
 
 **Rebuilding Kinship**:
+
 - Which System functions can you bring back to community?
 - What relationships need deeper investment?
 - How can you contribute more to mutual aid networks?
 
 **Conscious System Engagement**:
+
 - Which System dependencies are necessary vs. convenient?
 - How can you engage with institutions without being controlled by them?
 - What alternatives can you build or support?
@@ -188,6 +211,7 @@ For each essential life function, ask:
 **System Action**: (e.g., "Reduce news consumption to 15 minutes per day")
 
 **Weekly Check-ins**:
+
 - How is each action affecting your overall resilience?
 - What resistance are you encountering?
 - How are the spheres interconnecting differently?
@@ -195,6 +219,7 @@ For each essential life function, ask:
 ## Integration: Understanding Your Position in the Social Game
 
 **This audit reveals:**
+
 - **Where you're vulnerable** to manipulation and control
 - **Where you have genuine resilience** and sovereignty
 - **How the Hollow Middle** has affected your specific life
