@@ -18,4 +18,3 @@
 
 **True Hierarchy:** A structure of authority based on genuine, demonstrable competence, wisdom, and the ability to guide others' development (see *Competency Pattern*). It is oriented toward service and the transmission of knowledge.
 
-

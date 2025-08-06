@@ -8,30 +8,36 @@ docs_dir: docs
 nav:
 - index.md
 - The Social Game: the-social-game.md
-- 'Part 1: The Lost Art of Community':
-  - part-1-the-lost-art-of-community.md
-  - chapter-1-the-grackle-clue-the-rhythm-of-belonging.md
-  - chapter-2-the-architecture-of-natural-belonging.md
-  - chapter-3-evidence-file-1-the-divide-and-conquer-phenomenon.md
-  - chapter-4-true-hierarchy-vs-false-hierarchy.md
-  - chapter-5-evidence-file-2-the-perpetual-adolescence-mystery.md
-  - chapter-6-war-room-discovery-the-ancient-playbook.md
-  - chapter-7-the-internets-false-democracy.md
-  - chapter-8-investigator-roundtable-the-lost-architecture.md
-- 'Part 2: The Modern Disruption':
-  - part-2-the-modern-disruption.md
-  - chapter-9-investigator-roundtable-who-benefits.md
-- 'Part 3: The Path Forward':
-  - part-3-the-path-forward.md
-  - chapter-10-cultural-analysis-1-the-science-authority-deception.md
+- Part I Intro:
+  - part-1-part-i-intro.md
+  - chapter-1-social-mirror.md
+  - chapter-2-divide-and-conquer.md
+  - chapter-3-true-vs-false-hierarchy.md
+  - chapter-4-hollow-middle-architecture-isolation.md
+  - chapter-5-rites-of-passage.md
+  - chapter-6-field-manual-three-spheres-audit.md
+  - chapter-7-war-room-discovery-divide-and-conquer.md
+  - chapter-8-internets-false-democracy.md
+  - chapter-9-investigator-roundtable-lost-architecture.md
+  - chapter-10-parable-marionette-strings.md
+  - chapter-11-reality-whirlpool-first-aid.md
+  - chapter-12-investigator-roundtable-who-benefits.md
+  - chapter-13-the-great-forgetting.md
+  - chapter-14-investigators-converge.md
+  - chapter-15-science-as-verification.md
+  - chapter-16-part-4-the-meta-game.md
 - 'Part 4: The Meta-Game':
-  - part-4-the-meta-game.md
-  - chapter-11-the-principles-of-liberation.md
-  - chapter-12-conclusion-the-great-forgetting.md
-  - chapter-13-the-counter-strategy-principles-of-sovereign-community.md
-  - chapter-14-the-sovereign-mind-principles-of-internal-resistance.md
-  - chapter-15-the-science-of-sovereign-connection-protocols-for-a-networked-civilization.md
-  - chapter-16-glossary-of-terms.md
+  - part-2-the-meta-game.md
+  - chapter-17-practical-implementation-guide.md
+  - chapter-18-meta-game.md
+  - chapter-19-the-unsolved-mystery.md
+  - chapter-20-counter-strategy-principles.md
+  - chapter-21-the-war-on-play.md
+  - chapter-22-sovereign-mind-principles.md
+  - chapter-23-science-of-sovereign-connection.md
+  - chapter-24-strategists-dilemma.md
+  - chapter-25-glossary-of-terms.md
+  - chapter-26-the-investigators.md
 - Downloads: downloads/index.md
 theme:
   name: material

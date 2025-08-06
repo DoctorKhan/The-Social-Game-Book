@@ -26,4 +26,4 @@ Use the navigation menu on the left to browse through the chapters, or start wit
 
 ---
 
-*Last updated: August 01, 2025*
+*Last updated: August 05, 2025*
