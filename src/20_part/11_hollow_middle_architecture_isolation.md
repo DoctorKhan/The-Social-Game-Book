@@ -1,4 +1,4 @@
-### Chapter 7: The Hollow Middle - The Architecture of Isolation
+### Chapter 11: The Hollow Middle - The Architecture of Isolation
 
 Our investigation has shown how control systems use "Divide and Conquer" to fragment populations. But this strategy only works because of a much deeper, centuries-long project: the systematic dismantling of the very social structures that once made us immune to such manipulation.
 

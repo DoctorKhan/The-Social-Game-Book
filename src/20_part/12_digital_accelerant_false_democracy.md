@@ -1,4 +1,4 @@
-### Chapter 9: The Digital Accelerant - The Internet's False Democracy
+### Chapter 12: The Digital Accelerant - The Internet's False Democracy
 
 The internet promised to democratize knowledge, flattening the hierarchies that had once hoarded wisdom. We celebrated this as progress. But what if this "democratization" has created one of the most profound sources of modern meaninglessness?
 

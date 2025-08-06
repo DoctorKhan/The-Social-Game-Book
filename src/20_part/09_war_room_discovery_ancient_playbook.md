@@ -1,4 +1,4 @@
-### Chapter 6: War Room Discovery - The Ancient Playbook
+### Chapter 9: War Room Discovery - The Ancient Playbook
 
 *Three months after David's grackle revelation, the four investigators met for the first time in a rented conference room at the University of California, Berkeley. The walls were covered with whiteboards, timelines, and connection maps that looked more like a detective's murder board than academic research. Elena had driven down from San Francisco, still processing her Burning Man insights. Sarah had flown in from Seattle, her notebooks from Hawaii tucked under her arm. Marcus had taken a red-eye from New York, his Balinese observations fresh in his mind.*
 
@@ -127,4 +127,4 @@ As the investigators concluded their first collaborative session, they had ident
 
 *As they packed up their materials, the four investigators realized they had crossed a threshold. They were no longer just observing the fragmentation of human community—they were actively working to heal it. Their investigation had become a form of resistance.*
 
-*The ancient playbook was powerful, but it had a weakness: it only worked when people couldn't see it clearly. And now, for the first time in history, they had the tools to make it visible to everyone.*
+*The ancient playbook was powerful, but it had a weakness: it only worked when people couldn't see it clearly. Their next task was to map out exactly how this playbook was being deployed in the modern world to dismantle the very pillars of community they had just uncovered.*
