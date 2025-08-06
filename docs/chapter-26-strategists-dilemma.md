@@ -1,4 +1,4 @@
-# Chapter 24: Strategists Dilemma
+# Chapter 26: Strategists Dilemma
 
 ### Chapter 14: Conclusion - The Strategist's Dilemma & The Third Path
 

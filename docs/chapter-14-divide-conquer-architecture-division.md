@@ -1,6 +1,6 @@
-# Chapter 3: Divide And Conquer
+# Chapter 15: Divide Conquer Architecture Division
 
-### Chapter 6: Divide and Conquer - The Ancient Playbook
+### Chapter 10: Divide and Conquer - The Architecture of Division
 
 When analyzing the historical pattern of "Divide and Conquer," the temptation is to see a conspiracy run by malevolent human elites. But this is a misreading of the scale of the game. These human actors are merely the most visible expressions of a deeper, systemic logic. Think of them not as the ultimate villains, but as **powerful NPCs (Non-Player Characters)**, programmed with sophisticated strategies to maintain the game's core challenge. Their function is not evil in a moral sense; their function is to provide the resistance necessary for the true Player—the awakening human Soul—to evolve. Our task is not to defeat them, but to learn the patterns so we can play the game at a higher level.
 
@@ -171,6 +171,7 @@ While atomized groups fight over cultural and identity issues, elite actions pro
 **Wealth Concentration During Division:**
 
 - **Income Inequality**: The Gini coefficient (inequality measure) rose from 0.39 in 1970 to 0.48 in 2020, while political polarization increased dramatically
+- **Executive Compensation**: While the nation was consumed by cultural battles, CEO-to-worker pay ratio skyrocketed from 20-to-1 to over 350-to-1
 - **Corporate Consolidation**: Market concentration increased in 75% of industries between 1997-2012, reducing local business ownership
 - **Political Spending**: Corporate political spending increased 900% since Citizens United (2010), while grassroots political participation declined
 

@@ -1,4 +1,4 @@
-# Chapter 11: Parable Marionette Strings
+# Chapter 10: Parable Marionette Strings
 
 ### Chapter 8: The Parable of the Marionette and the Strings
 

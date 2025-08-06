@@ -1,4 +1,4 @@
-# The 30-Day Pattern Detective Protocol
+# Appendix A: The 30-Day Field Manual
 
 *Before we dive into the theory of social control systems, you need to see the evidence in your own life. This chapter provides a systematic investigation protocol that will ground everything that follows in your direct, personal experience. You will become a detective of your own consciousness, gathering evidence of how social programming operates in real-time.*
 
@@ -310,3 +310,4 @@ Most importantly, you will have proven to yourself that you can observe your own
 ---
 
 *Having completed this 30-day investigation, you now have direct evidence of how social programming operates in your own life. You're ready to examine the broader patterns with the eyes of someone who has already observed these dynamics firsthand.*
+

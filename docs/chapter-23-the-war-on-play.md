@@ -1,4 +1,4 @@
-# Chapter 21: The War On Play
+# Chapter 23: The War On Play
 
 ### Chapter 10: The War on Play - Reclaiming Our Sovereign Nature
 

@@ -169,6 +169,7 @@ While atomized groups fight over cultural and identity issues, elite actions pro
 **Wealth Concentration During Division:**
 
 - **Income Inequality**: The Gini coefficient (inequality measure) rose from 0.39 in 1970 to 0.48 in 2020, while political polarization increased dramatically
+- **Executive Compensation**: While the nation was consumed by cultural battles, CEO-to-worker pay ratio skyrocketed from 20-to-1 to over 350-to-1
 - **Corporate Consolidation**: Market concentration increased in 75% of industries between 1997-2012, reducing local business ownership
 - **Political Spending**: Corporate political spending increased 900% since Citizens United (2010), while grassroots political participation declined
 

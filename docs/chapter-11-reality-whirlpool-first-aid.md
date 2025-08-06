@@ -211,11 +211,11 @@ Remember: The goal isn't to never have whirlpools—it's to get faster at recogn
 # Part Ii Intro
 
 ## Part 2: The Modern Disruption
-## The Investigation: Uncovering the Crime Scene
+## The Crime Scene Investigation
 
-*"Now that we know what healthy community looks like, let's investigate the systematic forces that dismantled it, and uncover the playbook of the perpetrators."*
+*"Now that we understand the Lost Architecture of Community, we can see exactly how it was systematically dismantled. This is not random cultural drift—this is a coordinated attack on the very foundations of human connection."*
 
-With a clearer picture of what was lost – the natural social rhythm, the authentic architecture of belonging, the true hierarchies of learning – our investigators turned their attention to the forces that broke these patterns. As they pooled their findings, they began to see not isolated incidents, but a systematic disruption operating across multiple levels of society. They began to uncover the blueprint of the crime.
+Having uncovered the four pillars of healthy community—Social Rhythm, Playful Sovereignty, True Hierarchy, and Authentic Belonging—our investigators could now see the crime scene clearly. The forces fragmenting modern society weren't random; they were specifically targeting each pillar of the Lost Architecture. As they pooled their findings, they began to see not isolated incidents, but a systematic disruption operating across multiple levels of society. They began to uncover the blueprint of the crime.
 
 A mother sits across from her adult son at dinner. She's been watching the news, seeing stories about young men "falling into dark corners of the internet," becoming isolated, angry, politically radicalized. She looks at her son—intelligent, educated, but struggling to find work, spending too much time online, seeming increasingly disconnected from the world she knows.
 

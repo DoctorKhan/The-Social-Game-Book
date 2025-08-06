@@ -1,4 +1,4 @@
-# Chapter 22: Sovereign Mind Principles
+# Chapter 24: Sovereign Mind Principles
 
 ### Chapter 11: Principles of the Sovereign Mind
 

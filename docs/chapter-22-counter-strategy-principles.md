@@ -1,4 +1,4 @@
-# Chapter 20: Counter Strategy Principles
+# Chapter 22: Counter Strategy Principles
 
 ### Chapter 12: The Counter-Strategy - Principles of Sovereign Community
 

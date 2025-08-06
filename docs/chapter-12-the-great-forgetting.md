@@ -1,4 +1,4 @@
-# Chapter 14: The Great Forgetting
+# Chapter 13: The Great Forgetting
 
 ### Chapter 8: The Great Forgetting - Dismantling the Pillars
 

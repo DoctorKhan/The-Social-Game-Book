@@ -1,4 +1,4 @@
-# Chapter 23: Science Of Sovereign Connection
+# Chapter 25: Science Of Sovereign Connection
 
 ### Chapter 13: The Science of Sovereign Connection - Protocols for a Networked Civilization
 

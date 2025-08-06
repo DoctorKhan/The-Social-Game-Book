@@ -10,34 +10,37 @@ nav:
 - The Social Game: the-social-game.md
 - Part I Intro:
   - part-1-part-i-intro.md
-  - chapter-1-social-mirror.md
-  - chapter-2-divide-and-conquer.md
-  - chapter-3-true-vs-false-hierarchy.md
-  - chapter-4-hollow-middle-architecture-isolation.md
-  - chapter-5-rites-of-passage.md
+  - chapter-1-clue-from-the-east-the-balinese-resilience.md
+  - chapter-2-principle-1-the-social-rhythm.md
+  - chapter-3-clue-from-the-festival-the-power-of-play.md
+  - chapter-4-principle-2-playful-sovereignty-the-purpose-of-passage.md
+  - chapter-5-clue-from-the-workshop-a-tale-of-two-hierarchies.md
   - chapter-6-field-manual-three-spheres-audit.md
-  - chapter-7-war-room-discovery-divide-and-conquer.md
-  - chapter-8-internets-false-democracy.md
-  - chapter-9-investigator-roundtable-lost-architecture.md
-  - chapter-10-parable-marionette-strings.md
+  - chapter-7-principle-3-true-vs-false-hierarchy.md
+  - chapter-8-clue-from-the-pacific-the-hawaiian-flow.md
+  - chapter-9-parable-marionette-strings.md
+  - chapter-10-principle-4-the-architecture-of-natural-belonging.md
   - chapter-11-reality-whirlpool-first-aid.md
-  - chapter-12-investigator-roundtable-who-benefits.md
-  - chapter-13-the-great-forgetting.md
-  - chapter-14-investigators-converge.md
-  - chapter-15-science-as-verification.md
-  - chapter-16-part-4-the-meta-game.md
+  - chapter-12-the-great-forgetting.md
+  - chapter-13-war-room-discovery-ancient-playbook.md
+  - chapter-14-divide-conquer-architecture-division.md
+  - chapter-15-hollow-middle-architecture-isolation.md
+  - chapter-16-digital-accelerant-false-democracy.md
+  - chapter-17-science-as-verification.md
+  - chapter-18-part-4-the-meta-game.md
 - 'Part 4: The Meta-Game':
   - part-2-the-meta-game.md
-  - chapter-17-practical-implementation-guide.md
-  - chapter-18-meta-game.md
-  - chapter-19-the-unsolved-mystery.md
-  - chapter-20-counter-strategy-principles.md
-  - chapter-21-the-war-on-play.md
-  - chapter-22-sovereign-mind-principles.md
-  - chapter-23-science-of-sovereign-connection.md
-  - chapter-24-strategists-dilemma.md
-  - chapter-25-glossary-of-terms.md
-  - chapter-26-the-investigators.md
+  - chapter-19-practical-implementation-guide.md
+  - chapter-20-meta-game.md
+  - chapter-21-the-unsolved-mystery.md
+  - chapter-22-counter-strategy-principles.md
+  - chapter-23-the-war-on-play.md
+  - chapter-24-sovereign-mind-principles.md
+  - chapter-25-science-of-sovereign-connection.md
+  - chapter-26-strategists-dilemma.md
+  - chapter-27-appendix-a-the-30-day-field-manual.md
+  - chapter-28-glossary-of-terms.md
+  - chapter-29-the-investigators.md
 - Downloads: downloads/index.md
 theme:
   name: material

@@ -1,4 +1,4 @@
-# Chapter 18: Meta Game
+# Chapter 20: Meta Game
 
 ## Part IV: The Meta-Game
 ### *(A Deeper Dive)*

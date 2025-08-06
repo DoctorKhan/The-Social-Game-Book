@@ -1,4 +1,4 @@
-# Chapter 17: Practical Implementation Guide
+# Chapter 19: Practical Implementation Guide
 
 ### Chapter 11: The Principles of Liberation
 

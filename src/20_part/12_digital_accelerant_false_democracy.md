@@ -213,6 +213,16 @@ To understand the difference between real and false expertise, consider two peop
 
 **The Service Test**: Marcus uses his expertise to solve people's transportation problems and help them save money. Tyler uses his apparent expertise to build his personal brand and generate income from his audience. The difference in motivation creates entirely different relationships with knowledge and with other people.
 
+#### Case Study: The Wellness Influencer and the Doctor
+
+This distinction is not merely academic; it has life-and-death consequences, particularly in the realm of health.
+
+Consider **Dr. Anya Sharma**, a board-certified oncologist with two decades of clinical experience. Her advice is cautious, nuanced, and backed by peer-reviewed studies. She cannot promise cures, and she is transparent about the harsh side effects of treatments. Her expertise is grounded in the difficult, often disappointing, reality of medicine.
+
+Now consider **"Wellness Wendy,"** a charismatic influencer with millions of followers. She has no medical training, but she has a compelling personal story of "curing" herself with a proprietary blend of supplements and positive thinking. Her advice is simple, optimistic, and promises a level of control that conventional medicine cannot. The algorithm loves her content because it generates high emotional engagement—hope, fear of "toxins," and a sense of belonging to an enlightened in-group.
+
+The internet's false democracy places Dr. Sharma and Wellness Wendy on equal footing. In fact, it gives Wendy a far larger microphone because her message is more algorithmically friendly. The result is a public health crisis where verifiable medical expertise is drowned out by performative authority, leading people to reject life-saving treatments in favor of unproven and often dangerous alternatives. This is the ultimate danger of a system that prioritizes engagement over accuracy: it systematically dismantles our ability to tell the difference between a healer and a salesperson.
+
 #### The Systematic Destruction of Expertise
 
 The internet's false democracy doesn't just create misinformation—it systematically destroys the ability to distinguish between genuine expertise and performative authority. This serves the Social Game by making people unable to identify trustworthy sources of information or guidance.

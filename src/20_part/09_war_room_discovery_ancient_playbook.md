@@ -59,6 +59,12 @@
 
 **Elena**: "So they fund the fight to distract from the theft."
 
+**Sarah** hesitated, tapping her pen on her notebook. "I'm not sure it's always that conscious, though. Correlation isn't causation. My data shows that platforms amplify division because it's profitable—it drives engagement. It's an emergent property of the system, not necessarily a smoky back room conspiracy."
+
+**David** countered, "I've been in those back rooms, Sarah. The strategy is absolutely conscious for the political operatives. But you're both right. It's a feedback loop. The political strategists create the divisive content, and the algorithms you designed amplify it automatically. The system has learned to automate the playbook."
+
+**Marcus** nodded, connecting the points. "So it's a marriage of ancient strategy and modern technology. The 'what' is two thousand years old. The 'how' is brand new. And the result is this perfectly automated engine of division."
+
 **David**: "It's brilliant and horrifying. Channel legitimate grievances into conflicts that don't threaten the power structure."
 
 #### The Historical Pattern

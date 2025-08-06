@@ -1,4 +1,4 @@
-# Chapter 16: Science As Verification
+# Chapter 18: Science As Verification
 
 ### Chapter 10: Cultural Analysis #1: The Science Authority Deception
 
