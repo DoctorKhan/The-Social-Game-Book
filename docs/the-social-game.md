@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-**Compiled**: 2025-08-06 01:30:49
+**Compiled**: 2025-08-07 18:51:32
 
 ---
 
