@@ -30,54 +30,11 @@ The investigation you're about to undertake will show you how these same pattern
 
 #### Your First Mission: Find Your Crew
 
-**Objective:** To form a "Flotilla"—a small, trusted group of 2-4 individuals who will go through this material with you. This is your peer-to-peer support network, your reality-testing lab, and your co-investigative team.
+The investigation you're about to undertake will show you how social programming operates at a civilizational level. **The system's greatest fear is that you will find others who see what you see.**
 
-##### Identifying Potential Flotilla Members
+Working alone on this material carries significant risks—isolation, overwhelm, and the tendency to intellectualize concepts without embodying change. You need a small, trusted group of 2-4 individuals who will go through this material with you: your **Flotilla**.
 
-**Who in your life has expressed that same feeling of "something is off"?**
-
-Look for people who:
-
-- Question mainstream narratives without being conspiracy theorists
-- Feel spiritually curious but aren't satisfied with traditional religion
-- Express frustration with political polarization and social division
-- Show interest in personal growth and consciousness development
-- Demonstrate intellectual honesty and emotional maturity
-- Have expressed feeling isolated or "different" from mainstream culture
-
-**Trust your intuition.** Send them the introduction to this book and simply ask, "Does this resonate with you?"
-
-**Do not try to convince anyone.** The right crew will not need convincing. They will feel a sense of recognition—the relief of finding others who share their questions and concerns.
-
-##### The Flotilla Charter: Rules of Engagement
-
-For a Flotilla to be a safe harbor and not just another social game, it must operate by a clear set of protocols. Agree to these five rules before you begin:
-
-> ### **The Five Protocols of the Flotilla**
->
-> **1. This is a Lab, Not a Church.** We are not here to establish dogma or decide who is "right." We are co-investigators testing a set of hypotheses against our direct experience. The goal is discovery, not belief. All ideas are held lightly and are subject to verification.
->
-> **2. Share Stories, Not Advice.** The most common trap is trying to "fix" each other. When someone shares a struggle, the group's role is not to offer solutions, but to listen deeply and, if appropriate, share a story of their own similar experience. This creates connection, not hierarchy.
->
-> **3. Use the Mirror Shield, Not the Sword.** We do not attack or directly challenge another's programming. Instead, we reflect. We ask curious questions. Instead of "You're wrong," we ask, "What was your experience of that?" We help each other see, we do not force each other to look.
->
-> **4. Confidentiality is Sacred.** What is shared in the Flotilla stays in the Flotilla. This is the foundation of the trust required for genuine vulnerability and honest investigation.
->
-> **5. The Work is the Goal.** The purpose of gathering is to work through this material and its practical exercises together. While social connection will be a natural outcome, the primary focus is on the shared work of liberation.
-
-##### First Meeting Agenda Template (90 Minutes)
-
-**Objective:** To establish the container and begin the journey.
-
-**1. Check-In (15 min):** Go around the circle. Each person answers: "What brought you here? What is one thing you hope to gain from this journey?"
-
-**2. Charter Reading (5 min):** One person reads "The Five Protocols" aloud. Each person verbally agrees to abide by them.
-
-**3. Shared Reading (10 min):** Read a short, powerful section from the book aloud (e.g., the grackle phenomenon from the introduction).
-
-**4. Guided Discussion (45 min):** The facilitator (rotate this role weekly) asks the group the "Questions for Your Flotilla" at the end of each chapter. Use a talking stick or simply go in a circle to ensure everyone has a chance to speak without interruption.
-
-**5. Check-Out (15 min):** Go around the circle. Each person answers: "What is one insight you are taking with you from this meeting?" and "When shall we meet next?"
+This is your peer-to-peer support network, your reality-testing lab, and your co-investigative team. The detailed protocol for forming and maintaining your Flotilla—including how to identify potential members, establish group agreements, and structure your meetings—is provided in **Exercise B.1: Flotilla Formation Guide** (see Appendix B).
 
 ##### Questions for Your Flotilla (Chapter 1)
 
@@ -126,12 +83,7 @@ The insights that emerge from group discussion often exceed what any individual 
 
 #### Your Assignment Before Continuing
 
-**Do not proceed to Chapter 2 until you have:**
-
-1. **Identified at least 2-3 potential Flotilla members**
-2. **Reached out to them with the introduction to this book**
-3. **Scheduled your first meeting**
-4. **Agreed to the Five Protocols**
+**Do not proceed to Chapter 2 until you have completed Exercise B.1: Flotilla Formation Guide.**
 
 This is not optional. The material ahead is designed to be processed in community. Attempting it alone significantly increases the risk of psychological destabilization, paranoia, or spiritual bypassing.
 
@@ -165,6 +117,6 @@ Welcome to the resistance. It begins with connection.
 
 *For those ready for a more structured approach, we have compiled a comprehensive **30-Day Pattern Detective Protocol**. This week-by-week guide provides a systematic method for documenting the Social Game's influence on your attention, emotions, and choices. We strongly recommend completing this protocol with your Flotilla after reading Part 2, as it provides the perfect practical application of the concepts you will have learned.*
 
-***The full protocol is located in Appendix A: The 30-Day Field Manual.***
+***The full protocol is located in Exercise B.5: The 30-Day Field Manual (see Appendix B).***
 
 *With your Flotilla formed and your detective's mindset engaged, you are now ready to examine the first clue in our investigation: the lost architecture of community.*

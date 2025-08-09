@@ -1,4 +1,7 @@
-# Appendix A: The 30-Day Field Manual
+# Exercise B.5: The 30-Day Field Manual
+
+**Referenced in**: Introduction and Part II Conclusion
+**Objective**: A comprehensive investigation protocol that will ground everything that follows in your direct, personal experience. You will become a detective of your own consciousness, gathering evidence of how social programming operates in real-time.
 
 *Before we dive into the theory of social control systems, you need to see the evidence in your own life. This chapter provides a systematic investigation protocol that will ground everything that follows in your direct, personal experience. You will become a detective of your own consciousness, gathering evidence of how social programming operates in real-time.*
 

@@ -103,6 +103,16 @@ The Social Game maintains its power through the passivity of those who see throu
 
 It's not. Liberation requires both understanding and practice, both diagnosis and treatment, both seeing the game and learning to play it consciously.
 
+**Immediate Next Steps**: If you haven't already completed the practical exercises in Appendix B, now is the time:
+
+- **Exercise B.1**: Form your Flotilla (your support network for this work)
+- **Exercise B.2**: Complete your Three Spheres Audit (understand your current vulnerabilities)
+- **Exercise B.3**: Identify your personal "strings" (recognize unconscious influences)
+- **Exercise B.4**: Master the Three Doors Practice (develop emotional sovereignty)
+- **Exercise B.5**: Undertake the 30-Day Field Manual (systematic investigation of social programming)
+
+These exercises transform theoretical understanding into embodied skill. They are not optional add-ons—they are the bridge between knowing and being free.
+
 The complete toolkit for this transformation—the detailed practices, step-by-step processes, and community-building strategies that turn understanding into lived reality—awaits you in *Manual Override*. There you'll find not just the theory of the four pillars, but the practical methods for implementing them in your daily life.
 
 You've completed the diagnosis. The treatment begins now.

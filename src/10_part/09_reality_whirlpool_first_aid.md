@@ -175,28 +175,20 @@ This is why the practices matter beyond personal peace. Every moment of consciou
 
 ---
 
-##### **Field Manual Activation Exercise 9.1: The Three Doors Practice**
+### Practical Application: Mastering the Three Doors
 
-**Objective:** To develop practical skill in escaping Reality Whirlpools using the three-door method.
+Now that you understand how Reality Whirlpools operate and the three methods for escaping them, it's time to develop practical skill with these techniques. The goal isn't to never have whirlpools—it's to get faster at recognizing and exiting them.
 
-**Protocol:** For the next week, practice identifying and exiting whirlpools using this systematic approach.
+**Complete Exercise B.4: The Three Doors Practice (see Appendix B) to develop your emergency toolkit for emotional hijacking.**
 
----
+This week-long practice protocol will help you:
 
-**Daily Practice:**
+- Identify which door works best for different types of whirlpools
+- Build the capacity to catch whirlpools earlier in their formation
+- Develop a daily architecture for consciousness that prevents most whirlpools from forming
+- Transform your internal state from reactive to responsive
 
-1. **Morning Setup:** Choose which door you'll focus on practicing today (rotate through all three during the week)
-2. **Whirlpool Spotting:** Throughout the day, notice when you're caught in a thought-feeling loop
-3. **Door Practice:** Use your chosen door to exit the whirlpool
-4. **Evening Review:** Reflect on what worked and what was challenging
-
-**Weekly Integration:**
-
-- Which door felt most natural to you?
-- What patterns did you notice in your whirlpools?
-- How did your relationships change when you stopped exporting unresolved charge?
-
-Remember: The goal isn't to never have whirlpools—it's to get faster at recognizing and exiting them. Each time you break free, you're not just helping yourself; you're contributing to the healing of the world.
+Each time you break free from a whirlpool, you're not just helping yourself; you're contributing to the healing of the world. When you stop exporting unresolved emotional charge to others, you break the cycle that feeds systemic dysfunction.
 
 ---
 
