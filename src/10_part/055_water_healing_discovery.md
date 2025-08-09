@@ -1,4 +1,4 @@
-# Chapter 8: The Water Discovery - Nature's Reset Button
+# Chapter 6: The Water Discovery - Nature's Reset Button
 
 My investigations had revealed how the Social Game operated at the community level. But I needed to understand something more personal: how was it affecting individual mental health? The answer came during my own darkest period.
 
@@ -43,6 +43,7 @@ It wasn't meditation or mindfulness or any technique I'd learned. It was somethi
 This wasn't just about water. It was about what we'd lost when we reversed work and play.
 
 **Real play** had always been humanity's natural medicine:
+
 - Swimming in natural bodies of water
 - Running and climbing and exploring
 - Unstructured time in nature
@@ -50,6 +51,7 @@ This wasn't just about water. It was about what we'd lost when we reversed work 
 - Sensory experiences that broke mental loops
 
 **Artificial work** had replaced this with:
+
 - Indoor environments with artificial lighting
 - Sedentary activities that trapped us in our heads
 - Constant stimulation that prevented nervous system reset
@@ -111,6 +113,7 @@ The water healing was just the beginning. As I continued to explore natural regu
 I started with brief sensory meditations. As I began to wake up from the mental fog of depression, I practiced mindful eating and drinking. I would take short walks outside. I would practice mindful movement.
 
 **I developed a simple daily practice:**
+
 - Mindful breathing
 - Mindful listening
 - Mindful seeing

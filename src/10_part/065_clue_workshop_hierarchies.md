@@ -1,4 +1,4 @@
-# Chapter 6: Clue from the Workshop - A Tale of Two Hierarchies
+# Chapter 7: Clue from the Workshop - A Tale of Two Hierarchies
 
 The master craftsman runs his fingers along the wood grain, feeling for imperfections invisible to the untrained eye. His apprentice watches, eager to learn. "What am I missing?" he asks. The master smiles. "Twenty years," he replies. This scene represents a cornerstone of healthy community we've almost entirely lost: **True Hierarchy,** a structure of nurturing where authority flows from competence and service.
 

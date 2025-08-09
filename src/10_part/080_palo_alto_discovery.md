@@ -1,6 +1,6 @@
-# Chapter 7: The Palo Alto Discovery - When Play Becomes Prison
+# Chapter 9: The Palo Alto Discovery - When Play Becomes Prison
 
-My discoveries in Bali, the desert, and Hawaii had shown me that natural human coordination was possible. But I needed to understand something else: what was the Social Game doing to people who had never experienced authentic community?
+My discoveries in Bali, the desert, and Hawaii had shown me that natural human coordination was possible. My own healing through water and presence had revealed the foundation that made such coordination possible. But I needed to understand something else: what was the Social Game doing to people who had never experienced authentic community?
 
 The answer came from an unexpected source: the most privileged kids in America.
 

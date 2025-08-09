@@ -1,4 +1,4 @@
-# Chapter 15: The Ancient Playbook
+# Chapter 14: The Ancient Playbook
 
 My discoveries in Bali, Hawaii, and the desert had shown me that natural human coordination was possible. But I needed to understand what was systematically preventing it. The answer came when I started researching the historical patterns of social control.
 

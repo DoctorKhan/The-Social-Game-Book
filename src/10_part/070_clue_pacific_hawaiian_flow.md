@@ -1,4 +1,4 @@
-# Chapter 9: What I Found in Hawaii
+# Chapter 8: What I Found in Hawaii
 
 My discoveries in Bali and the desert had shown me that natural human coordination was possible. But I needed to understand something else: could this work in a modern context, with people who hadn't grown up in traditional communities?
 
