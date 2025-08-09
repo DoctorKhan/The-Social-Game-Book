@@ -29,8 +29,8 @@ I began to see how modern management training implemented Machiavellian principl
 - **"Crush your enemy totally"** - "Competitive performance management" that turned colleagues against each other
 - **"Re-create yourself"** - Constant corporate "transformations" that kept employees off-balance and dependent
 
-"We're not developing leaders," Marcus realized with growing horror. "We're training managers to implement systems of psychological control that prevent genuine leadership from emerging."
+"We're not developing leaders," I realized with growing horror. "We're training managers to implement systems of psychological control that prevent genuine leadership from emerging."
 
 The most disturbing discovery was how the corporate hierarchy used the principle of "Learn to keep people dependent on you" through what they called "professional development." Instead of actually developing people's capabilities, the system created artificial scarcity of advancement opportunities while making employees compete against each other for approval.
 
-"True hierarchy is based on competence and service," Marcus wrote in his resignation letter. "False hierarchy is based on control and dependency. I've been teaching the wrong kind."
+"True hierarchy is based on competence and service," I wrote in my notes. "False hierarchy is based on control and dependency. I had been observing the wrong kind."
