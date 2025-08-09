@@ -1,4 +1,4 @@
-### Chapter 1: The First Clue - The Grackle Phenomenon
+# Chapter 1: The First Clue - The Grackle Phenomenon
 
 Every evening in Austin, thousands of grackles emerge from downtown trees in perfect V-formations. When two formations cross paths, individual birds seamlessly switch groups—optimizing their social arrangements without meetings, apps, or conflict.
 

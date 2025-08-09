@@ -26,15 +26,13 @@ I closed my notebook and made a decision. I was going to find out what was reall
 
 Why has humanity—a hyper-social species with unprecedented technological capabilities—lost its natural capacity for authentic community and collective intelligence?
 
-The evidence: A 4,000-year-old playbook of social control, economic systems designed to isolate and extract, political strategies that turn allies into enemies, and technological amplification of ancient manipulation techniques.
-
 This isn't about devices. It's about the systematic dismantling of the social infrastructure that once made humans resilient, connected, and impossible to control.
 
 That feeling you have that something doesn't add up? You're detecting the mystery.
 
 ## The Investigation Begins
 
-What I didn't know was that three other people were having similar realizations at that moment. We were all seeing pieces of the same puzzle.
+What I didn't know was that other people were having similar realizations at that moment. We were all seeing pieces of the same puzzle.
 
 You're about to join this investigation. We're following the data wherever it leads, examining patterns from ancient rituals to modern algorithms. We're not hunting villains—we're uncovering a design so sophisticated it transcends ordinary human strategy.
 
