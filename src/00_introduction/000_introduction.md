@@ -66,7 +66,7 @@ This is the story of their investigation as their paths converge to solve the my
 
 *I'd just spent the day analyzing how digital platforms systematically fragment communities while promising connection. The paradox was sickeningly familiar.*
 
-*David opened his notebook and began writing, trying to capture the pattern that had been haunting him for months:*
+*I opened my notebook and began writing, trying to capture the pattern that had been haunting me for months:*
 
 > *More connection, more loneliness. We build networks that isolate.*
 >
@@ -76,7 +76,7 @@ This is the story of their investigation as their paths converge to solve the my
 >
 > *More progress, less meaning. We solve ancient problems while creating spiritual emptiness.*
 
-*These weren't separate problems, David realized. They were clues, and they all pointed to a mystery he was becoming obsessed with solving.*
+*These weren't separate problems, I realized. They were clues, and they all pointed to a mystery I was becoming obsessed with solving.*
 
 The problem extends beyond our screens and into the very fabric of our social lives. We see communities, founded with hope and shared values, dissolve for reasons that defy conventional wisdom, while the rare ones that thrive seem to follow forgotten rules we no longer understand. This crisis of belonging complicates our personal search for authenticity. In a culture that relentlessly urges us to “be ourselves,” we instead become performers, discovering that a true sense of self often arises not from unlimited freedom, but from the shared purpose and structure we have steadily dismantled.
 
@@ -84,7 +84,7 @@ Even the great promises of our age reveal a hidden cost. Progress has solved anc
 
 *Something was systematically wrong with the way human connection worked in the modern world. He looked back at the city lights, each one representing a person who was probably scrolling through their phone right now, seeking connection while becoming more isolated with every swipe. The pattern was too consistent, too widespread to be accidental.*
 
-*David closed his notebook and made a decision. He was going to find out what was really happening to humanity. But he was not alone.*
+*I closed my notebook and made a decision. I was going to find out what was really happening to humanity.*
 
 *What he didn't know was that three other people were having similar realizations at that very moment—a therapist in California, an algorithm designer in Seattle, and a corporate trainer in New York. They were all seeing pieces of the same puzzle, fragments of a mystery that would soon bring them together in the most important investigation of their lives.*
 

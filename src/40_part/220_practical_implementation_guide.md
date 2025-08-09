@@ -123,7 +123,7 @@ As I completed my analysis of the Social Game, I found myself confronting a prof
 
 These patterns functioned less like a political conspiracy and more like a deeply embedded operating system, running on code written long before the dawn of recorded history. The psychological vulnerabilities being exploited seemed almost engineered into human nature itself. The social structures being dismantled appeared to have been systematically targeted with an understanding of human community that transcended any individual lifetime of observation.
 
-David, Sarah, Elena, and Marcus had solved the immediate mystery: they understood how the Social Game operated, who benefited from it, and how to build resistance. But their investigation had led them to the edge of a much deeper question—one that would require them to examine not just the recent history of social manipulation, but the entire story of human civilization itself.
+I had solved the immediate mystery: I understood how the Social Game operated, who benefited from it, and how to build resistance. But my investigation had led me to the edge of a much deeper question—one that would require examining not just the recent history of social manipulation, but the entire story of human civilization itself.
 
 The crime scene was clear, the methods understood, the perpetrators identified. But I was left staring into the abyss of a deeper mystery: **Who, or what, first wrote the rules to the Social Game? And why does it feel like humanity has been playing by someone else's rules for far longer than we remember?**
 

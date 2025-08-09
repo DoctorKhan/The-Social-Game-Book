@@ -56,29 +56,29 @@ Modern "science" has been systematically captured by institutions that use scien
 
 **Sheldon Krimsky, "Science in the Private Interest" (2003)**: Analysis of how corporate funding systematically biases scientific research and undermines public trust in scientific institutions.
 
-##### The Three Corruptions: Dr. Sarah Chen's Journey Through Institutional Science
+##### The Three Corruptions: A Journey Through Institutional Science
 
-To understand how institutional capture corrupts the scientific method, follow Dr. Sarah Chen's career as she encounters the three major forms of scientific corruption.
+To understand how institutional capture corrupts the scientific method, consider a researcher's career as she encounters the three major forms of scientific corruption.
 
-**Corporate Science - The Pharmaceutical Years**: Fresh out of graduate school, Sarah joined a major pharmaceutical company as a research scientist. Her job was to test a new antidepressant for safety and efficacy. The company had already invested $500 million in development and needed positive results to recoup their investment.
+**Corporate Science - The Pharmaceutical Years**: Fresh out of graduate school, the researcher joined a major pharmaceutical company as a research scientist. Her job was to test a new antidepressant for safety and efficacy. The company had already invested $500 million in development and needed positive results to recoup their investment.
 
-Sarah's initial studies showed the drug was only marginally more effective than placebo and had concerning side effects. When she reported these findings, her supervisor explained that she needed to "refine her methodology." The studies were redesigned with different patient populations, shorter timeframes, and modified outcome measures until they produced the desired results. Studies showing negative effects were labeled "preliminary" and never published, while studies showing benefits were fast-tracked to prestigious journals.
+Her initial studies showed the drug was only marginally more effective than placebo and had concerning side effects. When she reported these findings, her supervisor explained that she needed to "refine her methodology." The studies were redesigned with different patient populations, shorter timeframes, and modified outcome measures until they produced the desired results. Studies showing negative effects were labeled "preliminary" and never published, while studies showing benefits were fast-tracked to prestigious journals.
 
-Sarah realized that the same company profiting from the drug was funding the research "proving" its safety and efficacy. When she tried to publish her original findings independently, she was threatened with lawsuits for violating proprietary information agreements. The scientific method was being corrupted to serve financial interests rather than truth.
+She realized that the same company profiting from the drug was funding the research "proving" its safety and efficacy. When she tried to publish her original findings independently, she was threatened with lawsuits for violating proprietary information agreements. The scientific method was being corrupted to serve financial interests rather than truth.
 
-**Government Science - The Regulatory Capture**: Disillusioned with corporate research, Sarah joined the FDA as a drug safety reviewer. She hoped government service would allow her to practice independent science in the public interest. Instead, she discovered that regulatory agencies were staffed by former industry employees who planned to return to industry after their government service.
+**Government Science - The Regulatory Capture**: Disillusioned with corporate research, the researcher joined the FDA as a drug safety reviewer. She hoped government service would allow her to practice independent science in the public interest. Instead, she discovered that regulatory agencies were staffed by former industry employees who planned to return to industry after their government service.
 
-Her supervisor, Dr. Martinez, had worked for three different pharmaceutical companies before joining the FDA and was already negotiating his next industry position. When Sarah raised concerns about approving drugs with questionable safety profiles, Dr. Martinez explained that being "too strict" would harm American competitiveness and innovation. Research funding flowed to studies that supported current policy directions, while research challenging official positions was quietly defunded.
+Her supervisor had worked for three different pharmaceutical companies before joining the FDA and was already negotiating his next industry position. When she raised concerns about approving drugs with questionable safety profiles, he explained that being "too strict" would harm American competitiveness and innovation. Research funding flowed to studies that supported current policy directions, while research challenging official positions was quietly defunded.
 
-Sarah watched as military research focused on applications that served state power rather than human welfare, with results that might challenge official narratives being classified or suppressed. She realized that when scientific institutions depend on government funding and approval, they tend to produce results that support government interests rather than independent truth.
+She watched as military research focused on applications that served state power rather than human welfare, with results that might challenge official narratives being classified or suppressed. She realized that when scientific institutions depend on government funding and approval, they tend to produce results that support government interests rather than independent truth.
 
-**Academic Science - The Publish or Perish Trap**: Seeking the independence of academic research, Sarah became a university professor. But she quickly discovered that academic careers depended on publishing papers in prestigious journals controlled by established researchers who had their own agendas and biases.
+**Academic Science - The Publish or Perish Trap**: Seeking the independence of academic research, the researcher became a university professor. But she quickly discovered that academic careers depended on publishing papers in prestigious journals controlled by established researchers who had their own agendas and biases.
 
-To get tenure, Sarah needed to produce dramatic, publishable results rather than careful verification of existing claims. Grant funding came from sources with specific agendas—pharmaceutical companies, government agencies, advocacy organizations—all of which shaped what questions could be asked and what answers could be published.
+To get tenure, she needed to produce dramatic, publishable results rather than careful verification of existing claims. Grant funding came from sources with specific agendas—pharmaceutical companies, government agencies, advocacy organizations—all of which shaped what questions could be asked and what answers could be published.
 
-When Sarah tried to replicate a famous study in her field and found that the results couldn't be reproduced, the journal rejected her paper because "replication studies aren't novel enough for publication." When she challenged the methodology of a senior researcher's work, she found herself excluded from conferences and grant committees. The peer review system that was supposed to ensure quality had become a gatekeeping mechanism that suppressed challenges to established interests.
+When she tried to replicate a famous study in her field and found that the results couldn't be reproduced, the journal rejected her paper because "replication studies aren't novel enough for publication." When she challenged the methodology of a senior researcher's work, she found herself excluded from conferences and grant committees. The peer review system that was supposed to ensure quality had become a gatekeeping mechanism that suppressed challenges to established interests.
 
-**The Pattern Recognition**: Across all three sectors—corporate, government, and academic—Sarah observed the same pattern: when scientific careers and institutions depend on approval from entities with specific interests, the scientific method gets corrupted to serve those interests rather than truth. The problem wasn't individual corruption but systemic incentives that rewarded conformity over curiosity, profitable results over accurate findings, and institutional loyalty over independent verification.
+**The Pattern Recognition**: Across all three sectors—corporate, government, and academic—the same pattern emerged: when scientific careers and institutions depend on approval from entities with specific interests, the scientific method gets corrupted to serve those interests rather than truth. The problem wasn't individual corruption but systemic incentives that rewarded conformity over curiosity, profitable results over accurate findings, and institutional loyalty over independent verification.
 
 #### The Difference Between Science and Scientism
 
@@ -206,11 +206,11 @@ The ability to verify claims independently is inherently political because it th
 
 ##### The Manifestation Trap: When Positive Thinking Becomes Life-Threatening
 
-*Consider Sarah's story: A friend warned her not to drive through a particular neighborhood late at night, explaining that several people had been mugged there recently. Sarah, influenced by manifestation culture, dismissed this as "negative thinking" and accused her friend of "trying to manifest bad things." She drove through the area anyway with her young daughter in the car, believing her positive thoughts would protect them.*
+*Consider this example: A friend warned someone not to drive through a particular neighborhood late at night, explaining that several people had been mugged there recently. The person, influenced by manifestation culture, dismissed this as "negative thinking" and accused her friend of "trying to manifest bad things." She drove through the area anyway with her young daughter in the car, believing her positive thoughts would protect them.*
 
 *They were mugged at gunpoint.*
 
-*Rather than recognizing that she had ignored practical safety advice, Sarah blamed her friend for "manifesting" the mugging by warning her about it. In her mind, the friend's "negative energy" had caused the attack, not her own decision to ignore real-world dangers in favor of magical thinking.*
+*Rather than recognizing that she had ignored practical safety advice, she blamed her friend for "manifesting" the mugging by warning her about it. In her mind, the friend's "negative energy" had caused the attack, not her own decision to ignore real-world dangers in favor of magical thinking.*
 
 ##### How Scientific Thinking Would Have Prevented This Tragedy
 

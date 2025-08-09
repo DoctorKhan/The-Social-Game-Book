@@ -2,9 +2,9 @@
 
 I had completed my diagnosis of the Social Game and identified the principles of individual resistance. But as I prepared to conclude this investigation, a final question emerged—one that would determine whether this work would remain merely academic or become the foundation for genuine transformation.
 
-"We've shown people how to see the game and develop internal sovereignty," Elena reflected during their final meeting. "But what happens next? How do we move beyond individual awakening to collective solutions?"
+As I reflected on my research, a crucial question emerged: I had shown people how to see the game and develop internal sovereignty. But what happens next? How do we move beyond individual awakening to collective solutions?
 
-David nodded. "The real challenge isn't just escaping the system—it's building something better to replace it."
+The real challenge isn't just escaping the system—it's building something better to replace it.
 
 After diagnosing the problem and providing tools for individual resistance, we arrive at the most critical question: How do we build a constructive, systemic solution? The answer lies not in withdrawal or isolation, but in learning to connect properly—using the most advanced tools of modern science to design healthy relationships between sovereign communities and larger-scale civilization.
 
