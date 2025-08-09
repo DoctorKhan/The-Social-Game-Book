@@ -67,6 +67,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 **The Setup**: Economic policies concentrate wealth upward, leaving working-class communities of all races competing for shrinking resources.
 
 **The Scapegoating**:
+
 - **Working-class whites** are taught that **minorities** are taking "their" jobs through affirmative action and immigration
 - **Minority communities** are encouraged to see **working-class whites** as the primary source of racism, rather than systemic economic policies
 - **Both groups** fight over access to declining opportunities while wealth extraction accelerates
@@ -80,6 +81,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 **The Setup**: Stagnant wages force families to need two incomes while work becomes increasingly precarious for everyone.
 
 **The Scapegoating**:
+
 - **Men** are taught that **women** in the workforce are displacing them and destroying traditional family structures
 - **Women** are encouraged to see **men** as the primary obstacle to workplace equality, rather than systems that exploit all workers
 - **Both groups** compete for jobs with declining benefits and security
@@ -93,6 +95,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 **The Setup**: Economic policies transfer wealth from younger to older generations through housing, education, and retirement systems designed to benefit asset holders.
 
 **The Scapegoating**:
+
 - **Millennials** blame **Boomers** for housing costs, student debt, environmental destruction, and political dysfunction
 - **Boomers** blame **Millennials** for being entitled, destroying work ethic, and rejecting traditional values
 - **Both generations** ignore that the same financial institutions profit from both conflicts
@@ -106,6 +109,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 **The Setup**: Economic policies favor financial centers while extracting resources from both urban working-class and rural communities.
 
 **The Scapegoating**:
+
 - **Rural communities** blame **urban elites** for cultural condescension, environmental regulations, and economic policies that hurt traditional industries
 - **Urban communities** blame **rural voters** for blocking progressive policies, supporting authoritarian politicians, and resisting social change
 - **Both regions** are economically exploited by the same corporate interests
@@ -117,6 +121,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 **The Setup**: Economic inequality increases while education costs skyrocket, creating artificial scarcity in professional opportunities.
 
 **The Scapegoating**:
+
 - **College-educated workers** blame **non-college workers** for voting against their economic interests and supporting "anti-intellectual" policies
 - **Working-class people** blame **college-educated professionals** for looking down on them and supporting policies that hurt traditional industries
 - **Both groups** face declining economic security despite different educational credentials
@@ -128,6 +133,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 **The Setup**: Economic policies create artificial scarcity in jobs, housing, and social services while concentrating wealth upward.
 
 **The Scapegoating**:
+
 - **Native-born workers** blame **immigrants** for taking jobs, lowering wages, and straining social services
 - **Immigrant communities** are encouraged to see **native-born workers** as xenophobic obstacles to inclusion
 - **Both groups** compete for declining opportunities while wealth concentrates among asset holders
@@ -139,6 +145,7 @@ My investigation revealed how legitimate civil rights movements had been systema
 I realized that **all these divisions serve the same function**: preventing class-based organizing that could challenge wealth concentration.
 
 **The Core Insight**: Every scapegoating pattern follows the same formula:
+
 1. **Economic policies** create real hardship for working-class people
 2. **Media and political systems** provide scapegoats from other struggling groups
 3. **Horizontal fighting** exhausts energy that could be directed at vertical power structures
