@@ -1,4 +1,4 @@
-# Chapter 15: The Architecture of Division
+# Chapter 16: The Architecture of Division
 
 My historical research had revealed the ancient playbook. But I needed to understand how it was being applied in modern life. What I discovered was a sophisticated architecture of division operating at every level of society.
 
