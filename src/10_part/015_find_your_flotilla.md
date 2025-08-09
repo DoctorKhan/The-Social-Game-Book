@@ -1,21 +1,21 @@
-# Chapter 2: Find Your Flotilla
+# Your First Mission: Assemble Your Flotilla
 
-The grackles showed me what we'd lost—but they also revealed what was still possible. If we're going to investigate how human social intelligence has been systematically disrupted, we need to start rebuilding it.
+The systems we are about to investigate are designed to isolate, confuse, and overwhelm the individual mind. To proceed safely, you must not proceed alone.
 
-**This investigation is too dangerous to undertake alone.**
+This is your first and most critical assignment.
 
 ## The Flotilla Principle
 
-Imagine sailors navigating treacherous waters. Instead of sailing alone, they lash their boats together, creating a stable platform that can weather storms no individual vessel could survive.
+In treacherous seas, sailors lash their boats together. A single vessel can be swamped by a storm, but a flotilla creates a stable, resilient platform.
 
-**This investigation works the same way.** The patterns we're about to uncover are designed to isolate and overwhelm individual minds. When we investigate together, we become immune to the very manipulation techniques we're studying.
+This investigation is that storm. The psychological and social patterns we will uncover are powerful. A small, trusted group provides the necessary stability to navigate them. When you investigate together, you become immune to the very manipulation techniques you are studying.
 
-## Your Assignment
+## Your Assignment:
 
-**Before proceeding to Chapter 2, form your Flotilla using Exercise B.1 in Appendix B.**
+**Before proceeding, you must form your Flotilla.**
 
-Find 2-4 people to go through this material with you. The complete protocol is in the appendix.
+The complete protocol for this is **Exercise B.1 in Appendix B**. It is a simple process for finding 2-4 trusted peers to explore this material with you.
 
-**Why this matters**: By consciously creating small, trusted communities based on mutual support and shared inquiry, you're already building the alternative to isolation-based control systems.
+Do not skip this step. Your Flotilla is your laboratory and your shield.
 
-**The resistance begins with connection.**
+The resistance begins with connection.
