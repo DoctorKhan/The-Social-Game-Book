@@ -1,4 +1,4 @@
-# Chapter 13: The Reality Whirlpool - A First Aid Kit for Emotional Hijacking
+# Chapter 21: The Reality Whirlpool - A First Aid Kit for Emotional Hijacking
 
 Understanding your strings is one thing, but what happens when they pull so hard you feel completely hijacked? When the Social Game triggers such intense emotions that conscious choice seems impossible?
 
