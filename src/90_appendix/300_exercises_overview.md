@@ -107,6 +107,6 @@ If an exercise is decreasing these qualities, modify your approach or seek suppo
 
 ---
 
-*The exercises that follow are your practical toolkit for navigating the Social Game with consciousness and skill. They represent the distilled wisdom of our investigators' journey from unconscious participation to conscious choice.*
+*The exercises that follow are your practical toolkit for navigating the Social Game with consciousness and skill. They represent the distilled wisdom of my journey from unconscious participation to conscious choice.*
 
 *Take them seriously, but hold them lightly. They are maps, not territories—guides for your own direct investigation into the nature of social programming and human freedom.*

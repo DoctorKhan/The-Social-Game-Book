@@ -119,7 +119,7 @@ The marionette's discovery offers a practical framework for working with these i
 
 The most profound insight from this parable is that freedom doesn't come from cutting the strings—it comes from learning to dance with them consciously. The strings represent the legitimate needs, drives, and influences that make us human. The goal isn't to eliminate them but to work with them as a conscious partner rather than an unconscious puppet.
 
-This is what our investigators were observing in people who seemed immune to the Social Game: they weren't free from human needs and drives, but they had learned to work with them consciously. They felt the pull of approval, security, and connection just like everyone else—but they responded from choice rather than compulsion.
+This is what I was observing in people who seemed immune to the Social Game: they weren't free from human needs and drives, but they had learned to work with them consciously. They felt the pull of approval, security, and connection just like everyone else—but they responded from choice rather than compulsion.
 
 **But the parable leaves us with the deepest mystery of all**: Who is the puppeteer? The marionette learned to dance with the strings, but he never saw who was pulling them. The strings disappeared into darkness above, controlled by someone—or something—that remained hidden.
 

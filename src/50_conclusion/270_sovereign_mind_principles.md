@@ -1,6 +1,6 @@
 ### Chapter 11: Principles of the Sovereign Mind
 
-The investigators arrived at a crucial realization: liberation from the external game is impossible without first addressing the game being played within our own minds. The most sophisticated prison is the one where the prisoners guard themselves.
+I arrived at a crucial realization: liberation from the external game is impossible without first addressing the game being played within our own minds. The most sophisticated prison is the one where the prisoners guard themselves.
 
 We all run on an "internal operating system" of automatic thoughts, emotions, and behaviors, programmed by biology, culture, and personal history. The problem is not the programming itself, but our unconsciousness of it. The key to freedom is **Manual Override**: the ability to recognize when your automatic programming is running and consciously choose a different response.
 
@@ -42,7 +42,7 @@ Just as the Social Game uses predictable external strategies, it also relies on 
 
 #### The Psychological Traps of Awakening
 
-As the investigators completed their work, they reflected on the psychological risks they had observed in themselves and others who undergo this type of investigation. Understanding these patterns can help you navigate them more skillfully:
+As I completed this work, I reflected on the psychological risks I had observed in myself and others who undergo this type of investigation. Understanding these patterns can help you navigate them more skillfully:
 
 **The Overwhelm Trap**: When you begin to see the scope of systematic manipulation, it can feel crushing. The problems seem too large, too entrenched, too sophisticated for any individual to address. This can lead to paralysis or despair.
 
@@ -52,7 +52,7 @@ As the investigators completed their work, they reflected on the psychological r
 
 **The Despair Trap**: Seeing the depth of the challenges facing humanity can lead to hopelessness. If the systems are so entrenched, if the programming runs so deep, what's the point of trying to change anything?
 
-The investigators discovered that these traps are not personal failings but predictable stages in the awakening process. The antidote to all of them is the same: trusted community that can provide perspective, support, and reality-testing. This is why the most profound investigations into the nature of reality have always been conducted by communities of seekers, not isolated individuals.
+I discovered that these traps are not personal failings but predictable stages in the awakening process. The antidote to all of them is the same: trusted community that can provide perspective, support, and reality-testing. This is why the most profound investigations into the nature of reality have always been conducted by communities of seekers, not isolated individuals.
 
 **Practical Application**: Notice when you feel defensive about your political views, professional status, lifestyle choices, or group memberships. Practice holding these identities as temporary roles rather than permanent definitions of your worth.
 

@@ -1,12 +1,12 @@
 ### Chapter 12: The Counter-Strategy - Principles of Sovereign Community
 
-Having documented the mechanisms of the Social Game, our investigators faced the crucial question: Is resistance possible? The answer lies in understanding the system's fundamental weakness: **it depends entirely on our unconscious participation.**
+Having documented the mechanisms of the Social Game, I faced the crucial question: Is resistance possible? The answer lies in understanding the system's fundamental weakness: **it depends entirely on our unconscious participation.**
 
 But first, they needed to understand the master strategy that underlies all the tactics they had observed.
 
 #### The Isolation Strategy: The Master Pattern
 
-As the investigators synthesized their findings, a chilling pattern emerged. Every control system throughout history—regardless of scale, context, or stated ideology—uses the same fundamental strategy:
+As I synthesized my findings, a chilling pattern emerged. Every control system throughout history—regardless of scale, context, or stated ideology—uses the same fundamental strategy:
 
 **The Four-Step Isolation Process:**
 
@@ -23,7 +23,7 @@ This pattern appears everywhere:
 - **Consumer culture** replaces community connection with product consumption
 - **Social media** creates the illusion of connection while increasing actual isolation
 
-The investigators realized they had been documenting variations of this same process operating at civilizational scale. The Divide and Conquer tactics, the Hollow Middle, the Digital Accelerant—all were sophisticated implementations of this ancient strategy.
+I realized I had been documenting variations of this same process operating at civilizational scale. The Divide and Conquer tactics, the Hollow Middle, the Digital Accelerant—all were sophisticated implementations of this ancient strategy.
 
 **The insight was both terrifying and liberating: isolation is the primary weapon of control. Therefore, connection is the primary weapon of resistance.**
 

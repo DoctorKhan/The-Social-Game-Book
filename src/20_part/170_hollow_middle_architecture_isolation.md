@@ -142,6 +142,6 @@ This created the Hollow Middle. The individual becomes completely dependent on t
 2. **Rebuild Kinship**: Create authentic community bonds and mutual aid networks
 3. **Engage the System Consciously**: Participate in necessary System functions without being controlled by them
 
-**The investigators realized they had uncovered the master key to understanding modern dysfunction. The Hollow Middle wasn't just a social problem—it was the engineered foundation of the entire control system. But understanding the architecture of isolation also revealed the blueprint for liberation: rebuilding the protective membrane of authentic community that could nurture individuals while providing resilience against systemic manipulation.**
+**I realized I had uncovered the master key to understanding modern dysfunction. The Hollow Middle wasn't just a social problem—it was the engineered foundation of the entire control system. But understanding the architecture of isolation also revealed the blueprint for liberation: rebuilding the protective membrane of authentic community that could nurture individuals while providing resilience against systemic manipulation.**
 
 *The question was no longer just "How do we resist the Social Game?" but "How do we rebuild the very social structures that make us immune to it?"*

@@ -1,6 +1,6 @@
 ### Chapter 13: The Science of Sovereign Connection - Protocols for a Networked Civilization
 
-The investigators had completed their diagnosis of the Social Game and identified the principles of individual resistance. But as they prepared to conclude their investigation, a final question emerged—one that would determine whether their work would remain merely academic or become the foundation for genuine transformation.
+I had completed my diagnosis of the Social Game and identified the principles of individual resistance. But as I prepared to conclude this investigation, a final question emerged—one that would determine whether this work would remain merely academic or become the foundation for genuine transformation.
 
 "We've shown people how to see the game and develop internal sovereignty," Elena reflected during their final meeting. "But what happens next? How do we move beyond individual awakening to collective solutions?"
 

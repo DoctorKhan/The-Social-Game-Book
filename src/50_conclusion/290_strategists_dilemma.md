@@ -1,8 +1,8 @@
 ### Chapter 14: Conclusion - The Strategist's Dilemma & The Third Path
 
-As the investigators completed their analysis, they faced the question that confronts every conscious person: Now what?
+As I completed my analysis, I faced the question that confronts every conscious person: Now what?
 
-Every awakened individual faces what the investigators came to call the **Strategist's Dilemma**: Do you engage with the corrupt system and risk being co-opted, or do you withdraw to build alternatives and risk irrelevance?
+Every awakened individual faces what I came to call the **Strategist's Dilemma**: Do you engage with the corrupt system and risk being co-opted, or do you withdraw to build alternatives and risk irrelevance?
 
 #### The Two False Paths
 
@@ -14,7 +14,7 @@ Both paths have been tried countless times throughout history. Both have their p
 
 #### The Third Path: Selective Engagement
 
-But what if this is a false choice? The investigators realized there is a third path, inspired by communities like the Amish and the Balinese who are masters of selective engagement.
+But what if this is a false choice? I realized there is a third path, inspired by communities like the Amish and the Balinese who are masters of selective engagement.
 
 These communities have learned to use the best of modern technology as supportive "scaffolding" while maintaining their authentic human "gardens." They engage with the larger system strategically—taking what serves their values while rejecting what undermines their community bonds.
 
@@ -24,7 +24,7 @@ These communities have learned to use the best of modern technology as supportiv
 
 #### The Vision: AI as Scaffolding, Humans as Gardeners
 
-The investigators began to envision a future that transcended the traditional reform/secession dilemma. What if we could design a civilization that maximized both technological capability and human flourishing?
+I began to envision a future that transcended the traditional reform/secession dilemma. What if we could design a civilization that maximized both technological capability and human flourishing?
 
 Imagine a world where **AI, the ultimate Clockmaker tool, manages the Sphere of the System**—optimizing global logistics, resource allocation, and infrastructure to create material abundance. This frees up humanity to **cultivate the Sphere of Kinship**—focusing on art, ritual, child-rearing, elder care, and local governance.
 
@@ -76,7 +76,7 @@ Each person who completes this investigation faces a choice about their role in 
 
 #### The Long Game
 
-The investigators realized they were part of a much larger historical process—the transition from unconscious to conscious civilization. This transition has been underway for centuries, accelerating in recent decades as the contradictions of the old system become impossible to ignore.
+I realized I was part of a much larger historical process—the transition from unconscious to conscious civilization. This transition has been underway for centuries, accelerating in recent decades as the contradictions of the old system become impossible to ignore.
 
 Their investigation was not just about exposing problems but about midwifing solutions. They were documenting the birth of a new form of human organization—one that honors both our technological capabilities and our deepest human needs.
 
@@ -84,11 +84,11 @@ Their investigation was not just about exposing problems but about midwifing sol
 
 The ultimate success of this work would be its own obsolescence. If conscious communities become the norm, if AI serves human flourishing rather than control, if the Social Game is replaced by conscious participation in reality creation, then the analysis in this book becomes historical curiosity rather than urgent necessity.
 
-The investigators understood that they were working toward a future where their children would read about the Social Game the way we read about feudalism—as an interesting but outdated form of social organization that humanity outgrew.
+I understood that I was working toward a future where our children would read about the Social Game the way we read about feudalism—as an interesting but outdated form of social organization that humanity outgrew.
 
 #### The Invitation
 
-As the investigation concluded, the four investigators issued an invitation to every reader:
+As this investigation concludes, I issue an invitation to every reader:
 
 "We have shown you the game. We have revealed the patterns. We have provided tools for resistance and reconstruction. But the most important work cannot be done by reading—it can only be done by living.
 
@@ -104,7 +104,7 @@ The future of human civilization depends on your answer."
 
 #### The Continuing Mystery
 
-But even as they completed their practical recommendations, the investigators couldn't shake a deeper question that had emerged from their research. The systems of control were too sophisticated, too ancient, too perfectly calibrated to human psychology to be the product of random historical development.
+But even as I completed these practical recommendations, I couldn't shake a deeper question that had emerged from my research. The systems of control were too sophisticated, too ancient, too perfectly calibrated to human psychology to be the product of random historical development.
 
 The real question wasn't "How do these systems work?" The real question was **"Why do they work so well on us?"**
 

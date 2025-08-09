@@ -119,13 +119,13 @@ You've completed the diagnosis. The treatment begins now.
 
 #### The Deeper Mystery Revealed
 
-As our investigators completed their analysis of the Social Game, they found themselves confronting a profound and unsettling realization. The systems of control they had documented—the divide-and-conquer tactics, the manufactured tribal conflicts, the systematic dismantling of community bonds, the algorithmic manipulation of human psychology—were too sophisticated, too comprehensive, and too ancient to be the product of any single generation of human elites.
+As I completed my analysis of the Social Game, I found myself confronting a profound and unsettling realization. The systems of control I had documented—the divide-and-conquer tactics, the manufactured tribal conflicts, the systematic dismantling of community bonds, the algorithmic manipulation of human psychology—were too sophisticated, too comprehensive, and too ancient to be the product of any single generation of human elites.
 
 These patterns functioned less like a political conspiracy and more like a deeply embedded operating system, running on code written long before the dawn of recorded history. The psychological vulnerabilities being exploited seemed almost engineered into human nature itself. The social structures being dismantled appeared to have been systematically targeted with an understanding of human community that transcended any individual lifetime of observation.
 
 David, Sarah, Elena, and Marcus had solved the immediate mystery: they understood how the Social Game operated, who benefited from it, and how to build resistance. But their investigation had led them to the edge of a much deeper question—one that would require them to examine not just the recent history of social manipulation, but the entire story of human civilization itself.
 
-The crime scene was clear, the methods understood, the perpetrators identified. But the investigators were left staring into the abyss of a deeper mystery: **Who, or what, first wrote the rules to the Social Game? And why does it feel like humanity has been playing by someone else's rules for far longer than we remember?**
+The crime scene was clear, the methods understood, the perpetrators identified. But I was left staring into the abyss of a deeper mystery: **Who, or what, first wrote the rules to the Social Game? And why does it feel like humanity has been playing by someone else's rules for far longer than we remember?**
 
 The answers to these questions lie not in political analysis or social theory, but in the hidden history of human origins—a story that challenges everything we think we know about who we are, where we came from, and what we're really capable of becoming.
 

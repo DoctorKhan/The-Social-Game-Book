@@ -44,7 +44,7 @@ For a Flotilla to be a safe harbor and not just another social game, it must ope
 
 ### **The Five Protocols of the Flotilla**
 
-**1. This is a Lab, Not a Church.** We are not here to establish dogma or decide who is "right." We are co-investigators testing a set of hypotheses against our direct experience. The goal is discovery, not belief. All ideas are held lightly and are subject to verification.
+**1. This is a Lab, Not a Church.** We are not here to establish dogma or decide who is "right." We are co-researchers testing a set of hypotheses against our direct experience. The goal is discovery, not belief. All ideas are held lightly and are subject to verification.
 
 **2. Share Stories, Not Advice.** The most common trap is trying to "fix" each other. When someone shares a struggle, the group's role is not to offer solutions, but to listen deeply and, if appropriate, share a story of their own similar experience. This creates connection, not hierarchy.
 

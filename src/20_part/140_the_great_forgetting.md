@@ -24,7 +24,7 @@ In False Hierarchy:
 
 #### The Attack on Rites of Passage
 
-To understand the systematic destruction of initiation, the investigators traced the story of a single lineage from the 12th-century Scottish MacLeod clan to the present day:
+To understand the systematic destruction of initiation, I traced the story of a single lineage from the 12th-century Scottish MacLeod clan to the present day:
 
 **Stage 1: Extended Family Networks (12th-15th Century)**
 The MacLeod clan provided comprehensive economic, social, and spiritual support. Boys became men through clan initiation—hunting expeditions, warrior training, and ceremonial recognition by elders. The community witnessed and validated the transition from child to adult.
@@ -65,7 +65,7 @@ Perhaps most devastatingly, our capacity for playful sovereignty—the ability t
 
 #### The Pattern of Systematic Dismantling
 
-The investigators realized they were looking at a coordinated attack on human social intelligence that operated across multiple generations:
+I realized I was looking at a coordinated attack on human social intelligence that operated across multiple generations:
 
 1. **Identify** the pillar that creates community resilience
 2. **Weaken** it through crisis, regulation, or cultural pressure  
@@ -77,7 +77,7 @@ Each generation inherited a slightly more fragmented social environment, until w
 
 #### The Beneficiaries
 
-Who benefited from this systematic dismantling? The investigators identified three categories:
+Who benefited from this systematic dismantling? I identified three categories:
 
 **Economic Beneficiaries**: Systems that profit from dependency—consumer industries, financial institutions, pharmaceutical companies that treat the symptoms of social isolation.
 
@@ -85,7 +85,7 @@ Who benefited from this systematic dismantling? The investigators identified thr
 
 **Psychological Beneficiaries**: Individuals who gain status from others' dependency—experts who hoard knowledge, leaders who maintain power through others' confusion, influencers who profit from others' insecurity.
 
-But the investigators realized something crucial: most of these beneficiaries were also victims of the same system. They were playing roles in a game whose rules they didn't fully understand.
+But I realized something crucial: most of these beneficiaries were also victims of the same system. They were playing roles in a game whose rules they didn't fully understand.
 
 #### The Deeper Question
 
@@ -95,7 +95,7 @@ The evidence suggested both. Individual actors made conscious choices that serve
 
 It was as if the system itself had developed an immune response against authentic human community—not through conscious malice, but through the cold logic of optimization for control.
 
-The investigators were beginning to understand that they weren't just looking at human corruption. They were looking at something more systematic, more ancient, and more sophisticated than any individual conspiracy.
+I was beginning to understand that I wasn't just looking at human corruption. I was looking at something more systematic, more ancient, and more sophisticated than any individual conspiracy.
 
 The question was no longer "Who did this?" but "What kind of intelligence could orchestrate such a comprehensive attack on human social bonds across multiple generations?"
 

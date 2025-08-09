@@ -73,7 +73,7 @@ Use this door when a whirlpool is **too intense** to engage with directly. The g
 
 The Three Doors give you emergency tools for escaping whirlpools in the moment. But how do you build the capacity to stay free, so you're not constantly having to escape? The answer lies in structuring your entire day around managing these mental patterns.
 
-Our investigators discovered a systematic way to architect your day for mental clarity and resilience:
+Through my research and practice, I discovered a systematic way to architect your day for mental clarity and resilience:
 
 #### Zone 1: The Foundation Zone (Morning)
 

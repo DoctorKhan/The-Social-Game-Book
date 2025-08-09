@@ -2,7 +2,7 @@
 
 The internet promised to democratize knowledge, flattening the hierarchies that had once hoarded wisdom. We celebrated this as progress. But what if this "democratization" has created one of the most profound sources of modern meaninglessness?
 
-Sarah Kim's investigation revealed the devastating consequence of this shift. Traditional knowledge was transmitted through social relationships—apprenticeship, mentorship, elder guidance—where competency was proven through experience. The internet replaced this with abstract information exchange, stripping knowledge of its social context.
+My investigation revealed the devastating consequence of this shift. Traditional knowledge was transmitted through social relationships—apprenticeship, mentorship, elder guidance—where competency was proven through experience. The internet replaced this with abstract information exchange, stripping knowledge of its social context.
 
 To understand the danger, consider the tale of two mechanics. Marcus is a real mechanic with fifteen years of experience. He solves problems in the physical world. Tyler is a TikTok influencer who posts "car hacks." He has millions of views but no practical skill. When your car breaks down, you want Marcus, but the internet's algorithms give Tyler a bigger microphone. His expertise is performative, not practical.
 
@@ -270,7 +270,7 @@ This systematic destruction of expertise serves the Social Game perfectly. When 
 
 The internet's false democracy didn't just change how we access information—it systematically destroyed the social systems that support human learning and development, creating a population perfectly suited for manipulation and control.
 
-**The investigators realized they had uncovered another crucial mechanism: the internet's false democracy wasn't just creating misinformation—it was systematically destroying humanity's ability to learn, grow, and distinguish truth from manipulation. This weaponized confusion serves the Social Game by creating a population that is simultaneously over-informed and under-educated, constantly stimulated but never truly learning, connected to everything but belonging to nothing.**
+**I realized I had uncovered another crucial mechanism: the internet's false democracy wasn't just creating misinformation—it was systematically destroying humanity's ability to learn, grow, and distinguish truth from manipulation. This weaponized confusion serves the Social Game by creating a population that is simultaneously over-informed and under-educated, constantly stimulated but never truly learning, connected to everything but belonging to nothing.**
 
 #### Digital Sovereignty: First Principles of Digital Hygiene
 

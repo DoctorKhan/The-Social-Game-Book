@@ -37,7 +37,7 @@ The war against play operates through systematic corruption of our natural playf
 
 #### The Deeper Pattern
 
-The investigators realized that every mechanism of the Social Game could be understood as an attack on a specific aspect of human playfulness:
+I realized that every mechanism of the Social Game could be understood as an attack on a specific aspect of human playfulness:
 
 **Divide and Conquer** → Corrupts our playful ability to form flexible alliances and experiment with different group configurations.
 

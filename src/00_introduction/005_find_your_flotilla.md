@@ -24,7 +24,7 @@ The information in these books can be psychologically destabilizing. Attempting 
 
 This investigation will challenge many assumptions about how the world works. Like any profound inquiry, it's best undertaken with trusted companions who can provide perspective, support, and reality-testing.
 
-Throughout history, the most important discoveries have been made by communities of investigators working together, not isolated individuals working alone.
+Throughout history, the most important discoveries have been made by communities of researchers working together, not isolated individuals working alone.
 
 The investigation you're about to undertake will show you how these same patterns operate at a civilizational level. **The system's greatest fear is that you will find others who see what you see.**
 

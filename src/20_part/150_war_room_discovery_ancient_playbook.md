@@ -89,7 +89,7 @@ I started seeing this pattern everywhere in contemporary life:
 
 #### The Investigation Deepens
 
-*The four investigators stepped back and looked at their evidence boards. What had started as separate observations about modern social problems had revealed itself as part of a much larger historical pattern.*
+*I stepped back and looked at my research. What had started as observations about modern social problems had revealed itself as part of a much larger historical pattern.*
 
 **David**: "We're not just investigating a contemporary crisis. We're investigating a strategy that's been used to control populations for over two thousand years."
 
@@ -105,7 +105,7 @@ I started seeing this pattern everywhere in contemporary life:
 
 #### Key Discoveries
 
-As the investigators concluded their first collaborative session, they had identified several crucial insights:
+As I concluded this phase of my research, I had identified several crucial insights:
 
 1. **The Divide and Conquer strategy is not new**—it's been used successfully by power structures for over 2,000 years
 2. **The strategy is not necessarily conspiratorial**—it's a principle that gets rediscovered because it works
@@ -119,6 +119,6 @@ As the investigators concluded their first collaborative session, they had ident
 
 ---
 
-*As they packed up their materials, the four investigators realized they had crossed a threshold. They were no longer just observing the fragmentation of human community—they were actively working to heal it. Their investigation had become a form of resistance.*
+*As I concluded this research, I realized I had crossed a threshold. I was no longer just observing the fragmentation of human community—I was actively working to heal it. My investigation had become a form of resistance.*
 
 *The ancient playbook was powerful, but it had a weakness: it only worked when people couldn't see it clearly. Their next task was to map out exactly how this playbook was being deployed in the modern world to dismantle the very pillars of community they had just uncovered.*
