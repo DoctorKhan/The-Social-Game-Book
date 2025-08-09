@@ -1,4 +1,4 @@
-# Chapter 7: The Workshop Discovery - True vs. False Hierarchy
+# Chapter 8: The Workshop Discovery - True vs. False Hierarchy
 
 My investigations into community dynamics had revealed patterns of natural coordination. But I needed to understand something deeper: how does knowledge and wisdom actually get transmitted in healthy communities?
 

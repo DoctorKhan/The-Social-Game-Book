@@ -23,11 +23,13 @@ Not by accident. By design.
 The grackles revealed a contradiction I'd been living but never named:
 
 **What I knew was true:**
+
 - Humans evolved as a hyper-social species
 - We can coordinate space missions and global supply chains
 - We're capable of extraordinary empathy and cooperation
 
 **What I experienced daily:**
+
 - Political systems turning neighbors into enemies
 - Economic systems forcing competition over cooperation
 - Communities dissolving despite shared values and good intentions
@@ -53,6 +55,7 @@ We possess sophisticated social intelligence, yet we live in a world of systemat
 **This level of dysfunction in a naturally social species isn't random cultural drift. It's systematic interference with our natural coordination abilities.**
 
 The questions that drove my investigation:
+
 - What kind of interference?
 - Who benefits from fragmenting human communities?
 - What would happen if we could restore our natural social intelligence?

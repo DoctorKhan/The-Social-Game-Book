@@ -1,4 +1,4 @@
-# Introduction: The Great Mystery
+# Introduction
 
 I stared out the airplane window at the grid of city lights below, my laptop still warm from hours of research. On the screen, an ad promised a new app would "build your global community." I scoffed.
 
@@ -26,7 +26,7 @@ I closed my notebook and made a decision. I was going to find out what was reall
 
 Why has humanity—a hyper-social species with unprecedented technological capabilities—lost its natural capacity for authentic community and collective intelligence?
 
-The evidence: A 2,000-year-old playbook of social control, economic systems designed to isolate and extract, political strategies that turn allies into enemies, and technological amplification of ancient manipulation techniques.
+The evidence: A 4,000-year-old playbook of social control, economic systems designed to isolate and extract, political strategies that turn allies into enemies, and technological amplification of ancient manipulation techniques.
 
 This isn't about devices. It's about the systematic dismantling of the social infrastructure that once made humans resilient, connected, and impossible to control.
 

@@ -1,4 +1,4 @@
-# Chapter 2: What I Found in Bali
+# Chapter 3: What I Found in Bali
 
 The grackles had shown me that effortless coordination was possible. But I needed to understand what it looked like in human communities. That search led me to Bali.
 

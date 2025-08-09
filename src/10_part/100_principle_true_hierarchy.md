@@ -1,4 +1,4 @@
-# Chapter 10: The Third Principle - True vs. False Hierarchy
+# Chapter 11: The Third Principle - True vs. False Hierarchy
 
 My investigations revealed a critical distinction that explained much of what I'd been witnessing: the difference between **True Hierarchy** and **False Hierarchy**. The Social Game thrives by tricking us into accepting the latter as the only possible form of organization.
 

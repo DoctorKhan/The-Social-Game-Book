@@ -1,4 +1,4 @@
-# Chapter 3: The First Principle - Social Rhythm
+# Chapter 4: The First Principle - Social Rhythm
 
 What I discovered in Bali revealed the first and most fundamental pillar of healthy community: **The Social Rhythm**. This is the natural, pulsing cadence of collective life that provides structure without rigidity, allowing for organic connection and resilience.
 

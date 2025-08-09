@@ -1,4 +1,4 @@
-# Chapter 11: The Marionette's Discovery
+# Chapter 12: The Marionette's Discovery
 
 My investigations had revealed that human social intelligence was being systematically disrupted. But I needed to understand something deeper: how does this manipulation work at the level of individual consciousness?
 

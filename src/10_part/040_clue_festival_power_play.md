@@ -1,4 +1,4 @@
-# Chapter 4: What I Discovered in the Desert
+# Chapter 5: What I Discovered in the Desert
 
 Bali had shown me that natural community rhythms were possible. But I needed to understand something else: could modern people, stripped of traditional structures, still create authentic connection?
 

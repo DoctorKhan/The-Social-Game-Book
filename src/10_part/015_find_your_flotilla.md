@@ -1,4 +1,4 @@
-# Find Your Flotilla
+# Chapter 2: Find Your Flotilla
 
 The grackles showed me what we'd lost—but they also revealed what was still possible. If we're going to investigate how human social intelligence has been systematically disrupted, we need to start rebuilding it.
 

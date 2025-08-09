@@ -1,4 +1,4 @@
-# Chapter 5: The Second Principle - Playful Sovereignty
+# Chapter 6: The Second Principle - Playful Sovereignty
 
 My discovery in the desert revealed the second pillar of sovereign community: **Playful Sovereignty**. This is the innate human capacity to treat social structures not as rigid, permanent realities, but as imaginative, consensual games.
 
