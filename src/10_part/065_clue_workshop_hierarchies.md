@@ -54,6 +54,8 @@ This system doesn't develop leaders. It creates managers who are skilled at impl
 
 This is not a hierarchy of wisdom. It is a pyramid of fear.
 
+## The Great Forgetting
+
 And perhaps most tragically, we've systematically dismantled the very structures that evolution designed to preserve and transmit wisdom. We warehouse our elders in isolation facilities. We dismiss their knowledge as "outdated." We've created the first human societies in history to actively waste our evolutionary advantage—the accumulated wisdom of those who have lived through multiple cycles of challenge and adaptation.
 
 The master craftsman and his apprentice represent something our species spent millions of years perfecting. What we're witnessing in that workshop isn't just skill transfer—it's the biological imperative of wisdom preservation in action.
