@@ -14,10 +14,6 @@ Standing there, I realized I was witnessing evidence of something we'd lost.
 
 **The question that launched everything**: If birds can coordinate effortlessly, why do humans struggle with basic social cooperation?
 
-This observation launched a years-long investigation across continents and through centuries of human social organization. What I discovered: **something is systematically disrupting humanity's natural capacity for social coordination.**
-
-Not by accident. By design.
-
 ## The Contradiction That Haunted Me
 
 The grackles revealed a contradiction I'd been living but never named:
@@ -45,8 +41,6 @@ Every flock moved as one organism, seamlessly reorganizing without conflict. The
 That grackle observation launched an investigation that took me to places I never expected. In Bali, I witnessed communities that had maintained their natural social rhythms despite centuries of outside pressure. In Hawaii, I found pockets where human coordination still flowed like those grackle formations. At festivals, I watched strangers create deeper bonds in days than most people form in years.
 
 Each discovery revealed the same thing: **human social intelligence works beautifully when it's not being systematically disrupted.**
-
-But it also revealed something darker: the disruption isn't accidental. It's engineered.
 
 ## The Unthinkable Conclusion
 
