@@ -22,7 +22,7 @@ I met other people with similar stories. Every person in the anxiety group had d
 
 **We had all independently discovered the same ancient technology for nervous system regulation.** Not through any book or expert, but through our bodies' innate wisdom when given the chance to remember.
 
-## The Realization
+### The Realization
 
 The realization came slowly, then all at once. For months, I'd been trapped in what I now recognize as a reality whirlpool—endless loops of anxious thoughts that felt completely real and urgent. My mind had become a prison of artificial problems that triggered genuine survival stress.
 
