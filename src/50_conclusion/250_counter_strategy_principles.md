@@ -123,6 +123,74 @@ The Social Game maintains power by fragmenting human intelligence—keeping peop
 
 **The Strategic Importance**: Communities that can think and act collectively are far more powerful than the sum of their individual members. They can solve problems that seem impossible to isolated individuals and create alternatives that serve everyone's interests.
 
+#### Principle 5: Peace as Revolutionary Practice
+
+The Social Game depends on reactive, divided, and emotionally hijacked people. Therefore, **peace is not passive withdrawal—it is active resistance**. Every moment of conscious calm, every de-escalated conflict, every peaceful response to provocation directly undermines the control system.
+
+##### The Philosophy of Peace as Power
+
+**The Core Insight**: The system needs us angry, afraid, and fighting each other. When we remain peaceful and centered, we break the fundamental mechanism of control.
+
+**Why Peace Threatens Power**: Peaceful people cannot be easily manipulated through fear or outrage. They think clearly, build relationships across differences, and create solutions rather than perpetuating conflicts. A peaceful community is immune to divide-and-conquer tactics.
+
+**The Revolutionary Recognition**: In a system designed to generate conflict, choosing peace is the most radical act possible.
+
+##### The Three Dimensions of Peace Practice
+
+**Inner Peace: Emotional Sovereignty**
+
+**The Practice**: Developing the ability to remain centered during emotional triggers, using techniques from Manual Override like the Four Freedoms compass to respond consciously rather than reactively.
+
+**The Social Impact**: When you don't export your stress and reactivity to others, you break the cascade of unresolved charge that feeds systemic dysfunction. Your peace becomes a stabilizing force in your community.
+
+**Practical Application**: Instead of reacting to manufactured outrage on social media, pause and ask: "Who benefits from me being angry about this right now?"
+
+**Interpersonal Peace: Conflict Transformation**
+
+**The Practice**: Learning to de-escalate conflicts by addressing underlying needs rather than surface positions, helping people see their shared interests rather than their manufactured differences.
+
+**The Social Impact**: Every conflict you help transform rather than amplify weakens the divide-and-conquer strategy. You become a bridge-builder rather than a division-amplifier.
+
+**Practical Application**: When you encounter people from "opposing" groups, practice curiosity instead of judgment: "What experiences led you to this perspective?" This often reveals shared concerns beneath surface disagreements.
+
+**Community Peace: Collective Harmony**
+
+**The Practice**: Creating community structures and practices that prevent conflicts from escalating while addressing legitimate grievances through collaborative problem-solving.
+
+**The Social Impact**: Peaceful communities become models that inspire others and demonstrate alternatives to competitive, extractive systems.
+
+**Practical Application**: Organize community meetings focused on shared problems (housing costs, local business support, neighborhood safety) rather than divisive political issues.
+
+##### Peace as Strategic Non-Participation
+
+**The Insight**: The most powerful form of resistance is often **refusing to participate** in the conflicts the system needs you to have.
+
+**When Applied to Scapegoating**: Instead of defending your group against another marginalized group, redirect attention to the systems creating scarcity for both groups.
+
+**When Applied to Political Division**: Instead of taking sides in manufactured culture wars, focus on local issues where people can work together regardless of political identity.
+
+**When Applied to Economic Competition**: Instead of competing with other struggling individuals, organize collective responses to shared economic challenges.
+
+##### The Ahimsa Principle in Social Resistance
+
+Drawing from the Manual Override framework, **Ahimsa (non-violence/non-harm)** becomes a tool for social change:
+
+**Non-Violence Toward "Opponents"**: Recognizing that people caught in opposing programming are also victims of the same control systems. The goal is to free people from programming, not to defeat them.
+
+**Non-Violence Toward Systems**: Focusing energy on building alternatives rather than fighting existing systems directly. This prevents the reactive cycle that feeds systemic dysfunction.
+
+**Non-Violence Toward Self**: Avoiding the burnout and despair that come from taking on too much responsibility for changing systems beyond your direct influence.
+
+##### The Wu Wei Principle in Community Building
+
+**Wu Wei (effortless action)** applied to social change means working with natural human tendencies rather than forcing artificial solutions:
+
+**Natural Timing**: Recognizing when communities are ready for change and when to plant seeds for future growth.
+
+**Organic Development**: Allowing community projects to emerge from genuine needs and interests rather than imposing predetermined agendas.
+
+**Sustainable Pace**: Building movements that can sustain themselves over time rather than burning out through excessive effort.
+
 #### The Integration: How the Principles Work Together
 
 These principles don't operate in isolation—they reinforce each other in a web of mutual support:
@@ -136,6 +204,8 @@ These principles don't operate in isolation—they reinforce each other in a web
 **Ancestral memory** provides the wisdom and models that guide community building efforts.
 
 **Collective intelligence** enables communities to solve problems and create innovations that serve everyone's wellbeing.
+
+**Peace practice** creates the emotional and social stability that makes all other principles sustainable and effective.
 
 #### The Ripple Effect
 
