@@ -1,8 +1,8 @@
-### Chapter 9: The Reality Whirlpool: A First Aid Kit for Emotional Hijacking
+# Chapter 12: The Reality Whirlpool - A First Aid Kit for Emotional Hijacking
 
 Understanding your strings is one thing, but what happens when they pull so hard you feel completely hijacked? When the Social Game triggers such intense emotions that conscious choice seems impossible?
 
-Our investigators discovered that most people live their entire lives inside what they called a "whirlpool" without ever knowing it. It's a self-sustaining feedback loop between thoughts and feelings that you mistake for objective reality.
+Through my own healing journey and observations of others, I discovered that most people live their entire lives inside what I came to call a "whirlpool" without ever knowing it. It's a self-sustaining feedback loop between thoughts and feelings that you mistake for objective reality.
 
 This chapter provides you with an emergency toolkit—practical methods for breaking free from emotional hijacking in real-time.
 
