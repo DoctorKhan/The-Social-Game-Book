@@ -48,6 +48,8 @@ structure:
         file: "20_part/150_war_room_discovery_ancient_playbook.md"
       - title: "The Ancient Pattern"
         file: "20_part/160_divide_conquer_architecture_division.md"
+      - title: "The Engine vs The Family - The Two Operating Systems"
+        file: "20_part/165_engine_vs_family.md"
       - title: "The Hollow Middle - How They Isolated Us"
         file: "20_part/170_hollow_middle_architecture_isolation.md"
       - title: "Digital Accelerant False Democracy"
