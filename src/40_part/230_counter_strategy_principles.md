@@ -91,6 +91,16 @@ The Social Game maintains power by erasing the memory of how human communities o
 
 **Why This Matters**: Without models of how communities can function differently, people assume the current systems are natural and inevitable rather than historically recent innovations designed to serve elite interests.
 
+**The Ancient Blueprints**: Our ancestors developed sophisticated governance technologies that we can adapt for modern resistance:
+
+- **Seasonal Leadership**: Rotating authority based on context and expertise rather than permanent hierarchy
+- **Consensus Assemblies**: Decision-making processes that ensure broad community support
+- **Active Anti-Tyranny**: Built-in mechanisms for preventing the concentration of power
+- **Distributed Authority**: Kinship and clan networks that prevent single-point control
+- **Experimental Flexibility**: Conscious willingness to try different political structures
+
+These weren't primitive systems—they were **advanced political technologies** specifically designed to prevent the kind of control we're experiencing today.
+
 ##### The Three Dimensions of Memory Preservation
 
 **Elder Wisdom**: Connect with older community members who remember how neighborhoods, families, and local economies functioned before atomization and corporate control.
