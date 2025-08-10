@@ -2,7 +2,13 @@
 
 As we assemble the clues from our investigation, the nature of the crime becomes chillingly clear. The manufactured divisions, the false hierarchies, the endless cycles of outrage—these are not separate tactics. They are fronts in a single, ancient war: **a war against human play.**
 
-Our species was designed to be neotenous, to learn and bond through the joyful, spontaneous creation of shared reality. This playful nature is the very source of our resilience, creativity, and sovereignty. A playful people cannot be easily controlled. They invent their own games, create their own meaning, and bond in ways that transcend institutional authority.
+Our species was designed to be neotenous—to retain the characteristics of youth throughout our lives. Look at an adult human skull next to a baby chimpanzee's skull, and you'll see the striking similarity: large heads, weak jaws, childlike proportions. But it's not just physical. We're neurologically designed to keep learning, playing, and bonding throughout our entire lives.
+
+This neoteny is unprecedented in nature. Most animals lose their playfulness as they mature, but humans are biologically programmed for lifelong play, curiosity, and social bonding. We learn through games, we solve problems through creative experimentation, and we form communities through joyful, spontaneous creation of shared reality.
+
+This playful nature is the very source of our resilience, creativity, and sovereignty. A playful people cannot be easily controlled. They invent their own games, create their own meaning, and bond in ways that transcend institutional authority.
+
+**This is why the war on play is so devastating.** The systems telling us to "grow up," "be serious," and "stop playing around" are attacking our core biological programming. They're trying to suppress the very trait that makes us most human and most free.
 
 The Social Game, therefore, is a system designed with one primary objective: to suppress, corrupt, and channel this playful instinct into predictable, profitable, and controllable forms. It replaced:
 
