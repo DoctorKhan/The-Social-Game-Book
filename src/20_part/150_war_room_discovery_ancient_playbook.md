@@ -47,7 +47,7 @@ But I realized it's not always that conscious. My data showed that platforms amp
 
 However, the strategy is absolutely conscious for political operatives. It's a feedback loop: political strategists create divisive content, and algorithms amplify it automatically. The system has learned to automate the playbook.
 
-**The cosmic realization:** This is a marriage of ancient strategy and modern technology. The 'what' is two thousand years old. The 'how' is brand new. The result is a perfectly automated engine of division that channels legitimate grievances into conflicts that don't threaten the power structure.
+**The great realization:** This is a marriage of ancient strategy and modern technology. The 'what' is two thousand years old. The 'how' is brand new. The result is a perfectly automated engine of division that channels legitimate grievances into conflicts that don't threaten the power structure.
 
 #### The Historical Pattern
 
@@ -65,13 +65,13 @@ This isn't new. My research revealed that the pattern is consistent across centu
 
 We're not looking at separate historical incidents. We're looking at the same strategy being deployed repeatedly because it works. And it's not just historical—it's happening right now, in real-time, through the systems we've built.
 
-**The cosmic question**: How do you fight a strategy that's been perfected over millennia?
+**The great question**: How do you fight a strategy that's been perfected over millennia?
 
 **The answer**: First, we have to help people see it. Most people don't realize they're fighting horizontal battles. They think their marriage problems are about their spouse, not about economic stress. They think their neighborhood conflicts are about property values, not about housing policy.
 
 **The investigation needed**: We need to map the current deployment of this strategy—trace the algorithmic amplification, analyze the institutional structures that benefit from fragmentation, and document the psychological impact on individual mental health and community resilience.
 
-## The Cosmic Mystery Deepens
+## The Great Mystery Deepens
 
 What had started as observations about modern social problems had revealed itself as part of a much larger historical pattern. I wasn't just investigating a contemporary crisis—I was investigating a strategy that's been used to control populations for over two thousand years.
 
