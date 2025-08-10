@@ -14,8 +14,6 @@ structure:
     chapters:
       - title: "The First Clue - The Grackle Phenomenon"
         file: "10_part/010_opening_clue_grackles.md"
-      - title: "Your First Mission: Assemble Your Flotilla"
-        file: "10_part/015_find_your_flotilla.md"
       - title: "The Clue in the Calendar"
         file: "10_part/020_clue_east_balinese.md"
       - title: "Principle 1: The Technology of Social Rhythm"
@@ -34,10 +32,10 @@ structure:
         file: "10_part/090_clue_pacific_hawaiian_flow.md"
       - title: "The Clue in the Crying Teenager"
         file: "10_part/100_palo_alto_discovery.md"
-      - title: "Clue 4: The Sovereignty of the Misfit"
-        file: "10_part/110_clue_finding_your_flotilla.md"
       - title: "Principle 4: Authentic Belonging"
         file: "10_part/115_principle_authentic_belonging.md"
+      - title: "Your Mission: Assemble Your Flotilla"
+        file: "10_part/015_find_your_flotilla.md"
 
   - type: part
     title: "Part 2: The Cosmic Mystery"
