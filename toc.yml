@@ -35,7 +35,7 @@ structure:
       - title: "Principle 4: Authentic Belonging"
         file: "10_part/115_principle_authentic_belonging.md"
       - title: "Your Mission: Assemble Your Flotilla"
-        file: "10_part/015_find_your_flotilla.md"
+        file: "10_part/125_find_your_flotilla.md"
 
   - type: part
     title: "Part 2: The Great Mystery"
@@ -69,7 +69,7 @@ structure:
     title: "Part 4: The Counter-Strategy"
     chapters:
       - title: "The War On Play"
-        file: "40_part/220_the_war_on_play.md"
+        file: "40_part/227_the_war_on_play.md"
       - title: "Counter Strategy Principles"
         file: "40_part/230_counter_strategy_principles.md"
       - title: "Practical Implementation Guide"
