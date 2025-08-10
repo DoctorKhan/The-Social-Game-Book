@@ -242,6 +242,11 @@ You're not just resisting the Social Game—you're demonstrating that something 
 
 **This is the work of conscious evolution: proving that humans can organize themselves in ways that serve life rather than death, cooperation rather than exploitation, wisdom rather than manipulation.**
 
+*"There are no strangers, only friends we have not yet met."*
+— W.B. Yeats
+
+This simple truth contains the antidote to every divide-and-conquer strategy ever devised. When we see past the artificial categories that separate us to the shared humanity beneath, we starve the Social Game of its power and feed the emergence of genuine community.
+
 The principles are clear. The path is visible. What remains is the practical question: How do you actually implement these principles in your daily life and community?
 
 *That question—the detailed toolkit for transformation—is addressed in the essential companion volume: "Manual Override: The Complete Guide to Consciousness and Community."*
