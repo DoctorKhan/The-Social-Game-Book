@@ -12,7 +12,7 @@ This book is a journey into the heart of that machine. It is a detective story t
 
 **Why has humanity—a species that evolved for deep, intuitive, and collaborative connection—become so profoundly lonely and fragmented?**
 
-The answer is not a simple one. It's not about technology, politics, or economics alone. It's about a fundamental misunderstanding of the "social game" we are all playing. We have been given the wrong rulebook.
+The answer is not a simple one. It's not simply about technology, politics, or economics alone. It's about a fundamental misunderstanding of the "social game" we are all playing. We have been given the wrong rulebook.
 
 This investigation will take you from the boardrooms of Silicon Valley to the ancient wisdom of tribal cultures, from the frontiers of network science to the depths of human psychology. We will uncover the hidden logic behind our modern paradoxes and expose the forces that benefit from our collective confusion.
 

@@ -76,7 +76,15 @@ Every traditional culture had known this. The Romans built their civilization ar
 
 **They understood that water, temperature, and natural environments weren't luxuries—they were essential technologies for human psychological and physical health.**
 
-We had dismissed this as primitive superstition while building a world that systematically deprived people of these basic regulatory mechanisms, then wondered why anxiety and depression were epidemic.
+But there was another piece of ancient wisdom I began to notice: **the elderly women in traditional communities were natural matchmakers.** They had a vested interest in encouraging social bonds, in bringing young people together, in strengthening the web of relationships that held the community together.
+
+At first, this seemed like mere nosiness or romantic sentimentality. But I realized it was something far more sophisticated: **they understood intuitively that strong social bonds create mutual aid networks that would take care of them as they aged.**
+
+These elderly women weren't just being sweet—they were actively building the social infrastructure that would support them in their vulnerability. They were investing in community resilience because they knew their own survival depended on it.
+
+**This was another example of natural social technology:** humans instinctively creating systems of mutual care through relationship-building, with the wisdom that individual wellbeing and community wellbeing were inseparable.
+
+We had dismissed this as primitive superstition while building a world that systematically deprived people of these basic regulatory mechanisms, then wondered why anxiety and depression were epidemic—and why elderly people were dying alone in nursing homes, isolated from the communities they had once helped weave together.
 
 ## The Personal Revolution
 
