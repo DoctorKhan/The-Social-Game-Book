@@ -152,6 +152,9 @@ An individual with unmanaged internal charge (Reality Whirlpools) does not suffe
 **Step 2: From Kinship to the System**
 When a family or community cannot contain its collective charge, that energy moves outward into society. Family dysfunction feeds social dysfunction. Community desperation becomes political polarization.
 
+**Step 3: From System to War and Collapse**
+When entire systems become overwhelmed with collective unresolved charge, that energy seeks expression through external war (projecting internal dysfunction onto enemies) or internal collapse (revolutions, economic crashes, social disintegration). Every civilization that destroys its Kinship sphere eventually faces this ultimate choice.
+
 ### The Strategic Implication
 
 **The Control System's Perfect Design**: A population of individuals caught in Reality Whirlpools, living in fractured families and communities, creates a constant supply of chaotic energy that can be easily harvested and weaponized to maintain political power and social control.
