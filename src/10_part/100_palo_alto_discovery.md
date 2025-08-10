@@ -1,4 +1,4 @@
-# Chapter 11: The Clue in the Crying Teenager
+# The Clue in the Crying Teenager
 
 My investigation had revealed the principles of healthy community. But to understand the sickness, I had to go to its epicenter. I had to go to Palo Alto.
 

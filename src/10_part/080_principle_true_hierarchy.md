@@ -1,4 +1,4 @@
-# Chapter 9: Principle 3: The Technology of Hierarchy
+# Principle 3: The Technology of Hierarchy
 
 The craftsman in his workshop and the grandmother on the savanna both reveal the same fundamental truth: our species evolved to transmit wisdom. The mechanism for this is **True Hierarchy**, a social technology that is as natural and essential as language itself.
 

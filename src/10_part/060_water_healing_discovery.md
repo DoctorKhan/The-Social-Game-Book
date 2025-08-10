@@ -1,4 +1,4 @@
-# Chapter 7: The Water Discovery - Nature's Reset Button
+# The Water Discovery - Nature's Reset Button
 
 My investigations had revealed how the Social Game operated at the community level. But I needed to understand something more personal: how was it affecting individual mental health? The answer came during my own darkest period.
 

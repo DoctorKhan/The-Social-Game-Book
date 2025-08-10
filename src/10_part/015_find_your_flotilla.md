@@ -1,4 +1,4 @@
-# Chapter 2: Your First Mission: Assemble Your Flotilla
+# Your Mission: Assemble Your Flotilla
 
 The systems we are about to investigate are designed to isolate, confuse, and overwhelm the individual mind. To proceed safely, you must not proceed alone.
 

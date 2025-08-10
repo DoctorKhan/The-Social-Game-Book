@@ -1,4 +1,4 @@
-# Chapter 10: The Clue in the Flow
+# The Clue in the Flow
 
 My journey had shown me that social rhythm was possible in traditional cultures (Bali) and that playful sovereignty could be temporarily recreated in artificial environments (the desert festival). But could these principles survive in the modern world, day to day?
 

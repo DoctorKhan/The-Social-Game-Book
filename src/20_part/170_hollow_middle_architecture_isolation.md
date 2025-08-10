@@ -1,4 +1,4 @@
-# Chapter 17: The Hollow Middle - How They Isolated Us
+# The Hollow Middle - How They Isolated Us
 
 My investigation into divide and conquer tactics revealed something deeper: these strategies only work because of a much more fundamental project—the systematic dismantling of the very social structures that once made us immune to manipulation.
 

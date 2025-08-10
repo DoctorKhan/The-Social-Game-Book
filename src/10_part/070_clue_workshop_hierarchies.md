@@ -1,4 +1,4 @@
-# Chapter 8: The Clue in the Workshop
+# The Clue in the Workshop
 
 My investigations had revealed the power of rhythm and play. But I was still missing a key piece of the puzzle: how is wisdom transmitted? How do healthy groups organize themselves to ensure that knowledge flows from the experienced to the inexperienced?
 

@@ -1,4 +1,4 @@
-# Chapter 16: The Ancient Pattern
+# The Ancient Pattern
 
 My investigation into the Lost Architecture of Community had revealed something profound. But as I studied how these natural human capacities had been systematically dismantled, I realized I was looking at something that transcended ordinary social engineering. I was uncovering evidence of a cosmic mystery about human nature itself.
 

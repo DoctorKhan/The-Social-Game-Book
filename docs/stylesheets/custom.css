@@ -38,6 +38,19 @@
     margin-bottom: 1.25rem;
 }
 
+/* Drop cap styling for chapter openings */
+.md-typeset h1 + p::first-letter,
+.md-typeset h2 + p::first-letter {
+    float: left;
+    font-size: 4rem;
+    line-height: 3.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.25rem;
+    font-weight: 700;
+    color: #8b5cf6;
+    font-family: 'Georgia', serif;
+}
+
 /* Better blockquote styling */
 .md-typeset blockquote {
     border-left: 4px solid #8b5cf6;

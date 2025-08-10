@@ -1,4 +1,4 @@
-# Chapter 4: Principle 1: The Technology of Social Rhythm
+# Principle 1: The Technology of Social Rhythm
 
 The clue I found in the Balinese calendar wasn't just a cultural quirk; it was the key to the first principle of human connection: **Social Rhythm**.
 

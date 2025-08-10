@@ -1,4 +1,4 @@
-# Chapter 3: The Clue in the Calendar
+# The Clue in the Calendar
 
 The grackles had shown me that effortless coordination was possible. But I needed to see it in a human culture. That search led me to Bali.
 

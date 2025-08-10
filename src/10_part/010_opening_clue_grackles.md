@@ -1,4 +1,4 @@
-# Chapter 1: The First Clue
+# The First Clue - The Grackle Phenomenon
 
 The first clue was not found in an ancient text or a forgotten ruin. It was in the sky over Austin, Texas.
 

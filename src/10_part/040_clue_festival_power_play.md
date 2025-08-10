@@ -1,4 +1,4 @@
-# Chapter 5: The Laboratory in the Desert
+# The Laboratory in the Desert
 
 The grackles were a clue. Bali was a proof of concept. But could modern, disconnected Westerners still access this innate social intelligence? I needed a control group for modern society, a place where the usual rules were temporarily suspended.
 

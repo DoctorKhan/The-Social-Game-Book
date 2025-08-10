@@ -1,4 +1,4 @@
-# Chapter 6: Principle 2: The Sovereignty of Play
+# Principle 2: The Sovereignty of Play
 
 The laboratory in the desert didn't just reveal that we *could* connect; it revealed *how*. The secret wasn't a complex social technology, but something our culture has taught us to dismiss as childish: **Play**.
 
