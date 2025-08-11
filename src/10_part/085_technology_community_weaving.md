@@ -234,9 +234,65 @@ The problem in modern society is that we've **privileged expedient hierarchy pat
 
 **Why This Works**: When people feel genuinely accepted, they can relax into their authentic selves and contribute their real gifts rather than performing what they think is expected.
 
+### Technology 5: Cycle Attunement (Social Intelligence Training)
+
+**The Discovery**: I was investigating why some communities seemed to have an intuitive understanding of when to push forward with projects and when to rest, when I discovered something remarkable about women's cycles as community intelligence.
+
+I was observing a small intentional community that had an unusual practice: they openly tracked and honored the women's menstrual cycles as part of their collective decision-making. At first, this seemed like an odd cultural quirk. But as I studied their dynamics more closely, I realized I was witnessing something profound.
+
+**The Attention Training Effect**
+
+The people in this community who had learned to attune to women's cycles—both men and women—had developed extraordinary social awareness skills. They could sense when someone was overwhelmed before that person even realized it themselves. They knew intuitively when to schedule challenging conversations and when to let things settle. They could read the energy of group meetings and adjust accordingly.
+
+**The breakthrough insight**: **Cycle attunement is actually attention training** that develops broader social intelligence.
+
+**The Meta-Skill Development**
+
+People who master paying attention to women's cycles develop:
+
+**Subtle Signal Detection**: Learning to notice energy shifts, mood changes, physical cues that others miss.
+
+**Pattern Recognition**: Understanding cyclical rather than linear patterns—that energy, creativity, and capacity naturally fluctuate.
+
+**Timing Sensitivity**: Knowing when to approach, when to give space, when to offer support, when to make requests.
+
+**Non-Verbal Communication**: Reading body language, energy levels, emotional states with remarkable accuracy.
+
+**The Transfer Effect**
+
+These same skills transfer to all community dynamics:
+
+**Community Rhythms**: Sensing when groups need rest vs. action, celebration vs. reflection.
+
+**Individual Capacity**: Reading when someone is energized vs. overwhelmed, creative vs. analytical.
+
+**Seasonal Patterns**: Attuning to natural cycles in work, creativity, relationships, and collective projects.
+
+**Conflict Dynamics**: Knowing when to engage tensions vs. when to let things settle naturally.
+
+**The Leadership Connection**
+
+I discovered that the people who became natural community leaders were often those who had developed this **social attunement skill**. They weren't dominating through force, but **leading through awareness** of natural rhythms and collective needs.
+
+**The pattern**: **Attention to natural cycles → Social intelligence → Community leadership capacity**
+
+**The Technology**: Creating practices that develop cycle awareness as social intelligence training:
+
+**Cycle Awareness Practices**: Learning to recognize and honor the four phases of women's cycles—menstrual (reflection, visioning), follicular (planning, new energy), ovulatory (communication, collaboration), luteal (completion, discernment).
+
+**Community Rhythm Mapping**: Tracking collective energy patterns and timing decisions accordingly.
+
+**Seasonal Attunement**: Aligning community activities with natural seasonal rhythms and individual capacity cycles.
+
+**Energy Reading Training**: Developing skills to sense individual and group energy levels, stress patterns, and natural rhythms.
+
+**Timing Intelligence**: Learning when to initiate projects, when to rest, when to celebrate, when to make difficult decisions.
+
+**Why This Works**: Cycle attunement develops the social intelligence needed for healthy community leadership. It transforms cycle awareness from a "women's issue" into a **community intelligence technology** that benefits everyone by developing crucial social attunement skills. People who master this become natural facilitators who can sense what the community needs and when.
+
 ## The Weaving Process
 
-These four technologies work together to create what I call **Community Weaving**—the process by which individual threads become a strong, beautiful, and resilient fabric:
+These five technologies work together to create what I call **Community Weaving**—the process by which individual threads become a strong, beautiful, and resilient fabric:
 
 **Social Rhythm** provides the loom—the structure and timing that allows weaving to happen.
 
@@ -245,6 +301,8 @@ These four technologies work together to create what I call **Community Weaving*
 **True Hierarchy** provides the skill—the knowledge of how to create strong, beautiful patterns that serve the whole.
 
 **Authentic Belonging** provides the acceptance—the willingness to include all the different threads, even the ones that seem difficult to work with.
+
+**Cycle Attunement** provides the intelligence—the ability to sense when and how to weave, reading the natural rhythms that determine optimal timing for all community activities.
 
 ## The Difference from Artificial Community
 
@@ -274,6 +332,7 @@ Strong communities created through these technologies serve a crucial protective
 - **Playful Sovereignty** maintains flexibility and adaptability
 - **True Hierarchy** preserves wisdom and prevents naive mistakes
 - **Authentic Belonging** reduces the desperate need for external validation
+- **Cycle Attunement** develops the social intelligence to recognize manipulation and respond appropriately
 
 When people have authentic community, they don't need to accept toxic substitutes. They become immune to many forms of manipulation simply because their real needs are being met.
 
