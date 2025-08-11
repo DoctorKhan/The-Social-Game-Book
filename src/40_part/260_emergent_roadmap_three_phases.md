@@ -55,7 +55,6 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 4. **First Sacred Site**: Following the Law of the Harvest, they use pooled funds to acquire their first collective asset—a plot of land, a community center, a workshop, or other productive resource. This becomes their first **Sacred Site**.
 
 5. **Proof-of-Work Definition**: They define their first "Proof-of-Work" activities—the specific contributions that earn full citizenship in the Hub. This might include:
-
    - Contributing labor to develop the Sacred Site
    - Completing a local pilgrimage route
    - Successfully mentoring a new member

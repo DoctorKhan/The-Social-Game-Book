@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-*Compiled August 11, 2025 at 3:01 PM*
+*Compiled August 11, 2025 at 3:17 PM*
 
 ---
 
@@ -3588,6 +3588,7 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 5. **Economic Integration**: Hubs begin trading with each other, sharing resources, and creating inter-Hub economic relationships that reduce dependence on the external economy.
 
 6. **Cultural Exchange**: Regular exchanges of members between Hubs for learning, skill-sharing, and relationship building. This might include:
+
    - Apprenticeship programs where members learn specialized skills at other Hubs
    - Cultural festivals that celebrate the diversity of local adaptations
    - Collaborative projects that require resources from multiple Hubs
