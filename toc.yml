@@ -36,40 +36,32 @@ structure:
         file: "10_part/125_find_your_flotilla.md"
 
   - type: part
-    title: "Part 2: The Great Mystery"
+    title: "Part 2: The System"
     chapters:
-      - title: "The Great Forgetting"
-        file: "20_part/140_the_great_forgetting.md"
-      - title: "The Ancient Playbook"
-        file: "20_part/150_war_room_discovery_ancient_playbook.md"
-      - title: "The Ancient Pattern"
-        file: "20_part/160_divide_conquer_architecture_division.md"
+      - title: "The Great Suppression - How They Dismantled Human Wisdom"
+        file: "20_part/120_the_great_suppression.md"
+      - title: "The Ancient Control System"
+        file: "20_part/130_the_ancient_control_system.md"
       - title: "The Engine vs The Family - The Two Operating Systems"
         file: "20_part/165_engine_vs_family.md"
-      - title: "The War on Wisdom - How They Silenced the Alternatives"
-        file: "20_part/167_war_on_wisdom.md"
       - title: "The Hollow Middle - How They Isolated Us"
         file: "20_part/170_hollow_middle_architecture_isolation.md"
-      - title: "Digital Accelerant False Democracy"
-        file: "20_part/180_digital_accelerant_false_democracy.md"
-
-  - type: part
-    title: "Part 3: Recognition & Protection"
-    chapters:
       - title: "Science As Verification"
         file: "30_part/200_science_as_verification.md"
-      - title: "The Marionette's Discovery"
-        file: "30_part/210_parable_marionette_strings.md"
-      - title: "The Reality Whirlpool - A First Aid Kit for Emotional Hijacking"
-        file: "30_part/220_reality_whirlpool_first_aid.md"
 
   - type: part
-    title: "Part 4: The Blueprint"
+    title: "Part 3: The War"
     chapters:
+      - title: "The Reality Whirlpool - A First Aid Kit for Emotional Hijacking"
+        file: "30_part/220_reality_whirlpool_first_aid.md"
       - title: "The War On Play"
         file: "40_part/227_the_war_on_play.md"
       - title: "The Strategist's Dilemma & The Third Path"
         file: "40_part/240_strategists_dilemma_third_path.md"
+
+  - type: part
+    title: "Part 4: The Blueprint"
+    chapters:
       - title: "The Constitutional Blueprint: The Five Non-Negotiable Protocols"
         file: "40_part/250_constitutional_blueprint_five_protocols.md"
       - title: "The Diversity Design: How Natural Variation Strengthens Communities"
