@@ -753,10 +753,11 @@ tr:nth-child(even) {
             bottom: 20px;
             left: 50%;
             transform: translateX(-50%);
-            background: white;
+            background: var(--page-bg);
+            border: 1px solid var(--border-color);
             border-radius: 25px;
             padding: 10px 20px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            box-shadow: 0 4px 12px var(--shadow-color);
             display: none;
             align-items: center;
             gap: 15px;
@@ -784,9 +785,10 @@ tr:nth-child(even) {
 
         .page-info {
             font-size: 14px;
-            color: var(--text-color);
+            color: var(--chapter-color);
             min-width: 120px;
             text-align: center;
+            font-weight: 500;
         }
 
         /* Sidebar Navigation */
@@ -796,8 +798,9 @@ tr:nth-child(even) {
             left: -350px;
             width: 350px;
             height: 100vh;
-            background: white;
-            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+            background: var(--page-bg);
+            border-right: 1px solid var(--border-color);
+            box-shadow: 2px 0 10px var(--shadow-color);
             z-index: 999;
             transition: left 0.3s ease;
             overflow-y: auto;
@@ -809,7 +812,8 @@ tr:nth-child(even) {
 
         .sidebar-header {
             padding: 20px;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid var(--border-color);
+            background: var(--light-gray);
             display: flex;
             align-items: center;
             gap: 10px;
@@ -819,12 +823,14 @@ tr:nth-child(even) {
             background: none;
             border: none;
             font-size: 18px;
+            color: var(--text-color);
             cursor: pointer;
         }
 
         .sidebar-title {
             font-weight: 600;
             font-size: 16px;
+            color: var(--chapter-color);
         }
 
         .sidebar-content {
@@ -852,7 +858,7 @@ tr:nth-child(even) {
 
         .progress-text {
             font-size: 12px;
-            color: #666;
+            color: var(--section-color);
             margin-top: 5px;
             display: block;
         }
@@ -860,9 +866,11 @@ tr:nth-child(even) {
         .toc-search {
             width: 100%;
             padding: 10px;
-            border: 1px solid #ddd;
+            border: 1px solid var(--border-color);
             border-radius: 5px;
             margin-bottom: 15px;
+            background: var(--page-bg);
+            color: var(--text-color);
         }
 
         .toc-chapters {
@@ -883,15 +891,18 @@ tr:nth-child(even) {
             font-size: 14px;
             line-height: 1.4;
             transition: background 0.2s ease;
+            border: 1px solid transparent;
         }
 
         .toc-link:hover {
             background: var(--highlight-color);
+            border-color: var(--subtle-border);
         }
 
         .toc-item.current-chapter .toc-link {
             background: var(--accent-color);
-            color: white;
+            color: var(--page-bg);
+            border-color: var(--accent-color);
         }
 
         /* Single page mode */
