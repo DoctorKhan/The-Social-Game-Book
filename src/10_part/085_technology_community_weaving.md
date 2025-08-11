@@ -332,6 +332,22 @@ But I also discovered communities that had learned to work with trauma in ways t
 
 **Memory Reconstruction Practices**: Beginner's mind meditation and other present-moment practices that create new neural pathways and interrupt trauma story loops. Collective meditation that supports individual healing within a community container.
 
+**The Traditional Wisdom Discovery**
+
+As I studied how different cultures approached collective healing, I discovered something remarkable about the Bwiti people of West-Central Africa. In Gabon, Cameroon, and the Republic of the Congo, they had developed sophisticated community-based approaches to trauma healing and spiritual transformation that put our modern methods to shame.
+
+The Bwiti use the iboga plant in carefully structured community ceremonies. What struck me wasn't the plant itself, but **how they created community containers for deep transformation**:
+
+**Community-Held Healing**: Major transformative experiences happen within strong community containers, never in isolation. The entire tribe provides support and witnessing during vulnerable passages.
+
+**Graduated Approach**: Different intensities for different purposes—large doses for initiation (creating near-death experiences for spiritual rebirth), smaller doses for ceremonies and daily spiritual practice, micro-doses for maintaining alertness during practical activities like hunting.
+
+**Integration Support**: The community provides ongoing guidance for processing and integrating transformative experiences. Elders and experienced practitioners help others navigate difficult passages.
+
+**Collective Wisdom**: The healing knowledge belongs to the community, not individuals. Traditional practices are held and transmitted through collective experience.
+
+**The Initiation Insight**: Their initiation ritual involves what they call a "symbolic death and rebirth"—using controlled trauma processing to create new identity and spiritual memories within a community container. This is essentially **community-supported memory reconstruction** on a profound level.
+
 **The Technology**: Creating trauma-informed practices that prevent contagion while supporting healing:
 
 **Trauma Recognition Training**: Learning to distinguish between trauma responses and present-moment reactions, understanding the dream-like quality of triggered states.
