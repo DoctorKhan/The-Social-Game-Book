@@ -733,6 +733,10 @@ tr:nth-child(even) {
         .view-mode-toggle {
             top: 20px;
             right: 20px;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .floating-top-button {
@@ -746,6 +750,11 @@ tr:nth-child(even) {
         .floating-top-button.visible {
             opacity: 1;
             visibility: visible;
+        }
+
+        .floating-nav-toggle:hover, .view-mode-toggle:hover, .floating-top-button:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.2);
         }
 
         .page-nav-controls {
@@ -1132,12 +1141,18 @@ tr:nth-child(even) {
 
         if (chapterMode) {
             body.classList.add('single-page-mode');
-            if (toggleBtn) toggleBtn.textContent = '📖 Full Book';
+            if (toggleBtn) {
+                toggleBtn.textContent = '📄';
+                toggleBtn.title = 'Full Book Mode (C)';
+            }
             showChapter(0);
             console.log('Chapter mode enabled');
         } else {
             body.classList.remove('single-page-mode');
-            if (toggleBtn) toggleBtn.textContent = '📄 Chapter Mode';
+            if (toggleBtn) {
+                toggleBtn.textContent = '📖';
+                toggleBtn.title = 'Chapter Mode (C)';
+            }
             showAllContent();
             console.log('Chapter mode disabled');
         }
