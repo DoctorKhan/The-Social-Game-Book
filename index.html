@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Social Game</title>
-    <meta name="description" content="">
-    <meta name="author" content="Rez Khan">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     <style>
         
     /* Enhanced Book Navigation CSS */
@@ -1382,103 +1379,439 @@
         padding: 0 2rem;
     }
     
+
+        /* Luxurious title page styling */
+        .title-page {
+            text-align: center;
+            padding: 8em 3em;
+            margin-bottom: 5em;
+            position: relative;
+            background:
+                radial-gradient(ellipse at center, rgba(200, 148, 31, 0.03) 0%, transparent 70%);
+        }
+
+        .title-page::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 200px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--accent-color), transparent);
+            opacity: 0.4;
+        }
+
+        .book-title {
+            font-family: "Optima", "Futura", "Avenir Next", "Helvetica Neue", sans-serif;
+            font-size: 36pt;
+            font-weight: 100;
+            color: var(--chapter-color);
+            margin-bottom: 1.2em;
+            letter-spacing: 3px;
+            text-shadow:
+                0 3px 6px rgba(30, 58, 35, 0.06),
+                0 1px 3px rgba(30, 58, 35, 0.1);
+            line-height: 1.05;
+            position: relative;
+        }
+
+        .book-subtitle {
+            font-size: 17pt;
+            font-style: italic;
+            color: var(--section-color);
+            margin-bottom: 3em;
+            max-width: 650px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.45;
+            font-weight: 300;
+        }
+
+        .author {
+            font-size: 15pt;
+            color: var(--accent-color);
+            margin-bottom: 1.5em;
+            font-weight: 400;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-size: 12pt;
+        }
+
+        .word-count {
+            font-size: 10pt;
+            color: var(--section-color);
+            opacity: 0.6;
+            font-style: italic;
+        }
+
+        /* Invisible anchor functionality */
+        .heading-anchor {
+            cursor: pointer;
+            position: relative;
+        }
+
+        .heading-anchor:hover {
+            background: rgba(200, 148, 31, 0.05);
+            border-radius: 3px;
+            transition: background 0.2s ease;
+        }
+
+        .heading-anchor::after {
+            content: "🔗";
+            position: absolute;
+            right: -1.5em;
+            opacity: 0;
+            font-size: 0.7em;
+            transition: opacity 0.2s ease;
+            pointer-events: none;
+        }
+
+        .heading-anchor:hover::after {
+            opacity: 0.4;
+        }
     </style>
+    <script>
+        // Original heading anchor functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add click handlers to all heading anchors
+            document.querySelectorAll('.heading-anchor').forEach(function(heading) {
+                heading.addEventListener('click', function(e) {
+                    const anchor = this.getAttribute('data-anchor');
+                    if (anchor) {
+                        // Update URL without scrolling
+                        history.pushState(null, null, anchor);
+
+                        // Copy link to clipboard
+                        if (navigator.clipboard) {
+                            navigator.clipboard.writeText(window.location.href).then(function() {
+                                // Show brief feedback
+                                showLinkCopied(e.target);
+                            });
+                        }
+                    }
+                });
+
+                // Handle right-click for context menu
+                heading.addEventListener('contextmenu', function(e) {
+                    const anchor = this.getAttribute('data-anchor');
+                    if (anchor && navigator.clipboard) {
+                        e.preventDefault();
+                        navigator.clipboard.writeText(window.location.origin + window.location.pathname + anchor);
+                        showLinkCopied(e.target);
+                    }
+                });
+            });
+        });
+
+        function showLinkCopied(element) {
+            const feedback = document.createElement('div');
+            feedback.textContent = 'Link copied!';
+            feedback.style.cssText = `
+                position: absolute;
+                background: var(--accent-color);
+                color: white;
+                padding: 4px 8px;
+                border-radius: 3px;
+                font-size: 11px;
+                z-index: 1000;
+                pointer-events: none;
+                opacity: 0;
+                transition: opacity 0.3s ease;
+            `;
+
+            const rect = element.getBoundingClientRect();
+            feedback.style.left = rect.right + 10 + 'px';
+            feedback.style.top = rect.top + 'px';
+
+            document.body.appendChild(feedback);
+
+            // Animate in
+            setTimeout(() => feedback.style.opacity = '1', 10);
+
+            // Remove after delay
+            setTimeout(() => {
+                feedback.style.opacity = '0';
+                setTimeout(() => document.body.removeChild(feedback), 300);
+            }, 1500);
+        }
+
+        // Enhanced navigation JavaScript
+        
+    // Enhanced Navigation JavaScript
+    console.log('JavaScript loaded successfully!');
+
+    // Global variables
+    let currentChapterIndex = 0;
+    let chapters = [];
+    let chapterMode = false;
+
+    function toggleSidebar() {
+        const sidebar = document.querySelector('.sidebar-nav');
+        if (sidebar) {
+            sidebar.classList.toggle('sidebar-open');
+            console.log('Sidebar toggled:', sidebar.classList.contains('sidebar-open'));
+        }
+    }
+
+    function updateReadingProgress() {
+        const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        const scrolled = (winScroll / height) * 100;
+
+        // Update progress bar
+        const progressBar = document.getElementById('progress-bar');
+        if (progressBar) progressBar.style.width = scrolled + '%';
+
+        // Show/hide go to top button
+        const topButton = document.getElementById('floating-top-button');
+        if (topButton) {
+            if (winScroll > 300) {
+                topButton.classList.add('visible');
+            } else {
+                topButton.classList.remove('visible');
+            }
+        }
+    }
+
+    function initializeChapterMode() {
+        const content = document.querySelector('.book-content');
+        if (!content) {
+            console.log('No .book-content found');
+            return;
+        }
+
+        // Look for h2 elements that contain "Chapter" in the text
+        const allH2s = content.querySelectorAll('h2');
+        const chapterHeadings = Array.from(allH2s).filter(h2 =>
+            h2.textContent.includes('Chapter ') && h2.textContent.includes(':')
+        );
+
+        console.log(`Found ${allH2s.length} h2 elements, ${chapterHeadings.length} are chapters`);
+
+        chapters = [];
+
+        chapterHeadings.forEach((heading, index) => {
+            const chapterContent = [];
+            let currentElement = heading;
+
+            // Collect all content until the next chapter
+            while (currentElement) {
+                chapterContent.push(currentElement);
+                currentElement = currentElement.nextElementSibling;
+
+                // Stop if we hit another chapter h2
+                if (currentElement && currentElement.tagName === 'H2' &&
+                    currentElement.textContent.includes('Chapter ') &&
+                    currentElement.textContent.includes(':')) {
+                    break;
+                }
+            }
+
+            const title = heading.textContent.replace(/^Chapter \d+:\s*/, '');
+            chapters.push({
+                title: title,
+                fullTitle: heading.textContent,
+                elements: chapterContent,
+                heading: heading,
+                index: index
+            });
+
+            console.log(`Chapter ${index + 1}: ${title}`);
+        });
+
+        console.log(`Initialized ${chapters.length} chapters for chapter mode`);
+    }
+
+    function toggleViewMode() {
+        chapterMode = !chapterMode;
+        const body = document.body;
+        const toggleBtn = document.getElementById('view-mode-toggle');
+
+        if (chapterMode) {
+            body.classList.add('single-page-mode');
+            if (toggleBtn) toggleBtn.textContent = '📖 Full Book';
+            showChapter(0);
+            console.log('Chapter mode enabled');
+        } else {
+            body.classList.remove('single-page-mode');
+            if (toggleBtn) toggleBtn.textContent = '📄 Chapter Mode';
+            showAllContent();
+            console.log('Chapter mode disabled');
+        }
+    }
+
+    function showChapter(index) {
+        if (index < 0 || index >= chapters.length) return;
+
+        currentChapterIndex = index;
+        const content = document.querySelector('.book-content');
+
+        // Hide all content
+        Array.from(content.children).forEach(el => {
+            el.style.display = 'none';
+            el.classList.remove('current-page');
+        });
+
+        // Show current chapter content
+        if (chapters[index]) {
+            chapters[index].elements.forEach(el => {
+                el.style.display = 'block';
+                el.classList.add('current-page');
+            });
+        }
+
+        // Update navigation
+        updateChapterNavigation();
+
+        // Scroll to top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function showAllContent() {
+        const content = document.querySelector('.book-content');
+        if (content) {
+            Array.from(content.children).forEach(el => {
+                el.style.display = 'block';
+                el.classList.remove('current-page');
+            });
+        }
+    }
+
+    function updateChapterNavigation() {
+        const pageInfo = document.getElementById('page-info');
+        const prevBtn = document.getElementById('prev-page');
+        const nextBtn = document.getElementById('next-page');
+
+        if (pageInfo) {
+            const currentChapter = chapters[currentChapterIndex];
+            const shortTitle = currentChapter ? currentChapter.title.substring(0, 30) + (currentChapter.title.length > 30 ? '...' : '') : '';
+            pageInfo.textContent = `${currentChapterIndex + 1} of ${chapters.length}: ${shortTitle}`;
+        }
+
+        if (prevBtn) {
+            prevBtn.disabled = currentChapterIndex === 0;
+        }
+
+        if (nextBtn) {
+            nextBtn.disabled = currentChapterIndex === chapters.length - 1;
+        }
+    }
+
+    function nextChapter() {
+        if (currentChapterIndex < chapters.length - 1) {
+            showChapter(currentChapterIndex + 1);
+        }
+    }
+
+    function prevChapter() {
+        if (currentChapterIndex > 0) {
+            showChapter(currentChapterIndex - 1);
+        }
+    }
+
+    // Initialize everything when DOM is loaded
+    document.addEventListener('DOMContentLoaded', function() {
+        console.log('Enhanced navigation initialized!');
+        console.log('Keyboard shortcuts: T = Toggle sidebar, C = Chapter mode, Home = Top, End = Bottom');
+
+        // Initialize chapter mode
+        initializeChapterMode();
+
+        // Setup scroll tracking
+        window.addEventListener('scroll', updateReadingProgress);
+
+        // Add click handlers for buttons
+        const viewToggle = document.getElementById('view-mode-toggle');
+        if (viewToggle) {
+            viewToggle.addEventListener('click', toggleViewMode);
+        }
+
+        const topButton = document.getElementById('floating-top-button');
+        if (topButton) {
+            topButton.addEventListener('click', function() {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+        }
+
+        const navToggle = document.getElementById('floating-nav-toggle');
+        if (navToggle) {
+            navToggle.addEventListener('click', toggleSidebar);
+        }
+
+        // Chapter navigation buttons
+        const prevBtn = document.getElementById('prev-page');
+        const nextBtn = document.getElementById('next-page');
+        if (prevBtn) prevBtn.addEventListener('click', prevChapter);
+        if (nextBtn) nextBtn.addEventListener('click', nextChapter);
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            if (e.target.tagName === 'INPUT') return;
+
+            switch(e.key) {
+                case 't':
+                case 'T':
+                    toggleSidebar();
+                    e.preventDefault();
+                    break;
+                case 'c':
+                case 'C':
+                    toggleViewMode();
+                    e.preventDefault();
+                    break;
+                case 'ArrowLeft':
+                    if (chapterMode) {
+                        prevChapter();
+                        e.preventDefault();
+                    }
+                    break;
+                case 'ArrowRight':
+                    if (chapterMode) {
+                        nextChapter();
+                        e.preventDefault();
+                    }
+                    break;
+                case 'Home':
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                    e.preventDefault();
+                    break;
+                case 'End':
+                    window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+                    e.preventDefault();
+                    break;
+            }
+        });
+
+        // Initial progress update
+        updateReadingProgress();
+    });
+    
+    </script>
 </head>
 <body>
-    <!-- Progress Indicator -->
-    <div class="progress-indicator">
-        <div id="progress-bar" class="progress-bar"></div>
-    </div>
-
-    <!-- Chapter Progress Stats -->
-    <div id="chapter-progress" class="chapter-progress">
-        <span id="progress-stats">0 of 23 chapters completed</span>
-    </div>
-
-    <!-- Floating Navigation Toggle -->
+    <!-- Enhanced Navigation Elements -->
     <button id="floating-nav-toggle" class="floating-nav-toggle" title="Toggle Navigation (T)">☰</button>
-
-    <!-- View Mode Toggle -->
     <button id="view-mode-toggle" class="view-mode-toggle" title="Toggle Chapter Mode (C)">📄 Chapter Mode</button>
-
-    <!-- Go to Top Button -->
     <button id="floating-top-button" class="floating-top-button" title="Go to Top">↑</button>
 
-    <!-- Page Navigation Controls -->
     <div id="page-nav-controls" class="page-nav-controls">
         <button id="prev-page" class="page-nav-btn" title="Previous Chapter (←)">← Prev</button>
         <span id="page-info" class="page-info">1 of 23</span>
         <button id="next-page" class="page-nav-btn" title="Next Chapter (→)">Next →</button>
     </div>
 
-    <!-- Reading Comfort Controls -->
-    <div id="reading-controls" class="reading-controls">
-        <button id="font-decrease" class="reading-control-btn" title="Decrease Font Size">A-</button>
-        <button id="font-increase" class="reading-control-btn" title="Increase Font Size">A+</button>
-        <button id="dark-mode-toggle" class="reading-control-btn" title="Toggle Dark Mode">🌙</button>
-        <button id="width-toggle" class="reading-control-btn" title="Toggle Reading Width">📏</button>
-        <button id="controls-toggle" class="reading-control-btn" title="Hide Controls">×</button>
-    </div>
-
-    <!-- Reading Controls Toggle -->
-    <button id="show-reading-controls" class="floating-nav-toggle" style="top: 50%; right: 1rem; transform: translateY(-50%); display: none;" title="Show Reading Controls">⚙️</button>
-
-    <!-- Sidebar Navigation -->
-    
-    <div id="sidebar-nav" class="sidebar-nav">
-        <div class="sidebar-header">
-            <button id="sidebar-toggle" class="sidebar-toggle">☰</button>
-            <span class="sidebar-title">Navigation</span>
-        </div>
-        <div class="sidebar-content">
-            <div class="progress-container">
-                <div class="progress-bar">
-                    <div id="reading-progress" class="progress-fill"></div>
-                </div>
-                <span id="progress-text" class="progress-text">0%</span>
-            </div>
-            <nav class="sidebar-toc">
-    
-            </nav>
+    <div class="title-page">
+        <h1 class="book-title">The Social Game</h1>
+        <p class="book-subtitle">How collective systems program individual consciousness</p>
+        <p class="author">Rez Khan</p>
+        <div class="word-count">
+            <p><em>47,211 words</em></p>
         </div>
     </div>
-    
 
-    <!-- Main Content -->
-    <div class="container">
-        <div class="book-header">
-            <h1 class="book-title">The Social Game</h1>
-            <p class="book-author">Rez Khan</p>
-            <p class="book-subtitle">How collective systems program individual consciousness</p>
-            <div class="book-meta">
-                <span class="word-count">47,211 words</span>
-                <span class="publication-info">Enhanced HTML Edition</span>
-            </div>
-        </div>
-
-        <div class="book-content">
-            
-    <div class="enhanced-toc">
-        <div class="toc-header">
-            <h2>📚 Table of Contents</h2>
-            <div class="toc-controls">
-                <button id="skip-to-content" class="toc-btn primary">📖 Skip to Content</button>
-                <button id="expand-all" class="toc-btn">Expand All</button>
-                <button id="collapse-all" class="toc-btn">Collapse All</button>
-            </div>
-        </div>
-        <div class="toc-search">
-            <input type="text" id="toc-search" placeholder="🔍 Search chapters..." />
-        </div>
-        <div class="toc-summary">
-            <p>📖 <strong>0 parts</strong> • <strong>0 chapters</strong> • All sections collapsed by default</p>
-        </div>
-        <nav class="toc-nav">
-    
-        </nav>
-    </div>
-    
-            <h1 id="the-social-game" class="heading-anchor book-title" data-anchor="#the-social-game">The Social Game</h1>
+    <div class="content book-content">
+        <h1 id="the-social-game" class="heading-anchor book-title" data-anchor="#the-social-game">The Social Game</h1>
 <h2 id="how-collective-systems-program-individual-consciousness" class="heading-anchor" data-anchor="#how-collective-systems-program-individual-consciousness">How collective systems program individual consciousness</h2>
 <p><em>Compiled August 11, 2025 at 3:53 PM</em></p>
 <hr />
@@ -5299,243 +5632,6 @@ When you notice a significant emotional shift, immediately log:</p>
 <p><strong>Parasocial Relationship:</strong> A one-sided relationship where a person invests emotional energy and a sense of intimacy in a media figure, influencer, or character who is unaware of their existence.</p>
 <p><strong>Social Programming:</strong> The systematic process by which collective systems (media, culture, economic structures, technology) shape individual consciousness, behavior, and relationships to serve institutional interests.</p>
 <p><strong>True Hierarchy:</strong> A structure of authority based on genuine, demonstrable competence, wisdom, and the ability to guide others' development (see <em>Competency Pattern</em>). It is oriented toward service and the transmission of knowledge.</p>
-        </div>
     </div>
-
-    <script>
-        
-    // Enhanced Navigation JavaScript
-    console.log('JavaScript loaded successfully!');
-
-    // Global variables
-    let currentChapterIndex = 0;
-    let chapters = [];
-    let chapterMode = false;
-
-    function toggleSidebar() {
-        const sidebar = document.querySelector('.sidebar-nav');
-        if (sidebar) {
-            sidebar.classList.toggle('sidebar-open');
-            console.log('Sidebar toggled:', sidebar.classList.contains('sidebar-open'));
-        }
-    }
-
-    function updateReadingProgress() {
-        const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-        const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-        const scrolled = (winScroll / height) * 100;
-
-        // Update progress bar
-        const progressBar = document.getElementById('progress-bar');
-        if (progressBar) progressBar.style.width = scrolled + '%';
-
-        // Show/hide go to top button
-        const topButton = document.getElementById('floating-top-button');
-        if (topButton) {
-            if (winScroll > 300) {
-                topButton.classList.add('visible');
-            } else {
-                topButton.classList.remove('visible');
-            }
-        }
-    }
-
-    function initializeChapterMode() {
-        const content = document.querySelector('.book-content');
-        if (!content) return;
-
-        const chapterHeadings = content.querySelectorAll('h1');
-        chapters = [];
-
-        chapterHeadings.forEach((heading, index) => {
-            const chapterContent = [];
-            let currentElement = heading;
-
-            while (currentElement) {
-                chapterContent.push(currentElement);
-                currentElement = currentElement.nextElementSibling;
-
-                if (currentElement && currentElement.tagName === 'H1') {
-                    break;
-                }
-            }
-
-            chapters.push({
-                title: heading.textContent.replace(/^Chapter \d+:\s*/, ''),
-                fullTitle: heading.textContent,
-                elements: chapterContent,
-                heading: heading,
-                index: index
-            });
-        });
-
-        console.log(`Initialized ${chapters.length} chapters for chapter mode`);
-    }
-
-    function toggleViewMode() {
-        chapterMode = !chapterMode;
-        const body = document.body;
-        const toggleBtn = document.getElementById('view-mode-toggle');
-
-        if (chapterMode) {
-            body.classList.add('single-page-mode');
-            if (toggleBtn) toggleBtn.textContent = '📖 Full Book';
-            showChapter(0);
-            console.log('Chapter mode enabled');
-        } else {
-            body.classList.remove('single-page-mode');
-            if (toggleBtn) toggleBtn.textContent = '📄 Chapter Mode';
-            showAllContent();
-            console.log('Chapter mode disabled');
-        }
-    }
-
-    function showChapter(index) {
-        if (index < 0 || index >= chapters.length) return;
-
-        currentChapterIndex = index;
-        const content = document.querySelector('.book-content');
-
-        // Hide all content
-        Array.from(content.children).forEach(el => {
-            el.style.display = 'none';
-            el.classList.remove('current-page');
-        });
-
-        // Show current chapter content
-        if (chapters[index]) {
-            chapters[index].elements.forEach(el => {
-                el.style.display = 'block';
-                el.classList.add('current-page');
-            });
-        }
-
-        // Update navigation
-        updateChapterNavigation();
-
-        // Scroll to top
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-    function showAllContent() {
-        const content = document.querySelector('.book-content');
-        if (content) {
-            Array.from(content.children).forEach(el => {
-                el.style.display = 'block';
-                el.classList.remove('current-page');
-            });
-        }
-    }
-
-    function updateChapterNavigation() {
-        const pageInfo = document.getElementById('page-info');
-        const prevBtn = document.getElementById('prev-page');
-        const nextBtn = document.getElementById('next-page');
-
-        if (pageInfo) {
-            const currentChapter = chapters[currentChapterIndex];
-            const shortTitle = currentChapter ? currentChapter.title.substring(0, 30) + (currentChapter.title.length > 30 ? '...' : '') : '';
-            pageInfo.textContent = `${currentChapterIndex + 1} of ${chapters.length}: ${shortTitle}`;
-        }
-
-        if (prevBtn) {
-            prevBtn.disabled = currentChapterIndex === 0;
-        }
-
-        if (nextBtn) {
-            nextBtn.disabled = currentChapterIndex === chapters.length - 1;
-        }
-    }
-
-    function nextChapter() {
-        if (currentChapterIndex < chapters.length - 1) {
-            showChapter(currentChapterIndex + 1);
-        }
-    }
-
-    function prevChapter() {
-        if (currentChapterIndex > 0) {
-            showChapter(currentChapterIndex - 1);
-        }
-    }
-
-    // Initialize everything when DOM is loaded
-    document.addEventListener('DOMContentLoaded', function() {
-        console.log('Enhanced navigation initialized!');
-        console.log('Keyboard shortcuts: T = Toggle sidebar, C = Chapter mode, Home = Top, End = Bottom');
-
-        // Initialize chapter mode
-        initializeChapterMode();
-
-        // Setup scroll tracking
-        window.addEventListener('scroll', updateReadingProgress);
-
-        // Add click handlers for buttons
-        const viewToggle = document.getElementById('view-mode-toggle');
-        if (viewToggle) {
-            viewToggle.addEventListener('click', toggleViewMode);
-        }
-
-        const topButton = document.getElementById('floating-top-button');
-        if (topButton) {
-            topButton.addEventListener('click', function() {
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-            });
-        }
-
-        const navToggle = document.getElementById('floating-nav-toggle');
-        if (navToggle) {
-            navToggle.addEventListener('click', toggleSidebar);
-        }
-
-        // Chapter navigation buttons
-        const prevBtn = document.getElementById('prev-page');
-        const nextBtn = document.getElementById('next-page');
-        if (prevBtn) prevBtn.addEventListener('click', prevChapter);
-        if (nextBtn) nextBtn.addEventListener('click', nextChapter);
-
-        // Keyboard shortcuts
-        document.addEventListener('keydown', function(e) {
-            if (e.target.tagName === 'INPUT') return;
-
-            switch(e.key) {
-                case 't':
-                case 'T':
-                    toggleSidebar();
-                    e.preventDefault();
-                    break;
-                case 'c':
-                case 'C':
-                    toggleViewMode();
-                    e.preventDefault();
-                    break;
-                case 'ArrowLeft':
-                    if (chapterMode) {
-                        prevChapter();
-                        e.preventDefault();
-                    }
-                    break;
-                case 'ArrowRight':
-                    if (chapterMode) {
-                        nextChapter();
-                        e.preventDefault();
-                    }
-                    break;
-                case 'Home':
-                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                    e.preventDefault();
-                    break;
-                case 'End':
-                    window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
-                    e.preventDefault();
-                    break;
-            }
-        });
-
-        // Initial progress update
-        updateReadingProgress();
-    });
-    
-    </script>
 </body>
 </html>
