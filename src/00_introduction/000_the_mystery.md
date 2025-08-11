@@ -16,6 +16,10 @@ The answer is not a simple one. It's not simply about technology, politics, or e
 
 This investigation will take you from the boardrooms of Silicon Valley to the ancient wisdom of tribal cultures, from the frontiers of network science to the depths of human psychology. We will uncover the hidden logic behind our modern paradoxes and expose the forces that benefit from our collective confusion.
 
-You are about to learn the real rules of the game. And once you see them, you can never unsee them. But you will also discover something more important: how to start playing a different game entirely. A game that is more connected, more meaningful, and more human.
+You are about to learn the real rules of the game. And once you see them, you can never unsee them.
 
-The first step is to see the bars of the cage. This book is the key.
+But seeing the rules is not enough. This book is not just a map of the prison; it is a key to the lock. A diagnosis without a cure is a form of cruelty, and this journey is not an academic exercise.
+
+Our investigation is the first step. The final step is to build. We will not just uncover the architecture of our disconnection; we will discover the principles for creating a world that is more connected, more meaningful, and profoundly more human.
+
+The goal isn't just to understand the game. It's to build a new one.

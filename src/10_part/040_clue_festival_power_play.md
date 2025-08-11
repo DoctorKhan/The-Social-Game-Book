@@ -37,4 +37,6 @@ This discovery was both exhilarating and terrifying. It was exhilarating because
 
 It was terrifying because it raised a darker question: If the blueprint for a healthier society is this simple, why is it so rare? What powerful forces have a vested interest in maintaining the broken system?
 
+This temporary experiment in playful sovereignty holds the key not just for individual liberation, but for the design of the periodic, reality-bending festivals that are essential to a sovereign network's culture.
+
 The clues from the grackles and the calendars had shown me what was possible. The laboratory in the desert had shown me what was being suppressed. Now, the investigation had to turn to the suppressors themselves.

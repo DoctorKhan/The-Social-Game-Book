@@ -1,6 +1,6 @@
-# Appendix B: Practical Exercises and Field Manuals
+# Your Phase 0 Toolkit: The Foundational Work of a World-Builder
 
-*This appendix contains all the practical exercises, protocols, and field manuals referenced throughout The Social Game. These exercises are designed to transform theoretical understanding into direct experience and practical skill.*
+*This appendix contains all the practical exercises, protocols, and field manuals referenced throughout The Social Game. These exercises are designed to transform theoretical understanding into direct experience and practical skill—they are the foundational work of building a new world.*
 
 ---
 
@@ -17,8 +17,8 @@ The exercises in this appendix are **not optional add-ons**—they are integral 
 
 ### **Foundation Exercises** (Start Here)
 
-- **B.1 Flotilla Formation Guide** - Creating your support network
-- **B.2 Three Spheres Audit** - Mapping your current dependencies and resilience
+- **B.1 Flotilla Formation Guide** - Creating your support network. *This is the primary action of Phase 0 and the most important step in the entire journey.*
+- **B.2 Three Spheres Audit** - Mapping your current dependencies and resilience. *Use this audit to identify the specific areas where your fledgling Hub will need to build resilience.*
 
 ### **Awareness Development Exercises**
 
@@ -28,6 +28,10 @@ The exercises in this appendix are **not optional add-ons**—they are integral 
 ### **Comprehensive Protocols**
 
 - **B.5 The 30-Day Field Manual** - Systematic investigation of social programming
+
+### **Phase 1 Transition Tools**
+
+- **B.6 The Hub Charter Protocol** - A template for transitioning from Phase 0 to Phase 1. *This exercise makes the transition from discussion to action tangible and provides a clear, structured path forward.*
 
 ---
 

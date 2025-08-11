@@ -45,4 +45,6 @@ The Balinese hadn't chosen connection over efficiency. They understood that conn
 
 The question that now haunted me was more pointed: What force benefits from convincing us to trade our social health for individual productivity?
 
+This ancient understanding of social rhythm isn't just a relic of the past; it is a core design principle for the real-world gatherings that will ground the networked communities of the future.
+
 The next clue was waiting for me in the most unlikely of places: a temporary city built on radical self-expression in the Nevada desert.

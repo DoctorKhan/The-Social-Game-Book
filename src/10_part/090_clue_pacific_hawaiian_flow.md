@@ -30,4 +30,6 @@ The question that had been haunting me finally crystallized: This wasn't a rando
 
 Why have we been so aggressively sold a vastly inferior social technology? Who benefits from convincing us to forget our natural ability to find each other in the flow?
 
+This "analog network" reveals a human capacity for decentralized coordination that, when paired with the right technology, can form the basis of a global, yet deeply local, tribe.
+
 The clues were all in place. The investigation could now turn to the architects of this great deception.
