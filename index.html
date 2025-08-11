@@ -1062,13 +1062,16 @@ tr:nth-child(even) {
 
     function populateSidebarNavigation() {
         const tocContainer = document.getElementById('toc-chapters');
-        if (!tocContainer) return;
+        if (!tocContainer) {
+            console.log('No toc-chapters container found');
+            return;
+        }
 
         let tocHTML = '';
         chapters.forEach((chapter, index) => {
             tocHTML += `
                 <div class="toc-item toc-chapter" data-chapter="${index}">
-                    <a href="#" class="toc-link" onclick="goToChapter(${index}); return false;">
+                    <a href="#" class="toc-link" data-chapter-index="${index}">
                         ${chapter.fullTitle}
                     </a>
                 </div>
@@ -1076,16 +1079,31 @@ tr:nth-child(even) {
         });
 
         tocContainer.innerHTML = tocHTML;
+
+        // Add click handlers to chapter links
+        tocContainer.querySelectorAll('.toc-link').forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const chapterIndex = parseInt(this.getAttribute('data-chapter-index'));
+                goToChapter(chapterIndex);
+            });
+        });
+
         console.log('Populated sidebar with', chapters.length, 'chapters');
     }
 
     function goToChapter(index) {
+        console.log('Going to chapter', index, 'Chapter mode:', chapterMode);
+
         if (chapterMode) {
             showChapter(index);
         } else {
             // In full book mode, scroll to the chapter
             if (chapters[index] && chapters[index].heading) {
-                chapters[index].heading.scrollIntoView({ behavior: 'smooth' });
+                console.log('Scrolling to chapter heading:', chapters[index].heading);
+                chapters[index].heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            } else {
+                console.log('Chapter heading not found for index', index);
             }
         }
 
@@ -1115,10 +1133,19 @@ tr:nth-child(even) {
     }
 
     function showChapter(index) {
-        if (index < 0 || index >= chapters.length) return;
+        if (index < 0 || index >= chapters.length) {
+            console.log('Invalid chapter index:', index);
+            return;
+        }
 
+        console.log('Showing chapter', index, 'of', chapters.length);
         currentChapterIndex = index;
         const content = document.querySelector('.book-content');
+
+        if (!content) {
+            console.log('No .book-content found');
+            return;
+        }
 
         // Hide all content
         Array.from(content.children).forEach(el => {
@@ -1127,18 +1154,37 @@ tr:nth-child(even) {
         });
 
         // Show current chapter content
-        if (chapters[index]) {
+        if (chapters[index] && chapters[index].elements) {
+            console.log('Showing', chapters[index].elements.length, 'elements for chapter', index);
             chapters[index].elements.forEach(el => {
                 el.style.display = 'block';
                 el.classList.add('current-page');
             });
+        } else {
+            console.log('No elements found for chapter', index);
         }
 
         // Update navigation
         updateChapterNavigation();
 
+        // Update sidebar highlighting
+        updateSidebarHighlight(index);
+
         // Scroll to top
         window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function updateSidebarHighlight(chapterIndex) {
+        // Remove previous highlights
+        document.querySelectorAll('.toc-item').forEach(item => {
+            item.classList.remove('current-chapter');
+        });
+
+        // Highlight current chapter in sidebar
+        const tocItems = document.querySelectorAll('.toc-item');
+        if (tocItems[chapterIndex]) {
+            tocItems[chapterIndex].classList.add('current-chapter');
+        }
     }
 
     function showAllContent() {
