@@ -55,6 +55,7 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 4. **First Sacred Site**: Following the Law of the Harvest, they use pooled funds to acquire their first collective asset—a plot of land, a community center, a workshop, or other productive resource. This becomes their first **Sacred Site**.
 
 5. **Proof-of-Work Definition**: They define their first "Proof-of-Work" activities—the specific contributions that earn full citizenship in the Hub. This might include:
+
    - Contributing labor to develop the Sacred Site
    - Completing a local pilgrimage route
    - Successfully mentoring a new member
@@ -96,6 +97,7 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 5. **Economic Integration**: Hubs begin trading with each other, sharing resources, and creating inter-Hub economic relationships that reduce dependence on the external economy.
 
 6. **Cultural Exchange**: Regular exchanges of members between Hubs for learning, skill-sharing, and relationship building. This might include:
+
    - Apprenticeship programs where members learn specialized skills at other Hubs
    - Cultural festivals that celebrate the diversity of local adaptations
    - Collaborative projects that require resources from multiple Hubs
