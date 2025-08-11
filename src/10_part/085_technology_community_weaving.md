@@ -26,8 +26,6 @@ Through my investigation, I discovered four essential technologies that healthy 
 
 #### The Four Domains of Regulation: Making Social Rhythm Practical
 
-*From the investigation notes of Dr. Elena Vasquez, neuroscientist*
-
 After studying the Balinese social rhythm for months, I realized I was missing something crucial. The rhythm worked, but **why** did it work so effectively? What were the specific elements that created such profound nervous system regulation and community bonding?
 
 The breakthrough came when I started mapping the neurological patterns of people engaged in different types of regular activities. I discovered that effective social rhythm must engage four fundamental domains that our nervous systems require for optimal regulation:

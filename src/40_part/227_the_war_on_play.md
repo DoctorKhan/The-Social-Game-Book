@@ -43,8 +43,6 @@ The war against play operates through systematic corruption of our natural playf
 
 #### The Great Reversal: The Core Mechanism
 
-*From the investigation notes of Dr. Marcus Rivera, evolutionary anthropologist*
-
 I was studying burnout patterns in modern professionals when I stumbled upon something that made me question everything I thought I knew about human nature. A software engineer, exhausted from years of 60-hour weeks, said something that stopped me cold:
 
 "I used to love coding. It was like solving puzzles, creating something beautiful. Now it feels like I'm performing for an invisible audience that's never satisfied. I can't remember the last time I felt... playful."
@@ -136,7 +134,7 @@ This is why play is so dangerous to systems of control. Play is inherently creat
 
 #### The Path Forward: Reversing the Great Reversal
 
-*Dr. Rivera's investigation revealed the mechanism. Now we can consciously reverse it.*
+*My investigation revealed the mechanism. Now we can consciously reverse it.*
 
 The solution is not to become serious revolutionaries fighting the serious system. The solution is to become playful revolutionaries who refuse to take the system's games seriously and instead create better, more joyful, more life-affirming games.
 

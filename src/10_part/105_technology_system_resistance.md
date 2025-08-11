@@ -90,8 +90,6 @@ Through my investigation, I discovered four essential technologies for maintaini
 
 #### The Technology Integration Discovery
 
-*From the investigation notes of Dr. James Park, systems analyst*
-
 I was consulting for a tech startup when I witnessed something that changed my understanding of technology forever. The CEO, a brilliant engineer, was having a breakdown in the conference room.
 
 "I created this platform to connect people," he said, staring at the user engagement metrics on the wall. "But look at these numbers. Average session time: 3.2 hours. Daily check-ins: 47 times. We're not connecting people—we're addicting them."
