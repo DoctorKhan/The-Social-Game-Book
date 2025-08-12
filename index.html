@@ -1071,7 +1071,7 @@ tr:nth-child(even) {
                 index: index
             });
 
-            console.log(`Chapter ${index + 1}: ${title}`);
+            console.log(`Chapter ${index + 1}: ${title} (${chapterContent.length} elements)`);
         });
 
         console.log(`Initialized ${chapters.length} chapters for chapter mode`);
@@ -1210,11 +1210,18 @@ tr:nth-child(even) {
 
             let shownCount = 0;
             chapters[index].elements.forEach(el => {
+                // Force display to block for all elements
                 el.style.display = 'block';
+                el.style.visibility = 'visible';
                 el.classList.add('current-page');
                 shownCount++;
+                console.log('  Showing element:', el.tagName, el.textContent ? el.textContent.substring(0, 50) + '...' : '');
             });
             console.log('Showed', shownCount, 'elements for chapter', index);
+
+            // Verify elements are actually visible
+            const visibleElements = content.querySelectorAll('.current-page');
+            console.log('Verification: Found', visibleElements.length, 'elements with current-page class');
         } else {
             console.log('ERROR: No elements found for chapter', index);
             if (chapters[index]) {
