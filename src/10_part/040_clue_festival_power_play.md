@@ -36,6 +36,6 @@ This discovery was both exhilarating and terrifying. It was exhilarating because
 
 It was terrifying because it raised a darker question: If the blueprint for a healthier society is this simple, why is it so rare? What powerful forces have a vested interest in maintaining the broken system?
 
-The desert had confirmed my hypothesis: even the most inauthentic, disorganized, and individualistic people could access collective intelligence when the right conditions were created. But this raised a crucial question: what were those conditions, exactly?
+The desert had confirmed my hypothesis: even the most inauthentic, disorganized, and individualistic people could access collective intelligence when the right conditions were created.
 
 The grackles, the Balinese calendar, and the desert festival had all revealed pieces of the same puzzle. Now I needed to understand the underlying technologies that made this magic possible.
