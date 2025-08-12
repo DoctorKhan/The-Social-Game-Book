@@ -182,22 +182,22 @@ The breakthrough came when I started applying the same principle I'd discovered 
 
 Just as we learned that sound sensitivity isn't a character flaw but a neurological reality that requires accommodation, all human differences can be approached the same way:
 
-- ADHD restlessness isn't defiance—it's a hunter nervous system that needs movement and variety
-- Autistic directness isn't rudeness—it's efficient, honest communication that values clarity over social cushioning
-- Different sexual orientations aren't choices or phases—they're natural variations in attraction patterns
-- Gender expression differences aren't confusion—they're individual ways of embodying human potential
+- **ADHD restlessness** isn't defiance—it's a hunter nervous system that needs movement and variety
+- **Autistic directness** isn't rudeness—it's efficient, honest communication that values clarity over social cushioning
+- **Different sexual orientations** aren't choices or phases—they're natural variations in attraction patterns
+- **Gender expression differences** aren't confusion—they're individual ways of embodying human potential
 
-The practical framework that emerged from this understanding has four key components:
+The practical framework that emerged from this understanding has five key components:
 
-**First: Understand the neurological reality.** Every difference has an underlying biological or psychological basis. When we understand the "why" behind behaviors, we can respond with accommodation rather than judgment.
+1. **Understand the neurological reality.** Every difference has an underlying biological or psychological basis. When we understand the "why" behind behaviors, we can respond with accommodation rather than judgment.
 
-**Second: Design accommodating environments.** This means sensory considerations for neurodivergent individuals, communication adaptations for different processing styles, and flexible participation options that work for various needs and preferences.
+2. **Design accommodating environments.** This means sensory considerations for neurodivergent individuals, communication adaptations for different processing styles, and flexible participation options that work for various needs and preferences.
 
-**Third: Value unique contributions.** Every neurotype, every orientation, every way of being human brings specific gifts. The goal is to recognize these gifts and create roles that utilize them rather than forcing conformity.
+3. **Value unique contributions.** Every neurotype, every orientation, every way of being human brings specific gifts. The goal is to recognize these gifts and create roles that utilize them rather than forcing conformity.
 
-**Fourth: Create specialized opportunities.** Instead of trying to make everyone good at everything, create diverse pathways that allow people to contribute through their natural strengths.
+4. **Create specialized opportunities.** Instead of trying to make everyone good at everything, create diverse pathways that allow people to contribute through their natural strengths.
 
-**Fifth: Honor protective responses.** Recognize that disgust and discomfort responses often serve protective functions for individuals and communities. Instead of shaming these responses, create structures that allow people to contribute to community while maintaining their comfort boundaries.
+5. **Honor protective responses.** Recognize that disgust and discomfort responses often serve protective functions for individuals and communities. Instead of shaming these responses, create structures that allow people to contribute to community while maintaining their comfort boundaries.
 
 ## The Disgust Integration Example
 
@@ -217,15 +217,15 @@ Over time, as Tom worked alongside Marcus and David on community projects, his d
 
 From this experience, I developed what I call the "Disgust Honoring Protocol"—a framework for integrating diverse communities while respecting protective responses:
 
-**Step 1: Acknowledge the biological reality.** Disgust responses are neurological, not moral choices. Shaming people for their disgust responses is as counterproductive as shaming people for their sexual orientation.
+1. **Acknowledge the biological reality.** Disgust responses are neurological, not moral choices. Shaming people for their disgust responses is as counterproductive as shaming people for their sexual orientation.
 
-**Step 2: Separate contribution from comfort.** Create structures where people can contribute their gifts to community without having to override their genuine comfort boundaries.
+2. **Separate contribution from comfort.** Create structures where people can contribute their gifts to community without having to override their genuine comfort boundaries.
 
-**Step 3: Focus on shared values.** Find the common ground—usually things like community safety, mutual aid, and collective flourishing—that everyone can support regardless of their personal comfort levels.
+3. **Focus on shared values.** Find the common ground—usually things like community safety, mutual aid, and collective flourishing—that everyone can support regardless of their personal comfort levels.
 
-**Step 4: Allow organic relationship building.** Let familiarity and shared work naturally reduce discomfort over time, without forcing it or making it a requirement for community membership.
+4. **Allow organic relationship building.** Let familiarity and shared work naturally reduce discomfort over time, without forcing it or making it a requirement for community membership.
 
-**Step 5: Protect both sides.** Ensure that diverse individuals can express themselves authentically while also ensuring that disgusted individuals aren't forced into situations that trigger their protective responses.
+5. **Protect both sides.** Ensure that diverse individuals can express themselves authentically while also ensuring that disgusted individuals aren't forced into situations that trigger their protective responses.
 
 This approach recognizes that **both diversity and disgust responses are natural human variations that serve functions**. The goal isn't to eliminate either one, but to create community structures that can integrate both.
 

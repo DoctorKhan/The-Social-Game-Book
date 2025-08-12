@@ -26,15 +26,15 @@ This learning process wasn't academic—it was **embodied**. Through structured 
 
 **The Cultural Evidence**
 
-I found this pattern everywhere:
+As I researched traditional consent systems, I found this pattern everywhere, hidden in plain sight within cultural practices that most people dismissed as mere entertainment or tradition.
 
-- **European Folk Dances**: Maypole dances and Ceilidhs weren't just entertainment—they were training grounds. With prescribed movements and regular partner changes, they socialized generations into structured, respectful physical contact.
+**European Folk Dances** revealed themselves to be sophisticated training grounds for consensual physical interaction. Maypole dances and Ceilidhs weren't just entertainment—they were community education systems. With prescribed movements and regular partner changes, they socialized generations into structured, respectful physical contact. Young people learned how to invite, how to accept, how to decline, and how to read body language within a safe, community-witnessed context.
 
-- **The Maori Hongi**: This traditional greeting involves pressing noses and foreheads together—a deeply intimate gesture that's completely non-sexual and universally understood within the culture.
+**The Maori Hongi** showed me how cultures could normalize intimate physical connection without sexualizing it. This traditional greeting involves pressing noses and foreheads together—a deeply intimate gesture that's completely non-sexual and universally understood within the culture. It demonstrated that the problem wasn't physical intimacy itself, but the lack of clear cultural frameworks for navigating it.
 
-- **Latin Social Dance**: In cultures where Salsa, Bachata, or Tango are central to social life, there are deeply ingrained, unspoken rules about invitation, posture, hand placement, and connection pressure—a rich, non-verbal language of consent learned through participation.
+**Latin Social Dance** cultures had developed perhaps the most sophisticated consent systems I encountered. In societies where Salsa, Bachata, or Tango are central to social life, there are deeply ingrained, unspoken rules about invitation, posture, hand placement, and connection pressure—a rich, non-verbal language of consent learned through participation. These weren't written rules but embodied wisdom passed down through generations of dancers.
 
-- **Modern Subcultures**: Contact improvisation communities and BDSM communities have developed sophisticated consent systems precisely because they operate in high-stakes environments.
+**Modern Subcultures** had been forced to innovate because they operated in high-stakes environments. Contact improvisation communities and BDSM communities had developed sophisticated consent systems precisely because the potential for harm was high and the mainstream culture provided no guidance. They had created explicit protocols that other communities could learn from.
 
 **The Festival Insight**
 
