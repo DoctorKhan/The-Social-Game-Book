@@ -1235,8 +1235,22 @@ tr:nth-child(even) {
         // Update sidebar highlighting
         updateSidebarHighlight(index);
 
-        // Scroll to top
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        // Scroll to chapter heading for better UX
+        if (chapters[index] && chapters[index].heading) {
+            console.log('Scrolling to chapter heading:', chapters[index].heading.textContent);
+            // Small delay to ensure elements are rendered
+            setTimeout(() => {
+                chapters[index].heading.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start',
+                    inline: 'nearest'
+                });
+            }, 100);
+        } else {
+            // Fallback: scroll to top
+            console.log('No chapter heading found, scrolling to top');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
         console.log('=== showChapter completed ===');
     }
 
