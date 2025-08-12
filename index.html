@@ -1026,7 +1026,7 @@ tr:nth-child(even) {
     // Global variables
     let currentChapterIndex = 0;
     let chapters = [];
-    let chapterMode = false;
+    let chapterMode = true; // Start in chapter mode by default
 
     function toggleSidebar() {
         const sidebar = document.querySelector('.sidebar-nav');
@@ -1432,6 +1432,12 @@ tr:nth-child(even) {
 
         // Initialize chapter mode
         initializeChapterMode();
+
+        // Start in chapter mode by default
+        if (chapterMode) {
+            document.body.classList.add('single-page-mode');
+            showChapter(0);
+        }
 
         // Setup scroll tracking
         window.addEventListener('scroll', updateReadingProgress);
