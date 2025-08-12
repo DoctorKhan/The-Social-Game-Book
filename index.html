@@ -1067,7 +1067,7 @@ tr:nth-child(even) {
         }
 
         // Update page number indicator (always use book progress for page numbers)
-        updatePageNumber(bookScrolled);
+        updatePageNumber(bookScrolled, chapterMode ? currentChapterIndex : null);
 
         // Show/hide go to top button
         const topButton = document.getElementById('floating-top-button');
@@ -1109,7 +1109,7 @@ tr:nth-child(even) {
         return chapterProgress;
     }
 
-    function updatePageNumber(scrollPercentage) {
+    function updatePageNumber(scrollPercentage, chapterIndex = null) {
         const currentPageSpan = document.getElementById('current-page-number');
         const totalPagesSpan = document.getElementById('total-pages');
 
@@ -1119,8 +1119,19 @@ tr:nth-child(even) {
         const wordCount = 47211;
         const estimatedTotalPages = Math.ceil(wordCount / 250);
 
-        // Calculate current page based on scroll position
-        const currentPage = Math.max(1, Math.ceil((scrollPercentage / 100) * estimatedTotalPages));
+        let currentPage;
+
+        if (chapterIndex !== null && chapters.length > 0) {
+            // In chapter mode: calculate page based on chapter position + chapter progress
+            const chapterProgress = calculateChapterProgress();
+            const pagesPerChapter = estimatedTotalPages / chapters.length;
+            const chapterStartPage = Math.floor(chapterIndex * pagesPerChapter);
+            const pagesIntoChapter = Math.ceil((chapterProgress / 100) * pagesPerChapter);
+            currentPage = Math.max(1, chapterStartPage + pagesIntoChapter);
+        } else {
+            // In full book mode: calculate page based on overall scroll position
+            currentPage = Math.max(1, Math.ceil((scrollPercentage / 100) * estimatedTotalPages));
+        }
 
         currentPageSpan.textContent = `Page ${currentPage}`;
         totalPagesSpan.textContent = ` of ~${estimatedTotalPages}`;
