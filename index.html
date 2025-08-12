@@ -922,6 +922,36 @@ tr:nth-child(even) {
         .single-page-mode .content .current-page {
             display: block !important;
         }
+
+        /* Page Number Indicator */
+        .page-number-indicator {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background: var(--page-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 15px;
+            padding: 8px 12px;
+            font-size: 12px;
+            color: var(--section-color);
+            box-shadow: 0 2px 8px var(--shadow-color);
+            z-index: 1000;
+            opacity: 0.8;
+            transition: opacity 0.3s ease;
+        }
+
+        .page-number-indicator:hover {
+            opacity: 1;
+        }
+
+        #current-page-number {
+            font-weight: 500;
+            color: var(--chapter-color);
+        }
+
+        #total-pages {
+            color: var(--section-color);
+        }
     </style>
     <script>
         // Handle heading anchor functionality
@@ -1011,11 +1041,22 @@ tr:nth-child(even) {
     function updateReadingProgress() {
         const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
         const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-        const scrolled = (winScroll / height) * 100;
+        const scrolled = Math.max(0, Math.min(100, (winScroll / height) * 100));
 
-        // Update progress bar
-        const progressBar = document.getElementById('progress-bar');
-        if (progressBar) progressBar.style.width = scrolled + '%';
+        // Update sidebar progress bar
+        const readingProgress = document.getElementById('reading-progress');
+        if (readingProgress) {
+            readingProgress.style.width = scrolled + '%';
+        }
+
+        // Update sidebar progress text
+        const progressText = document.getElementById('progress-text');
+        if (progressText) {
+            progressText.textContent = Math.round(scrolled) + '%';
+        }
+
+        // Update page number indicator
+        updatePageNumber(scrolled);
 
         // Show/hide go to top button
         const topButton = document.getElementById('floating-top-button');
@@ -1026,6 +1067,25 @@ tr:nth-child(even) {
                 topButton.classList.remove('visible');
             }
         }
+
+        console.log('Progress updated:', Math.round(scrolled) + '%');
+    }
+
+    function updatePageNumber(scrollPercentage) {
+        const currentPageSpan = document.getElementById('current-page-number');
+        const totalPagesSpan = document.getElementById('total-pages');
+
+        if (!currentPageSpan || !totalPagesSpan) return;
+
+        // Estimate total pages based on word count (assuming ~250 words per page)
+        const wordCount = {word_count};
+        const estimatedTotalPages = Math.ceil(wordCount / 250);
+
+        // Calculate current page based on scroll position
+        const currentPage = Math.max(1, Math.ceil((scrollPercentage / 100) * estimatedTotalPages));
+
+        currentPageSpan.textContent = `Page ${currentPage}`;
+        totalPagesSpan.textContent = ` of ~${estimatedTotalPages}`;
     }
 
     function initializeChapterMode() {
@@ -1465,7 +1525,7 @@ tr:nth-child(even) {
     <div class="content book-content">
         <h1 id="the-social-game" class="heading-anchor book-title" data-anchor="#the-social-game">The Social Game</h1>
 <h2 id="how-collective-systems-program-individual-consciousness" class="heading-anchor" data-anchor="#how-collective-systems-program-individual-consciousness">How collective systems program individual consciousness</h2>
-<p><em>Compiled August 11, 2025 at 4:56 PM</em></p>
+<p><em>Compiled August 11, 2025 at 5:15 PM</em></p>
 <hr />
 <hr />
 <h2 id="introduction-the-unseen-architect" class="heading-anchor" data-anchor="#introduction-the-unseen-architect">Introduction: The Unseen Architect</h2>
