@@ -1125,12 +1125,21 @@ tr:nth-child(even) {
             // In chapter mode: calculate page based on chapter position + chapter progress
             const chapterProgress = calculateChapterProgress();
             const pagesPerChapter = estimatedTotalPages / chapters.length;
-            const chapterStartPage = Math.floor(chapterIndex * pagesPerChapter);
-            const pagesIntoChapter = Math.ceil((chapterProgress / 100) * pagesPerChapter);
+            const chapterStartPage = Math.floor(chapterIndex * pagesPerChapter) + 1;
+            const pagesIntoChapter = Math.floor((chapterProgress / 100) * pagesPerChapter);
             currentPage = Math.max(1, chapterStartPage + pagesIntoChapter);
+
+            console.log(`Page calculation - Chapter ${chapterIndex + 1}:`, {
+                chapterProgress: Math.round(chapterProgress),
+                pagesPerChapter: Math.round(pagesPerChapter),
+                chapterStartPage,
+                pagesIntoChapter,
+                currentPage
+            });
         } else {
             // In full book mode: calculate page based on overall scroll position
             currentPage = Math.max(1, Math.ceil((scrollPercentage / 100) * estimatedTotalPages));
+            console.log(`Page calculation - Full book: ${Math.round(scrollPercentage)}% = Page ${currentPage}`);
         }
 
         currentPageSpan.textContent = `Page ${currentPage}`;
@@ -1344,6 +1353,12 @@ tr:nth-child(even) {
         // Update sidebar highlighting
         updateSidebarHighlight(index);
 
+        // Force update page numbers immediately for chapter mode
+        if (chapterMode) {
+            updatePageNumber(0, index); // Use chapter index for page calculation
+            console.log('Updated page numbers for chapter', index);
+        }
+
         // Scroll to chapter heading for better UX
         if (chapters[index] && chapters[index].heading) {
             console.log('Scrolling to chapter heading:', chapters[index].heading.textContent);
@@ -1354,6 +1369,12 @@ tr:nth-child(even) {
                     block: 'start',
                     inline: 'nearest'
                 });
+                // Update page numbers again after scroll
+                setTimeout(() => {
+                    if (chapterMode) {
+                        updatePageNumber(0, index);
+                    }
+                }, 200);
             }, 100);
         } else {
             // Fallback: scroll to top
@@ -1452,6 +1473,17 @@ tr:nth-child(even) {
 
         // Setup scroll tracking
         window.addEventListener('scroll', updateReadingProgress);
+
+        // Additional scroll listener for chapter mode page updates
+        window.addEventListener('scroll', function() {
+            if (chapterMode && chapters.length > 0) {
+                // Throttle updates to avoid too many calculations
+                clearTimeout(window.pageUpdateTimeout);
+                window.pageUpdateTimeout = setTimeout(() => {
+                    updatePageNumber(0, currentChapterIndex);
+                }, 100);
+            }
+        });
 
         // Add click handlers for buttons
         const viewToggle = document.getElementById('view-mode-toggle');
