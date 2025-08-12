@@ -1,4 +1,4 @@
-# Introduction: The Unseen Architect
+# Chapter 1: The Unseen Architect
 
 Do you ever feel like you're playing a game you don't remember starting?
 

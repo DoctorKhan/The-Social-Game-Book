@@ -5,13 +5,11 @@ author: "Rez Khan"
 series: "The Orphaned Species"
 
 structure:
-  - type: introduction
-    title: "Introduction: The Unseen Architect"
-    file: "00_introduction/000_the_mystery.md"
-
   - type: part
     title: "Part 1: The Investigation"
     chapters:
+      - title: "The Unseen Architect"
+        file: "10_part/005_the_mystery.md"
       - title: "The First Clue - The Grackle Phenomenon"
         file: "10_part/010_opening_clue_grackles.md"
       - title: "The Clue in the Calendar"
