@@ -1117,7 +1117,7 @@ tr:nth-child(even) {
         console.log('Target chapter index:', index);
         console.log('Current chapter mode:', chapterMode);
         console.log('Total chapters available:', chapters.length);
-        console.log('Current chapter index:', currentChapterIndex);
+        console.log('Current chapter index before:', currentChapterIndex);
 
         if (index < 0 || index >= chapters.length) {
             console.log('ERROR: Invalid chapter index', index);
@@ -1126,6 +1126,9 @@ tr:nth-child(even) {
 
         if (chapterMode) {
             console.log('In chapter mode - calling showChapter');
+            // Force update the current chapter index first
+            currentChapterIndex = index;
+            console.log('Updated currentChapterIndex to:', currentChapterIndex);
             showChapter(index);
         } else {
             console.log('In full book mode - scrolling to chapter');
