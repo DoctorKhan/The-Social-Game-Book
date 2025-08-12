@@ -1274,14 +1274,32 @@ tr:nth-child(even) {
     }
 
     function nextChapter() {
+        console.log('=== nextChapter called ===');
+        console.log('Current chapter index:', currentChapterIndex);
+        console.log('Total chapters:', chapters.length);
+        console.log('Chapter mode:', chapterMode);
+
         if (currentChapterIndex < chapters.length - 1) {
-            showChapter(currentChapterIndex + 1);
+            const nextIndex = currentChapterIndex + 1;
+            console.log('Going to next chapter:', nextIndex);
+            showChapter(nextIndex);
+        } else {
+            console.log('Already at last chapter');
         }
     }
 
     function prevChapter() {
+        console.log('=== prevChapter called ===');
+        console.log('Current chapter index:', currentChapterIndex);
+        console.log('Total chapters:', chapters.length);
+        console.log('Chapter mode:', chapterMode);
+
         if (currentChapterIndex > 0) {
-            showChapter(currentChapterIndex - 1);
+            const prevIndex = currentChapterIndex - 1;
+            console.log('Going to previous chapter:', prevIndex);
+            showChapter(prevIndex);
+        } else {
+            console.log('Already at first chapter');
         }
     }
 
@@ -1317,8 +1335,23 @@ tr:nth-child(even) {
         // Chapter navigation buttons
         const prevBtn = document.getElementById('prev-page');
         const nextBtn = document.getElementById('next-page');
-        if (prevBtn) prevBtn.addEventListener('click', prevChapter);
-        if (nextBtn) nextBtn.addEventListener('click', nextChapter);
+        console.log('Chapter navigation buttons found:');
+        console.log('  prevBtn:', prevBtn);
+        console.log('  nextBtn:', nextBtn);
+
+        if (prevBtn) {
+            prevBtn.addEventListener('click', prevChapter);
+            console.log('  Added click listener to prev button');
+        } else {
+            console.log('  ERROR: prev-page button not found');
+        }
+
+        if (nextBtn) {
+            nextBtn.addEventListener('click', nextChapter);
+            console.log('  Added click listener to next button');
+        } else {
+            console.log('  ERROR: next-page button not found');
+        }
 
         // Keyboard shortcuts
         document.addEventListener('keydown', function(e) {
