@@ -5,6 +5,10 @@ author: "Rez Khan"
 series: "The Orphaned Species"
 
 structure:
+  - type: introduction
+    title: "How to Use This Series: A Reader's Guide"
+    file: "00_introduction/000_introduction.md"
+
   - type: part
     title: "Part 1: The Investigation"
     chapters:
