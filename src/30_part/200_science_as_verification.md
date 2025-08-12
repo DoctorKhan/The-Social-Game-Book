@@ -215,6 +215,7 @@ She showed me her informal log: over the past year, she'd noticed a significant 
 **The Independent Investigation**: Instead of accepting the official data, Maria decided to do her own investigation. She started tracking not just the symptoms, but when they occurred and what might be causing them.
 
 Her method was simple but scientific:
+
 - **Hypothesis**: Air quality in the area was worse than official reports suggested
 - **Data Collection**: Daily logs of respiratory symptoms in students
 - **Environmental Tracking**: Notes about wind direction, weather patterns, and nearby industrial activity
@@ -223,6 +224,7 @@ Her method was simple but scientific:
 **The Results**: Maria's data revealed a clear pattern: respiratory symptoms spiked on days when the wind blew from the direction of a nearby industrial facility, particularly during certain types of weather conditions.
 
 **The Institutional Response**: When Maria presented her findings to the school board and health department, the response was predictable:
+
 - "This is anecdotal evidence, not scientific data"
 - "Official monitoring shows no air quality issues"
 - "Correlation doesn't prove causation"
