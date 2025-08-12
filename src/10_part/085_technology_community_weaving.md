@@ -415,6 +415,7 @@ Their first meeting was awkward. Nine strangers sitting in Sarah's living room, 
 Without realizing it, they began creating their first shared rhythm. They decided to meet every Sunday evening for a "check-in and coordination" session. These weren't formal meetings—they were potluck dinners where people shared what they needed and what they could offer for the coming week.
 
 Within a month, a natural rhythm had emerged:
+
 - Sunday evenings: Group dinner and weekly coordination
 - Wednesday mornings: Coffee and walk for anyone available
 - Friday afternoons: Kids' playgroup (which became adult social time)
@@ -474,6 +475,7 @@ When David was having a particularly difficult week, they would include him in a
 By the end of their second year, the Phoenix Collective had become something none of them had imagined when they started.
 
 **The Practical Transformation**:
+
 - They had collectively saved over $15,000 through resource sharing and mutual aid
 - Three members had started new businesses with support from the group
 - Two families had avoided foreclosure through emergency financial assistance
@@ -481,6 +483,7 @@ By the end of their second year, the Phoenix Collective had become something non
 - Their community garden was feeding twelve families and had a waiting list
 
 **The Personal Transformation**:
+
 - Sarah's daughter's anxiety had dramatically improved through the stable community support
 - Tom had found new purpose and energy that made him look ten years younger
 - Maria had developed leadership skills that led to a promotion at work
@@ -488,6 +491,7 @@ By the end of their second year, the Phoenix Collective had become something non
 - Jennifer had reduced her work hours and started a side business teaching first aid
 
 **The Community Transformation**:
+
 - Their model had been replicated by four other neighborhood groups
 - They had influenced local policy by advocating for community garden space and tool libraries
 - Their festival had become an annual tradition that brought together over 200 neighbors
