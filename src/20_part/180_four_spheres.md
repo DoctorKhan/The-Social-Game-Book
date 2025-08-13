@@ -18,6 +18,7 @@ Let's explore each one.
 This is the innermost circle, representing your individual being—your body, your mind, your conscious awareness, and your unique potential. Its health is determined by **self-regulation** and **internal sovereignty**. This is the foundation upon which all other spheres are built.
 
 **Healthy Self Sphere Characteristics:**
+
 - Emotional regulation and resilience.
 - Clear personal boundaries.
 - A strong connection to one's own values and purpose.
@@ -30,6 +31,7 @@ This is the sphere of your direct, horizontal, high-trust relationships. It incl
 This sphere corresponds to what anthropologists call the "intimate group," typically ranging from 2 to 150 people (Dunbar's Number). It operates on **personal trust**—you know everyone as an individual.
 
 **Healthy Tribe Sphere Characteristics:**
+
 - Mutual support and reciprocal care.
 - Shared resources and skill-sharing.
 - Conflict resolution through relationship rather than formal authority.
@@ -42,6 +44,7 @@ This is the crucial "middle sphere" that has been systematically hollowed out. T
 This sphere operates on **reputational trust**. You may not know everyone personally, but you know their tribe's reputation and their role within the larger alliance. It's the space for larger-scale cooperation that is still grounded in human relationships.
 
 **Healthy Alliance Sphere Characteristics:**
+
 - **Inter-community collaboration:** Joint projects, trade networks, and shared infrastructure.
 - **Resilience through diversity:** Access to a wider range of skills, resources, and perspectives.
 - **A buffer against the System:** A strong Alliance Sphere protects individual tribes from being dominated by large institutions. It provides an alternative source of power and organization.
@@ -52,6 +55,7 @@ This sphere operates on **reputational trust**. You may not know everyone person
 This is the outermost circle, representing large-scale, impersonal, vertical institutions—governments, corporations, mass media, and the global economy. This is the "Engine." It operates on **systemic trust**—you trust the laws, procedures, and credentials, not the individuals.
 
 **System Sphere Functions:**
+
 - Large-scale coordination and infrastructure (e.g., roads, power grids).
 - Resource distribution across vast populations.
 - Legal frameworks and mass organization.
@@ -103,6 +107,7 @@ This is why the hollow middle is so hard to see. We are living inside the archit
 The path forward is not to destroy the System, but to make it irrelevant to our daily lives by consciously rebuilding the Sphere of Alliance. This is the work of creating a parallel society—a network of resilient, sovereign communities that can support each other outside the logic of the institutional control.
 
 This involves:
+
 - **Creating inter-community trade networks.**
 - **Forming mutual aid agreements between different groups.**
 - **Establishing alternative credentialing and reputation systems.**

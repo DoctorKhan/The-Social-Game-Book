@@ -43,6 +43,7 @@ Across every developed nation, fertility rates have plummeted below replacement 
 This isn't an accident. It's a **social stress response**. When animals perceive their environment as unsafe or unsustainable for raising offspring, their reproductive systems shut down. It's an evolutionary survival mechanism.
 
 The modern, atomized, urban environment is triggering this same response in humans.
+
 *   **Social isolation** creates chronic stress.
 *   **Lack of community support** makes child-rearing feel impossibly burdensome.
 *   **Economic precarity** signals that the environment cannot support offspring.

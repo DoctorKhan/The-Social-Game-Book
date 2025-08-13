@@ -1,4 +1,4 @@
-# The Great Forgetting - How They Dismantled Human Wisdom
+# The Great Suppression - How They Dismantled Human Wisdom
 
 ## The First Clue: The Missing Masters
 

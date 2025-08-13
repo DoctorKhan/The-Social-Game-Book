@@ -36,8 +36,8 @@ structure:
   - type: part
     title: "Part 2: The System"
     chapters:
-      - title: "The Great Forgetting - How They Dismantled Human Wisdom"
-        file: "20_part/130_the_great_forgetting.md"
+      - title: "The Great Suppression - How They Dismantled Human Wisdom"
+        file: "20_part/130_the_great_suppression.md"
       - title: "The Ancient Control System - How They Perfected the Art of Division"
         file: "20_part/150_ancient_control_system.md"
       - title: "The Engine vs The Family - The Two Operating Systems"
