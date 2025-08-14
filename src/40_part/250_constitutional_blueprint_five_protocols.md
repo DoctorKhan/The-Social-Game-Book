@@ -2,6 +2,14 @@
 
 We do not design the house. We design the laws of physics that allow for infinite resilient houses.
 
+---
+
+Aha: Protocols are physics, not policies. They shape incentives so the right behaviors emerge without micromanagement.
+
+Try this (2 min): Pick one protocol and apply it to a recurring friction in your group. Ask: “If we change the physics here, what behaviors become easy? Which become hard?” Sketch a micro-rule that nudges the right default.
+
+Guardrail: Protocols aren’t a new Engine. Keep them minimal, testable, and revisable. If a protocol can’t adapt, it’s a policy in disguise.
+
 This chapter presents the constitutional foundation of the Networked Ark—five protocols that any community, hub, or network node must adopt to be part of this larger civilizational alternative. These are not arbitrary rules but the distilled wisdom from studying every successful and failed alternative community in history.
 
 **The Philosophy**: These protocols function like the laws of physics—they create the conditions within which infinite creativity and adaptation can flourish, while preventing the specific failure modes that have destroyed previous movements.

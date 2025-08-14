@@ -33,6 +33,14 @@ As I analyzed these patterns, I created a framework to understand how they opera
 | **Model of Growth** | **Scaling.** Add more identical parts, increase speed and output. | **Maturing.** Deepen relationships, wisdom, and resilience. |
 | **Communication** | **Command & Control.** Information flows down hierarchy. | **Relationship & Story.** Information flows through web of relationships. |
 
+---
+
+Aha: We don’t just “act wrong”—we run one of two social OS defaults. The “Engine” optimizes throughput; the “Family” optimizes belonging. Mixed contexts cause phantom conflict.
+
+Try this (90 sec): In today’s meeting or dinner, name (quietly): “Engine-context” or “Family-context.” Watch how mismatched expectations create friction. Ask: “What is this moment actually optimizing for?”
+
+Guardrail: Family ≠ no standards. Engine ≠ no care. Mismatch causes harm; alignment increases both outcomes and trust.
+
 ## The Forgotten Sophistication: What We Lost
 
 Before we understand the takeover, we must first dispel a lie that has been used to justify it: the myth that ancient "tribal" governance was primitive, chaotic, and inefficient.

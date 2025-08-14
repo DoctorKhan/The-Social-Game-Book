@@ -78,6 +78,10 @@ We are living through the collapse of the old system and the emergence of the ne
 
 **This is not a crisis to be survived—it is an opportunity to be seized**.
 
+---
+
+Cliffhanger to Book 2 (Manual Override): We’ve mapped the social strings. Next: how to override the inner programming—not by escape, but by conscious engagement.
+
 The old system is failing not because it was attacked from the outside, but because it contains internal contradictions that make it unsustainable. Our job is not to destroy it, but to build the alternatives that people can move to as it collapses.
 
 ## The Work Begins Now

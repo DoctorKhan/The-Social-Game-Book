@@ -129,6 +129,12 @@ Use this door when a whirlpool is **too intense** to engage with directly. The g
 
 The Three Doors give you emergency tools for escaping whirlpools in the moment. But how do you build the capacity to stay free, so you're not constantly having to escape? The answer lies in structuring your entire day around managing these mental patterns.
 
+Aha: Hijack = speed + story + status-threat. Slow any one and the vortex loosens.
+
+Micro-practice (2 min): 3-breath deceleration → name the hook ("status," "scarcity," "safety") → one small action that reduces inputs.
+
+Guardrail: Slowing is not stonewalling. If safety is at issue, set a boundary first, then slow.
+
 Through my research and practice, I discovered a systematic way to architect your day for mental clarity and resilience:
 
 #### Zone 1: The Foundation Zone (Morning)

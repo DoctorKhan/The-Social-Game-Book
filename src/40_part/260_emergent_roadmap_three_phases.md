@@ -121,3 +121,15 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 This is the stage where "The Network State" truly emerges as a decentralized, resilient, and life-affirming civilizational alternative. It is not a single entity, but a living, breathing **Ark built from many sovereign lifeboats, all navigating by the same stars**.
 
 The next chapter will transform this roadmap from a plan into an invitation—a direct call to begin the work of building a new world.
+
+---
+
+Aha: Don’t plan the Ark—pilot it. One tiny, verifiable action in your bioregion starts Phase 0 today.
+
+One‑action pilot (this week):
+
+- Identify 2–4 people who could be your Flotilla seed
+- Propose a weekly 45‑min check‑in for 4 weeks
+- Add one mutual‑aid act (a small real favor/help) before the third meeting
+
+Guardrail: Avoid grand launches. Pilot quietly, verify value, then scale. Networks grow by proof, not pitch decks.

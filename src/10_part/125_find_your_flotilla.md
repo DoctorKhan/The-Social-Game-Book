@@ -20,6 +20,10 @@ Do not skip this step. Your Flotilla is your laboratory and your shield.
 
 The resistance begins with connection.
 
+---
+
+Cliffhanger to Part 2: If interference is deliberate, who benefits from the missing middle—and how exactly was it removed?
+
 # Chapter 12: Clue 4: The Sovereignty of the Misfit
 
 For most of human history, belonging was a matter of geography. You belonged to the village you were born in. Your identity was defined by kinship, and your social circle was predetermined. Leaving the group wasn't just discouraged; for most of our history, it was a death sentence.

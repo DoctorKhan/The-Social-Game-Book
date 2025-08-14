@@ -33,3 +33,11 @@ This process, which I call **The Great Disintermediation**, accelerated the holl
 *   **The Reality:** Superficial connections that provide the *illusion* of community without the substance. Online groups lack the mutual aid, accountability, and deep relationships that make the alliances of real communities resilient.
 
 The cruel irony of the Great Disintermediation is that in our rush to eliminate inconvenient social intermediaries, we destroyed the very fabric of the Alliance Sphere, trading the messiness of human relationships for the clean, cold isolation of the digital platform.
+
+---
+
+Aha: Platforms don’t just remove “middlemen”; they remove the human mesh that made trust, context, and apprenticeship possible.
+
+Try this (2 min): Pick one area (dating, work, learning, community). Write one “re-intermediation” step: a human connector you can add back (mentor, guild, matchmaker, librarian, host).
+
+Guardrail: Don’t rebuild gatekeepers as bottlenecks. Re-intermediation is many small, transparent connectors, not one controlling node.

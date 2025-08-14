@@ -91,6 +91,10 @@ This framework must be sophisticated enough to prevent the failure modes that ha
 
 The next chapter will present this framework: **The Five Non-Negotiable Protocols** that form the constitutional foundation of the Networked Ark.
 
+---
+
+Cliffhanger to Part 4: If the third path is real, what constitutional physics keep it from becoming a new Engine—and how do we implement them today?
+
 These protocols are not arbitrary rules—they are the distilled wisdom from studying every successful and failed alternative community in history. They represent the minimum viable constraints needed to build a civilization that serves life rather than extracting from it.
 
 The diagnosis is complete. The strategy is clear. Now we build.

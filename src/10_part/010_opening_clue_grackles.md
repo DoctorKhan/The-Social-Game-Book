@@ -39,3 +39,11 @@ But they were also a warning. Because I was beginning to understand that when a 
 Standing there, watching those perfect formations against the darkening sky, I realized I wasn't just investigating social dysfunction. I was tracing the mechanics of civilizational breakdown itself.
 
 They had handed me the first thread. I had to find the source of the static—before the music stopped entirely.
+
+---
+
+Aha: Coordination emerges when signal clarity > status signaling. Birds show baseline; humans show interference.
+
+Try this (90 sec): During your next group moment (queue, meeting, family chat), silently ask: “What’s the shared signal here?” Then, “What’s adding static?” Notice one thing you can stop doing that reduces the static.
+
+Guardrail: Don’t confuse conformity with coherence. Coherence preserves uniqueness while aligning attention; conformity suppresses uniqueness to avoid discomfort.

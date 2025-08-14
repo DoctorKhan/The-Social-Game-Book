@@ -54,6 +54,10 @@ The chaotic, "rough-and-tumble" play that taught boys impulse control and embodi
 
 They have the hardware for connection but have never been allowed to install the software.
 
+---
+
+Cliffhanger to Part 3: If unresolved charge is the fuel and disintermediation the accelerant, what are the daily mechanics of hijack—and how do we counter them in real time?
+
 ## The Internet's Role: Global Benchmarking and Infinite Choice
 
 The internet created three specific distortions that make healthy relationships nearly impossible:

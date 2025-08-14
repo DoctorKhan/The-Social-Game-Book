@@ -114,3 +114,11 @@ This involves:
 - **Building shared infrastructure that is owned by the alliance, not the System.**
 
 By focusing our energy on building the horizontal connections of the Alliance Sphere, we render the vertical power of the System obsolete. We don't need to fight the old world; we need to build the new one. The solution to the "hollow middle" is to fill it with our own creations.
+
+---
+
+Aha: The “hollow middle” isn’t a natural void; it’s a removed organ. Reinstall the Alliance and the whole organism stabilizes.
+
+Try this (2 min): List three nearby tribes/groups you trust (people, orgs, crews). Write one tiny alliance action (shared tool, standing trade, monthly reciprocity) you could propose to each.
+
+Guardrail: Don’t over-centralize the Alliance. It’s a federation of peers, not a new System. Keep ownership distributed; keep reputations local and transparent.
