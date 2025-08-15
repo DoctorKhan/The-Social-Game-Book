@@ -62,6 +62,17 @@ The system hijacks the male appetite for risk and channels it into these non-pro
 **The Constitutional Solution:**
 This is where **Protocol 2: The Law of Two Feet (Embodied Proof-of-Work)** becomes so critical. Imagine if Alex could channel his intelligence and drive into a community project: designing and building a solar power system for the hub, or organizing a long-distance pilgrimage route. The stakes are real—the community needs power, the journey is physically demanding. The risk is authentic, and the reward—increased community resilience and personal status earned through tangible contribution—is real and lasting. It honors the drive for high-stakes action but grounds it in productive reality.
 
+
+#### **Case Study: The Engineering of the Gambling Trap**
+
+Perhaps no modern phenomenon illustrates the hijacking of the male risk-taking drive more clearly than the explosion of online sports betting. This is not a simple vice; it is a technology of extraction precision-engineered to exploit a known set of vulnerabilities. Richard Reeves identifies this as a "perfect storm" hitting young men, resulting from a combination of factors:
+
+1. **Biological Predisposition:** Young men's frontal cortexes, which are responsible for impulse control, mature later than young women's, making them inherently more susceptible to risk-taking. [Source: Galloway, Haidt, & Reeves Video Transcript]
+2. **Sociological Isolation:** They are more disconnected from the social institutions and community "guardrails" that once would have provided healthier outlets or social checks on such behavior.
+3. **Economic Desperation:** In a struggling economy, many young men are persuaded that they can and must "get rich quick," seeing high-risk speculation as their only path to the resources needed for mating success. [Source: Galloway, Haidt, & Reeves Video Transcript]
+
+The system created by mobile gambling apps is, in Reeves's words, "fully frictionless." [Source: Galloway, Haidt, & Reeves Video Transcript] It removes all the social and logistical barriers that once made gambling a more difficult and visible activity. The result is a private, solitary addiction with the highest rate of suicide of any addiction, as the financial ruin can be hidden from community support systems until it is too late. The System has created a perfect engine to convert the male drive for risk into profit, leaving a trail of bankruptcy and death in its wake.
+
 ### The Grandmother Paradox and the Expendability Trap
 
 As discussed, evolution favored keeping post-reproductive women alive for their wisdom. The flip side is the "Male Expendability Hypothesis."

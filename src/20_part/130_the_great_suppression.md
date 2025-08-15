@@ -61,6 +61,17 @@ The final stage: individuals connected to screens rather than people. Social med
 
 We replaced genuine rites of passage with counterfeit rituals like college graduation or corporate promotion—ceremonies that initiate us not into our own power, but into a larger system of compliance.
 
+#### **The Abandonment of Initiation and the Pathologizing of Pain**
+
+The destruction of these rites has had a particularly devastating impact on boys, a fact highlighted by recent work from social psychologist Jonathan Haidt and sociologist Richard Reeves. Haidt observes that across cultures, initiation rites are almost always "harsher, stricter, tougher for boys because it's a much bigger jump to turn a boy into a man than to turn a girl into a woman." [Source: Galloway, Haidt, & Reeves Video Transcript] Boys, traditionally raised in the world of women, must make a longer, more fraught journey into the world of men, where they must prove their competence and value.
+
+These rites were a technology for guiding that journey. They used hardship and challenge as a catalyst for growth. As Reeves notes, "pain produces growth." [Source: Galloway, Haidt, & Reeves Video Transcript] For women, he argues, this is often biologically integrated through menstruation and childbirth. For men, growth through hardship had to be culturally created.
+
+In his own life, Reeves provides a powerful micro-example of this principle. He describes repeatedly beating his son at tennis, refusing his wife's pleas to "just let him win." His reasoning was a perfect distillation of the logic of initiation: "He will know if I back off. He will know. Uh he will sense it. And it will mean all the more to him when he beats me." [Source: Galloway, Haidt, & Reeves Video Transcript] The victory had to be real to be meaningful.
+
+By dismantling these structures, we have not eliminated the male need for challenge and risk; we have simply left it unguided. We have abandoned our boys, giving them "no guidance on what it is to be a man from adults," as Haidt puts it, and instead plugged them into a "screen and hook you up to influencers that don't have your best interests." [Source: Galloway, Haidt, & Reeves Video Transcript] We have reneged on our most basic responsibility to socialize the next generation, creating a vacuum that the Social Game has been more than happy to fill with its own counterfeit rituals of status-seeking and non-productive conflict.
+
+
 ### The Destruction of Social Rhythm
 
 Traditional communities operated on natural rhythms—seasonal festivals, weekly gatherings, daily rituals that created the pulse of collective life. But as I traced the historical record, I discovered how these life-giving rhythms were systematically replaced by something far more sinister.
@@ -149,7 +160,7 @@ As I studied the cultural narratives that emerged from these conquests, I found 
 Every culture that underwent this transformation developed the same basic story:
 
 - **Thor and Jörmungandr** (Norse)
-- **Indra and Vritra** (Hindu) 
+- **Indra and Vritra** (Hindu)
 - **Zeus and Typhon** (Greek)
 - **Saint George and the Dragon** (Christian)
 - **Apollo and Python** (Greek)
@@ -234,7 +245,7 @@ I was beginning to understand that I wasn't just looking at human corruption. I 
 I realized I was looking at a coordinated attack on human social intelligence that operated across multiple generations:
 
 1. **Identify** the pillar that creates community resilience or alternative knowledge system
-2. **Weaken** it through crisis, regulation, or cultural pressure  
+2. **Weaken** it through crisis, regulation, or cultural pressure
 3. **Replace** it with an institutional substitute that creates dependency
 4. **Normalize** the substitute until people forget the original existed
 5. **Repeat** with the next pillar or tradition

@@ -4,6 +4,9 @@ The breakdown in relations between men and women—evidenced by plummeting marri
 
 This is not a bug in the system; it is a core feature of the **Social Game's** control strategy.
 
+
+This schism has become so pronounced that it now surfaces in viral social media debates that reveal the depth of the distrust. A recent meme asked women whether they would rather encounter a man or a bear in the woods. As media personality Scott Galloway noted, "most women said they'd prefer to run into a bear." [Source: Galloway, Haidt, & Reeves Video Transcript] This is not a reflection of statistical reality—a man on a date is 16 times more likely to harm himself than to harm his date—but a reflection of a narrative actively promoted by algorithmic systems. As Galloway observes, "the algorithms love really positioning men unfairly." [Source: Galloway, Haidt, & Reeves Video Transcript] This perception is a symptom of a deeper, architected division that we must now dissect.
+
 To understand this schism, we must analyze it not as a single issue, but as a **four-front war** waged by the **Sphere of the System** against the natural, complementary relationship between the sexes.
 
 ## The Global Pattern: A Mystery Demanding Investigation
@@ -99,7 +102,7 @@ The elite's ultimate goal is to prevent a unified populace from questioning the 
 The collapse in fertility rates serves multiple control functions:
 
 - **Desperate parents** become dependent on medical and technological interventions
-- **Childless adults** have more time and energy available for productivity  
+- **Childless adults** have more time and energy available for productivity
 - **Smaller families** are easier to control and less resilient against systemic pressure
 - **Population decline** creates economic crisis that justifies even more systemic control
 
