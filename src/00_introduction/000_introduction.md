@@ -1,8 +1,10 @@
 ## How to Use This Series: A Reader's Guide
 
-This is not a call to return to the past. It is a blueprint to architect a future that is both technologically advanced and deeply human. We will synthesize ancient wisdom with modern systems design to rebuild the "hollow middle" and make coherence our default again.
+This book is a bridge, built in four parts. It connects the 'dry code' of systems analysis with the 'wet code' of human consciousness. To navigate this journey, you will need both your analytical mind and your open heart.
 
-- Book 1: The Social Game — Gather the evidence and codify the blueprint
-- Book 2: Manual Override — Learn the inner tools that make the blueprint livable
-- Book 3: The Human Experiment — Follow the trail of myth and science to a shared cosmology
-- Book 4: The Cosmic Game — The final revelation that contextualizes the project
+- Part I: The Awakening — the clues that reveal the invisible architecture shaping our lives
+- Part II: The Rules of the Game — a systematic diagnosis of the control systems behind our modern crises
+- Part III: Manual Override — the internal tools and community practices to reclaim your sovereignty
+- Part IV: The New Game — the actionable blueprint for building a viable, life‑affirming civilization
+
+This is not a call to return to the past. It is a blueprint to architect a future that is both technologically advanced and deeply human.

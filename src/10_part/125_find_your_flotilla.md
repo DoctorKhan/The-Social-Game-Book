@@ -1,5 +1,7 @@
 # Your Mission: Assemble Your Flotilla
 
+> The clues are now on the table. You have seen the evidence that our disconnection is not an accident. This investigation has likely raised more questions than answers and may leave you feeling unsettled. This is a natural and necessary stage. But to proceed from diagnosis to action—to understand the full depth of the system you are in—is not a journey to be taken alone. The system's greatest defense is your isolation. Your first act of resistance, therefore, is to break it.
+
 The systems we are about to investigate are designed to isolate, confuse, and overwhelm the individual mind. To proceed safely, you must not proceed alone.
 
 This is your first and most critical assignment.
