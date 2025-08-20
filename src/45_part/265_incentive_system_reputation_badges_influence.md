@@ -1,5 +1,17 @@
 # The Incentive System: Reputation → Badges → Influence
 
+Cold Open — Badge Night
+“Tell us what you saw,” Tino says. “Not numbers. A moment.”
+A hand lifts. “Maria stayed late three Tuesdays, sanding splinters out of the benches. No one asked her to. The kids stopped getting cut.” We clap.
+
+Artifact: Attestation Block (example)
+
+- Contributor: Maria
+- Work: Sanded seating benches (3 nights)
+- Outcome: safer seating; kids used the space
+- Vouchers: Tino (steward), Noor (parent), Eli (mentor)
+
+
 > Figure: Contribution → Recognition → Influence (three-tier funnel)
 > ![Incentive System Tiers](../../assets/fig_incentive_system_tiers.svg)
 

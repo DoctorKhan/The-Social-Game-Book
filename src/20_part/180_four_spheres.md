@@ -1,5 +1,14 @@
 # The Four Spheres of Belonging
 
+Cold Open — The Porch
+Mrs. Alvarez waves from her porch. “You never sit anymore,” she says. I glance at the HOA notice tucked under my wiper: Lawn Noncompliance, $75. I wave back, climb into my car, and drive to the gym to walk on a moving belt.
+
+Artifact: Two Slips
+
+- HOA Warning: “Edges must be uniform; outdoor seating discouraged in common view.”
+- Potluck Flyer: “Wednesday 7pm, bring beans or bread. Kids welcome.”
+
+
 My investigation into the "Great Suppression" revealed a consistent historical pattern: the systematic dismantling of the social structures that once made us resilient. To understand how this was accomplished, and how we can reverse it, we need a map of our social world.
 
 I call this map the **Four Spheres of Belonging**. It provides a framework for diagnosing the health of our social ecosystem and reveals the precise nature of the "hollow middle" that leaves us feeling so isolated and vulnerable.

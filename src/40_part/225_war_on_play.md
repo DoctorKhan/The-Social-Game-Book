@@ -1,5 +1,24 @@
 ### Chapter 10: The War on Play - Reclaiming Our Sovereign Nature
 
+Cold Open — Late Train
+The carriage lurches and laughter spills too loud. I put a finger to my lips without thinking. She shrinks into her coat.
+“Sorry,” she says to nobody.
+The window gives us back two silhouettes practicing obedience to an invisible rule. I feel the old script tighten around my chest: be appropriate, be efficient, be small.
+We ride in silence until the tunnel breathes us out into lights.
+
+Artifact: Break The Script (agenda excerpt)
+
+- 00:00 Arrival — phones in a bowl
+- 00:05 Breath + shake — 90 seconds
+- 00:07 Two-minute play prompt (nonsense words, eye contact)
+- 00:15 Story circle: “When did you stop playing?”
+
+Micro‑Dialogue: Choosing Play
+“Five more minutes,” I say, checking my phone.
+“Or we could do the prompt,” she smiles. We roll two nonsense words. We laugh until the tunnel opens.
+
+
+
 As we assemble the clues from our investigation, the nature of the crime becomes chillingly clear. The manufactured divisions, the false hierarchies, the endless cycles of outrage—these are not separate tactics. They are fronts in a single, ancient war: **a war against human play.**
 
 Our species was designed to be neotenous—to retain the characteristics of youth throughout our lives. I discovered this in the most unexpected way: my girlfriend handed me a human skull from her anthropology lab, then casually placed a baby chimpanzee skull beside it.

@@ -1,5 +1,16 @@
 # The Litmus Tests: Laughter, Children, Crisis, Exit
 
+Cold Open — After the Storm
+“Who called you?” I asked.
+“Nobody,” she said, wringing rain from her sleeves. “We have a list.” A neighbor passed a thermos and a towel down the line.
+
+Artifact: Exit Ritual (scriptlet)
+
+- “Thank you for your season here. What do you want blessed as you go?”
+- “What handover do you want to leave?”
+- “What thread do you want to keep?”
+
+
 How we’ll know it’s working:
 
 - The Laughter Test: joy and humor are normal; play resurfaces

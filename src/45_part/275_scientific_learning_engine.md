@@ -1,5 +1,18 @@
 # The Scientific Learning Engine
 
+Cold Open — Experiment Standup
+“Safety hit two out of ten last night,” Ana says. “We end the experiment if it drops again.”
+“No heroics,” Mo replies. “We learn or we stop.” The whiteboard squeaks: PROBLEM, HYPOTHESIS, WINDOW.
+
+Artifact: Experiment Card (template)
+
+- Problem: what pattern hurts? (1–2 lines)
+- Hypothesis: if we do X, Y will improve by Z% in N weeks
+- Metrics: primary, secondary; Guardrails: stop conditions
+- Window: start → end dates; Sample: who/where
+- Decision: keep / refine / retire; Evidence: 3 bullets; Links: artifacts
+
+
 The Ark only works if it learns. This chapter turns our culture of “try things and talk about them” into a repeatable learning engine that any Hub can run.
 
 ## Principles
@@ -39,6 +52,13 @@ The Ark only works if it learns. This chapter turns our culture of “try things
 7) Pattern Library governance
 
 - Quarterly: Patterns are tagged Keep / Refine / Retire, with stewards assigned
+
+### Pattern Library (examples)
+
+- Welcome Wagon — increases 30‑day returns by pairing newcomers with a named host; use when first‑visit drop‑off >50%
+- Repair First — require a repair ask before ejection talk; use when conflict tickets rise or trust dips
+- Badge Night Stories — issue badges only after a witnessed contribution story; use when metrics start driving behavior
+
 
 ## Instrumentation: The Health Compass tie‑in
 We use a small set of consistent signals across Self → Flotilla → Hub → Federation. Examples:

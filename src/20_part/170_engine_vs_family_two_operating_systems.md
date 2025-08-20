@@ -1,5 +1,16 @@
 # The Engine vs The Family - The Two Operating Systems
 
+Cold Open — Two Meetings, Same Tuesday
+“Numbers are down. If you can’t hit velocity, we’ll replace you,” the manager says. The room goes still.
+Three hours later, in a church basement: “How do we carry Maya through chemo?” someone asks. We make a list. We pass a hat. Nobody is efficient. Everybody is held.
+
+Artifact: Handoff Excerpt
+
+- Role: Garden Steward (3 months)
+- Handover: tool inventory, irrigation map, budget sheet
+- Blessing: “May your hands remember rain.”
+
+
 As I dug deeper into the ancient patterns of social control, I discovered something that made me stop and examine my own life with horrifying clarity. I had been looking for the manipulation in historical systems, but suddenly I could see it everywhere—in my workplace, my relationships, even in how I thought about myself.
 
 The ideological programming I had uncovered wasn't just creating stories. It was creating two completely different ways of organizing human life. And we're all caught between them.

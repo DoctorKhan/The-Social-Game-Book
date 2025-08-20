@@ -66,7 +66,7 @@ This discovery revealed that **community-calibrated consent** must be the founda
 
 **Why This Matters**: This protocol solves the "Hypocrisy of the Footprint" by design. It prevents the network from becoming another global elite movement that talks about sustainability while flying around the world for conferences.
 
-**Implementation**: 
+**Implementation**:
 
 - A member's "home" in the network is their geographic bioregion
 - While they are part of a global network of ideas, their practical energy is focused locally
@@ -153,12 +153,19 @@ This discovery revealed that **community-calibrated consent** must be the founda
 These five protocols work together to create a constitutional framework that prevents the specific failure modes that have destroyed previous alternative movements:
 
 - **Protocol 1** prevents rootless globalism and carbon hypocrisy
-- **Protocol 2** prevents elitism and spectacle culture  
+- **Protocol 2** prevents elitism and spectacle culture
 - **Protocol 3** prevents economic dependence and speculation bubbles
 - **Protocol 4** prevents both chaos and algorithmic tyranny
 - **Protocol 5** prevents the formation of new hierarchies and exclusive knowledge
 
 Any community that adopts these five constraints can be considered a "node" in the emerging network. The protocols are sufficient to ensure compatibility and mutual aid between nodes, while allowing infinite creativity in their specific implementation.
+
+
+## Micro‑Dialogue: Protocol under Pressure
+“Kick him out,” someone said. “He missed two workdays.”
+“We repair first,” the steward replied. “Tell me the harm; tell me the ask.”
+Silence, then: “I need him to show up next Saturday, and to apologize to the crew.”
+“Write it down,” she said. “We’ll witness it.”
 
 ## Field Note
 The first time I asked a friend to “vouch” for my contribution, it felt awkward—like bragging. Then I watched how it changed the room: suddenly the invisible work became visible, and other people started telling their own contribution stories. That’s when the abstract “reputation system” became human to me.

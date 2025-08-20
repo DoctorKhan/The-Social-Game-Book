@@ -1,5 +1,16 @@
 # The Emergent Roadmap: A Three-Phase Guide to Building the Ark
 
+Cold Open — First Keys
+We turned the lock on a battered door. Paint dust fell like confetti. “This is ours?” someone whispered. We laughed like kids. Then we swept.
+
+Artifact: Milestone Checklist (one page)
+
+- Phase 0 complete: 3–5 confirmed (vouched) members
+- Charter drafted and read aloud; conflict repair practiced once
+- First shared asset identified (in-kind or rental) with a single owner of record
+- First Festival scheduled; roles assigned; handover docs started
+
+
 The Five Protocols provide the constitutional framework. But how do we actually build this network? How do we move from diagnosis to construction?
 
 This chapter provides the practical, step-by-step sequence for implementation. It answers the reader's question: "What do I do *right now*?"
@@ -18,7 +29,7 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 
 2. **Form Your Flotilla**: Find 2-5 people who have also done the internal work and are committed to building something different. This is not a book club or discussion group—it's a mutual aid network and accountability system.
 
-3. **Practice the Flotilla Protocols**: 
+3. **Practice the Flotilla Protocols**:
    - **Weekly Check-ins**: Regular, structured conversations about each member's internal state and external challenges
    - **Mutual Aid**: Practical support during crises or major life transitions
    - **Skill Sharing**: Teaching each other practical capabilities (cooking, repair, conflict resolution, etc.)
@@ -37,7 +48,7 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 
 **Why This Phase Matters**: This is where the network moves from discussion to construction. Multiple Flotillas collaborate to create something larger than any individual group could achieve.
 
-**The Prerequisites**: 
+**The Prerequisites**:
 
 - At least 3-5 established Flotillas within the same bioregion
 - Demonstrated track record of successful mutual aid

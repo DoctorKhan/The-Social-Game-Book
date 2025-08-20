@@ -1,5 +1,24 @@
 # Phase 0 Filter: The Flotilla Confirmation Protocol (90 Days)
 
+Cold Open — Confirmation Night
+“Say it to me, not the room,” Noor says.
+“I’ve seen you under stress. I trust your commitment. I confirm you.” My voice shakes. Hers doesn’t. We both exhale.
+
+Artifact: Confirmation Agenda (45 min)
+
+- 00:00 Arrival + breath
+- 00:05 Re-read charter (round-robin)
+- 00:15 Repair stories (2)
+- 00:25 Vouching statements (all pairs)
+
+Micro‑Dialogue: When a Vouch Fails
+“I can’t vouch for Tom,” Eli says, eyes on the floor.
+No gasps. The steward nods. “Thank you. Tom, you’re welcome to continue for another 90 days or reform a new group. We’ll document the repair ask.”
+Tom exhales. “I want to try again.”
+
+- 00:40 Blessing + next meeting date
+
+
 Stage 1: Solo Work (self‑selection)
 
 - Read this book; complete Three Doors, Strings, Three Spheres Audit

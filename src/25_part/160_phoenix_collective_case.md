@@ -1,5 +1,18 @@
 # Case Study: The Phoenix Collective
 
+Cold Open — The Moment It Turned
+We were stuck. The garden fence was half‑built, tempers rising. Mara put down her hammer. “I was wrong,” she said. “I argued to rush this. I didn’t listen.”
+We stood in the quiet that followed. Then Luca handed her a post level. “Hold this,” he said, smiling. We rebuilt that side together.
+
+Artifact: Contribution Wall (5 items)
+
+- Repaired gate latch (Jamal) — kids stopped pushing through
+- Compost workshop (Mara) — 12 attended; new pile started
+- Tool audit (Luca) — 8 missing, 6 recovered, handoff doc created
+- Childcare swap (Noor/Eli) — 2 families covered during workday
+- Conflict repair circle — 30 minutes; apology, restitution, closure
+
+
 A small group built a functional “Family‑default” hub inside an Engine world. This is not a fantasy; it already works. The question is scale.
 
 ## Context
