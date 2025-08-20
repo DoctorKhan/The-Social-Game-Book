@@ -24,6 +24,9 @@ These are the two protocols that have been at war for the soul of humanity.
 
 As I analyzed these patterns, I created a framework to understand how they operate:
 
+> Figure: Engine vs Family Protocol (side-by-side table)
+> ![Engine vs Family](../../assets/fig_engine_vs_family_table.svg)
+
 | Attribute | The Engine Protocol | The Family Protocol |
 | :--- | :--- | :--- |
 | **Core Unit** | **The Part.** An interchangeable component. | **The Member.** A unique, irreplaceable being. |

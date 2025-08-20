@@ -1,5 +1,8 @@
 # The Cascade of Unresolved Charge
 
+> Figure: Cascade of Unresolved Charge (flowchart across spheres)
+> ![Cascade of Charge](../../assets/fig_cascade_of_charge.svg)
+
 The Four Spheres of Belonging are not static; they are a dynamic system through which energy flows. The most important flow to understand is the one that drives conflict, dysfunction, and collapse. I call it the **Cascade of Unresolved Charge**.
 
 **The Principle**: Unresolved energetic charge (stress, trauma, unconscious programming) within an inner sphere will always seek expression and resolution in the next sphere outward. The system cannot contain it.

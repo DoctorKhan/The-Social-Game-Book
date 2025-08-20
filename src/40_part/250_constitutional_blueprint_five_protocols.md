@@ -160,4 +160,7 @@ These five protocols work together to create a constitutional framework that pre
 
 Any community that adopts these five constraints can be considered a "node" in the emerging network. The protocols are sufficient to ensure compatibility and mutual aid between nodes, while allowing infinite creativity in their specific implementation.
 
+## Field Note
+The first time I asked a friend to “vouch” for my contribution, it felt awkward—like bragging. Then I watched how it changed the room: suddenly the invisible work became visible, and other people started telling their own contribution stories. That’s when the abstract “reputation system” became human to me.
+
 The next chapter will show how these protocols can be implemented through a practical, three-phase roadmap that anyone can begin today.

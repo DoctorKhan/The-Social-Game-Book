@@ -190,4 +190,7 @@ The war on play can only be won by playing. Not by fighting the system's serious
 
 **The Great Reversal was the crime. Conscious play is the solution.**
 
+## Field Note
+I caught myself shushing a friend’s laughter on a late train—worried about “being appropriate.” It hit me how deep the programming runs: even joy gets optimized. That’s when I started scheduling ritual play back into my week.
+
 **The diagnosis is complete. The game begins.**

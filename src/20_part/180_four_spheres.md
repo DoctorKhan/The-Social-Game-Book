@@ -4,6 +4,9 @@ My investigation into the "Great Suppression" revealed a consistent historical p
 
 I call this map the **Four Spheres of Belonging**. It provides a framework for diagnosing the health of our social ecosystem and reveals the precise nature of the "hollow middle" that leaves us feeling so isolated and vulnerable.
 
+> Figure: Four Spheres of Belonging (Self → Tribe → Alliance → System)
+> ![Four Spheres](../../assets/fig_four_spheres.svg)
+
 The four spheres are:
 
 1.  **The Sphere of Self:** The individual.

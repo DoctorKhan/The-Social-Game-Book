@@ -1,5 +1,5 @@
 title: "The Social Game"
-subtitle: "How collective systems program individual consciousness"
+subtitle: "How collective systems program us – and how to architect a new one"
 book_number: 1
 author: "Rez Khan"
 series: "The Orphaned Species"
@@ -54,7 +54,15 @@ structure:
         file: "20_part/190_gender_schism.md"
 
   - type: part
-    title: "Part 3: The War"
+    title: "Part 3: Proof of Concept"
+    chapters:
+      - title: "Case Study: The Phoenix Collective"
+        file: "25_part/160_phoenix_collective_case.md"
+      - title: "Mini Case: A Small-Scale Win"
+        file: "25_part/165_mini_case_vignette.md"
+
+  - type: part
+    title: "Part 4: The War"
     chapters:
       - title: "Science As Verification"
         file: "30_part/200_science_as_verification.md"
@@ -68,7 +76,7 @@ structure:
         file: "40_part/240_strategists_dilemma.md"
 
   - type: part
-    title: "Part 4: The Blueprint"
+    title: "Part 5: The Blueprint"
     chapters:
       - title: "The Constitutional Blueprint: The Five Non-Negotiable Protocols"
         file: "40_part/250_constitutional_blueprint_five_protocols.md"
@@ -78,12 +86,28 @@ structure:
         file: "40_part/257_the_two_player_game.md"
       - title: "The Emergent Roadmap: A Three-Phase Guide to Building the Ark"
         file: "40_part/260_emergent_roadmap_three_phases.md"
+
+  - type: part
+    title: "Part 6: The Networked Ark"
+    chapters:
+      - title: "The Incentive System: Reputation → Badges → Influence"
+        file: "45_part/265_incentive_system_reputation_badges_influence.md"
+      - title: "The Network Health Compass: The Nervous System of the Ark"
+        file: "45_part/270_network_health_compass.md"
+      - title: "The Scientific Learning Engine"
+        file: "45_part/275_scientific_learning_engine.md"
+      - title: "Phase 0 Filter: The Flotilla Confirmation Protocol"
+        file: "45_part/280_phase_zero_filter_flotilla_confirmation.md"
+      - title: "The Litmus Tests: Laughter, Children, Crisis, Exit"
+        file: "45_part/285_litmus_tests.md"
       - title: "Conclusion: An Invitation to Become a World-Builder & The Crossroads of Strategy"
         file: "40_part/270_invitation_world_builder.md"
 
   - type: appendix
     title: "Appendix: Practical Exercises and Field Manuals"
     chapters:
+      - title: "Flotilla Quick‑Start Guide (One‑Pager)"
+        file: "90_appendix/305_flotilla_quick_start.md"
       - title: "Exercises Overview"
         file: "90_appendix/300_exercises_overview.md"
       - title: "Exercise B.1: Flotilla Formation Guide"

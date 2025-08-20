@@ -18,6 +18,10 @@ Yet, all around me, I saw the opposite. I saw a world of manufactured outrage, o
 
 The grackles proved it wasn't supposed to be this way. They were the baseline.
 
+
+> Framing the Investigation
+> From this point on, the question guiding me was blunt: Is our fragmentation a deliberate design or an emergent collapse? The rest of this book is the case file.
+
 ## The Trail of Evidence
 
 That single observation launched an investigation into the forgotten corners of the human world. I began hunting for other "glitches" in the modern story of division—pockets of humanity where connection still seemed to flow as effortlessly as those birds. My search for clues took me from remote villages to ephemeral cities, looking for evidence of what we had lost.
