@@ -1,4 +1,4 @@
-# The Great Suppression - How They Dismantled Human Wisdom
+# The Age of Atomization - How They Dismantled Human Wisdom
 
 ## The First Clue: The Missing Masters
 
@@ -316,7 +316,7 @@ This isn't just about individual choices. It's about whether our species will re
 
 The infrastructure for human wisdom and natural community was never destroyed—just abandoned. Which means the path back to our original potential is still available.
 
-**The Great Suppression can end whenever we choose to stop participating in it.**
+**The Age of Atomization can end whenever we choose to stop participating in it.**
 
 The dragon was never the enemy. The dragon was the keeper of the knowledge we need to be free.
 
