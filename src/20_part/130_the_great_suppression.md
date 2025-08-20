@@ -38,28 +38,38 @@ In False Hierarchy:
 - Competition replaces collaboration
 - Fear motivates rather than inspiration
 
+
+**Why Do Established Systems Persist?**
+
+Once a system is established, it accumulates stakes—reputations, resources, and social capital—that make change risky for those involved. People invest years, sometimes lifetimes, building their place within the system. The rewards, recognition, and security they receive become tied to the system’s continued existence. This creates inertia: even when a new, better way appears, the cost of abandoning the old system is high, and the risk of losing accumulated status or resources discourages experimentation.
+
+New systems, by contrast, start with little or no stake. They lack the infrastructure, trust, and rewards that make participation attractive. Early adopters face uncertainty and potential loss, while established players can rely on the safety of what already works. The result is a bias toward maintaining the status quo, even when it no longer serves the original purpose. The more a system rewards loyalty and punishes deviation, the harder it becomes for alternatives to gain traction. This is why, in False Hierarchy, the focus shifts from genuine skill and innovation to protecting one’s position and the system itself.
+
+In other cases, previous knowledge is lost not just through inertia, but through deliberate propaganda. Cultural icons like Norman Rockwell’s paintings helped glorify the nuclear family as an ideal, even though this model was never truly traditional. These images rewrote collective memory, making people nostalgic for a version of family life that was itself a recent invention—erasing the diversity and resilience of extended kinship networks that had sustained communities for centuries.
+
 ### The Destruction of Rites of Passage
 
 To understand the systematic destruction of initiation, I traced the story of a single lineage from the 12th-century Scottish MacLeod clan to the present day:
 
+
 **Stage 1: Extended Family Networks (12th-15th Century)**
-The MacLeod clan provided comprehensive economic, social, and spiritual support. Boys became men through clan initiation—hunting expeditions, warrior training, and ceremonial recognition by elders.
+In this era, the clan or extended family was the foundation of social life. Economic, social, and spiritual support came from a web of kinship ties. Initiation into adulthood was a communal process, involving hunting expeditions, warrior training, and ceremonial recognition by elders. These rites created a sense of belonging and resilience, with wisdom and resources circulating freely among family members.
 
 **Stage 2: The Catholic Church's Intervention (15th-17th Century)**
-The Church strategically weakened kinship bonds by outlawing cousin marriages and promoting celibacy among clergy. Religious rites replaced clan initiation, but these were institutional ceremonies rather than community-witnessed transformations.
+The Church intervened to reshape family structures, outlawing cousin marriages and promoting celibacy among clergy. This weakened kinship bonds and replaced clan-based initiation with institutional religious rites. The new ceremonies were less about personal transformation and more about conformity to church authority, shifting the locus of meaning from the community to the institution.
 
 **Stage 3: The Corporation as Surrogate Family (18th-20th Century)**
-Industrialization demanded geographic mobility and absolute loyalty to employers. The corporation became the new "clan," but it offered paychecks rather than belonging.
+Industrialization uprooted people from their ancestral homes, demanding geographic mobility and absolute loyalty to employers. The corporation became the new "clan," offering paychecks instead of belonging. During this period, propaganda began to reshape collective memory. Norman Rockwell’s paintings, for example, glorified the nuclear family as the American ideal, erasing the reality of extended kinship networks and communal support that had been traditional for centuries. These images didn’t just reflect social change—they actively promoted atomization, making people nostalgic for a family structure that was itself a recent invention. The myth of the nuclear family became a tool for furthering social fragmentation and cementing the corporation’s role as surrogate family.
 
 **Stage 4: The Isolated Nuclear Family (20th Century)**
-The nuclear family was promoted as the ideal, but this unit was too small to provide genuine resilience or meaningful rites of passage.
+The nuclear family was promoted as the ideal, but this unit was too small to provide genuine resilience or meaningful rites of passage. Without the support of extended kin, families became isolated and vulnerable. The rituals that once marked transitions in life became shallow or disappeared, leaving individuals without a clear path to adulthood or community belonging.
 
 **Stage 5: The Atomized Digital Individual (21st Century)**
-The final stage: individuals connected to screens rather than people. Social media provides the illusion of community witnessing, but "likes" and "shares" cannot replace embodied presence.
+In the final stage, individuals are connected to screens rather than people. Social media provides the illusion of community witnessing, but "likes" and "shares" cannot replace embodied presence. The atomized digital individual is more isolated than ever, with traditional support systems replaced by algorithmic feeds and virtual interactions. The result is a profound loss of resilience, wisdom, and genuine connection.
 
 **The Result: Counterfeit Rituals**
 
-We replaced genuine rites of passage with counterfeit rituals like college graduation or corporate promotion—ceremonies that initiate us not into our own power, but into a larger system of compliance.
+We replaced genuine rites of passage with counterfeit rituals like college graduation or job promotion—ceremonies that initiate us not into our own power, but into a larger system of compliance.
 
 #### **The Abandonment of Initiation and the Pathologizing of Pain**
 
