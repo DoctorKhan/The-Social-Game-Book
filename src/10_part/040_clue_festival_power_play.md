@@ -1,10 +1,11 @@
-# The Laboratory in the Desert
 
-The grackles were a clue. Bali was a proof of concept. But could modern, inauthentic, and disorganized Westerners still access this innate social intelligence? I needed a control group for modern society, a place where the usual rules were temporarily suspended.
+# Clue 3: The Laboratory in the Desert
 
-I found it in the most unlikely of places: a temporary city of 70,000 strangers in the Nevada desert.
+The very colorful house I was living in the Bay Area of California turned out to be a community of burners—people who went to Burning Man each year.
 
-I didn't go for the party. I went because I realized the festival was a massive, unintentional social experiment. For one week, it systematically inverted the core principles of the default world, creating a unique set of experimental conditions.
+I hadn’t planned to seek out a festival, or even a social experiment. But after moving in with a community of burners, I found myself swept up in their annual migration to the desert. I was curious and suddenly I was joining a pilgrimage to a temporary city of 70,000 strangers in the Nevada desert.
+
+Clue, proof, experiment. Perhaps this was the proof I needed.
 
 ## The Experimental Conditions
 

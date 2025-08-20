@@ -1,12 +1,13 @@
-# The Clue in the Calendar
 
-The grackles had shown me that effortless coordination was possible. But I needed to see it in a human culture. That search led me to Bali.
+# Clue 2: The Calendar in Bali
 
-I arrived expecting a tropical paradise, and in a way, it was. But it was a paradise of a different kind. The air, thick with the scent of incense and the sound of distant gamelan music, felt alive. The streets were a vibrant, chaotic ballet of scooters, stray dogs, and processions of women in brightly colored sarongs, carrying towering offerings of fruit and flowers on their heads. It was beautiful, but it was also bewildering. My mind, trained to see patterns of efficiency and productivity, couldn't find a foothold.
+It was a coincidence that I went to Bali. I had been hired to write some software for a startup, and the founder happened to be there.
 
-I was immediately confronted by a society that seemed to run on an entirely different operating system. My Western mind saw only inefficiency. Entire villages would shut down for weeks to prepare for a temple festival. The workday was constantly interrupted by offerings, ceremonies, and community obligations. Everything moved at the pace of ritual, not productivity.
+Incense in the air. Gamelan in the distance—a shimmering, layered music played on bronze percussion instruments, unique to Indonesia. Scooters and sarongs and towers of fruit moving like a street‑ballet. Beautiful—and bewildering. My efficiency‑trained mind couldn’t find a foothold.
 
-I couldn't understand how anything got done.
+A different operating system was running. Villages paused work for festivals. Days were interrupted by offerings and ceremony. Life moved at the pace of ritual, not productivity.
+
+How did anything get done?
 
 ## The Moment Everything Clicked
 

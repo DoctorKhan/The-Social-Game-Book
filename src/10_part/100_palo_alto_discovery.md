@@ -1,10 +1,11 @@
-# The Clue in the Crying Teenager
 
-My investigation had revealed the principles of healthy community. But to understand the sickness, I had to go to its epicenter. I had to go to Palo Alto.
+# Clue 5: The Crying Teenager
 
-I was in a café when I heard her. A teenage girl, impeccably dressed, crying into her phone. "I can't do this anymore," she sobbed. "We have everything, and we're all so miserable."
+After my travels, I eventually returned to live in a house near Palo Alto.
 
-Her words cut through the noise of the café. This wasn't just teenage angst. This was a distress signal from the heart of the machine.
+I was sitting in a cafe when a friend of mine leaned in, her voice low. She told me about a teenage girl she’d just seen, sitting at a table with her friends, but completely withdrawn. "She looked totally lost. She couldn't stop crying, and kept saying she felt alone and overwhelmed, like nothing made sense anymore. I don't think she even knew how to explain it—just that everything was supposed to be perfect, but it all felt wrong."
+
+This wasn’t just teenage angst. It was a distress signal from the heart of the machine.
 
 Later that week, a father at a park gave me the key. His daughter was on the swings, not playing, but staring at her phone with the intensity of a day trader watching the market crash. "The kids here are the most depressed I've ever seen," he said. "It's like they're playing a game where the stakes feel like life and death, but the game itself is meaningless."
 

@@ -1,12 +1,12 @@
-# The First Clue - The Grackle Phenomenon
+# Clue 1: The Grackle Phenomenon
 
-The first clue was not found in an ancient text or a forgotten ruin. It was in the sky over Austin, Texas.
+Not in a ruin. Not in a lab. In the sky over Austin.
 
-Every evening, thousands of grackles pour from the downtown trees, a living river in the air. They merge and split in perfect formations, individual birds switching allegiances with a fluid grace that would make a choreographer weep. No leaders, no meetings, no conflict. Just a seamless, intelligent whole.
+Every evening, thousands of grackles pour from downtown trees—a living river in the air. They merge and split, switch allegiance mid‑flight, and never collide. No leaders. No meetings. No drama. Just coherence.
 
-And then there was us. Down below, on the grid of streets, the humans. Armed with brains that could design rockets and write symphonies, we struggled to agree on basic facts, let alone solve the problems that threatened our future. We were the most intelligent species on Earth, and we were coming apart at the seams.
+Down below: us. The species that builds rockets and writes symphonies—arguing about basic facts.
 
-This paradox became the starting point for my investigation.
+That paradox started the investigation.
 
 ## The Question That Changed Everything
 
