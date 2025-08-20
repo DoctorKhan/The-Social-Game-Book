@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-*Compiled August 20, 2025 at 2:50 PM*
+*Compiled August 20, 2025 at 3:54 PM*
 
 ---
 
@@ -824,7 +824,7 @@ As I concluded this phase of my research, I had identified several crucial insig
 *The ancient playbook was powerful, but it had a weakness: it only worked when people couldn't see it clearly. The next task was to map out exactly how this playbook was being deployed in the modern world to dismantle the very pillars of community I had uncovered.*
 
 
-## Chapter 13: The Great Suppression
+## Chapter 13: The Age of Atomization
 
 ### The First Clue: The Missing Masters
 
