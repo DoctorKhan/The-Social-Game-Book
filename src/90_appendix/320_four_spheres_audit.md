@@ -1,22 +1,23 @@
-# Exercise B.2: Three Spheres Audit
+# Exercise B.2: Four Spheres Audit
 
-**Referenced in**: Chapter 5 - "Clue from the Workshop: A Tale of Two Hierarchies"  
-**Objective**: To map your personal support systems and dependencies, revealing the current health of your three spheres and identifying where the Hollow Middle has affected your life.
+**Referenced in**: Part II — The Four Spheres of Belonging  
+**Objective**: Map your personal support systems and dependencies to reveal the health of your four spheres and where the Hollow Middle has affected your life.
 
 This exercise will show you exactly where you are vulnerable to manipulation and where you have genuine resilience. It's a diagnostic tool for understanding your current position in the Social Game.
 
 ---
 
-## The Three Spheres Mapping Protocol
+## The Four Spheres Mapping Protocol
 
 **Materials Needed**: Large sheet of paper, colored pens or pencils, 30 minutes of uninterrupted time
 
 **Step 1: Draw Your Spheres**
-Draw three concentric circles on your page:
+Draw four concentric circles on your page:
 
-- **Inner circle**: Label "SELF" 
-- **Middle circle**: Label "KINSHIP"
-- **Outer circle**: Label "SYSTEM"
+- Inner: "SELF"
+- Next: "TRIBE"
+- Next: "ALLIANCE"
+- Outer: "SYSTEM"
 
 ## Part A: The Self Audit
 
@@ -48,7 +49,7 @@ List what you depend on externally for your internal state:
 
 ## Part B: The Kinship Audit
 
-**In the "Kinship" circle, map your authentic community:**
+**In the "Tribe" circle, map your authentic community:**
 
 **1. Your Flotilla**
 List the people you turn to for:
@@ -128,7 +129,12 @@ Draw arrows showing where you get essential needs met:
 - Do relationship conflicts make you more susceptible to tribal thinking?
 - Does community dysfunction make you seek System solutions (therapy, medication, political activism)?
 
-**3. System → Self Cascade**
+**3. Alliance → System Cascade**
+
+- When allied groups fail to metabolize charge, it spills upward into politics
+- Does alliance breakdown push you to seek top‑down solutions?
+
+**4. System → Self Cascade**
 
 - How do news cycles affect your internal state?
 - Does work stress create personal anxiety?
@@ -171,7 +177,7 @@ For each essential life function, ask:
 - How easily are you triggered into whirlpools?
 - How much do you need System inputs for your internal state?
 
-**Kinship Vulnerability**:
+**Tribe Vulnerability**:
 
 - How isolated would you be if System connections disappeared?
 - How many people would help you in a real crisis?
@@ -231,3 +237,4 @@ For each essential life function, ask:
 **Remember**: The goal isn't to eliminate all System dependencies overnight. It's to consciously choose which dependencies serve you and which ones control you, while systematically building alternatives that increase your freedom and resilience.
 
 **The most powerful realization**: Every step you take to strengthen authentic community and internal sovereignty is an act of resistance against the Social Game. You're not just improving your own life—you're helping to rebuild the social fabric that makes all of us more free.
+

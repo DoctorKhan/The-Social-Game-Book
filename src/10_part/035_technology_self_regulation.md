@@ -24,7 +24,7 @@ This experience became the foundation for understanding the importance of self-r
 
 ## The Individual as the Foundation
 
-In the Three Spheres framework, the **Sphere of Self** is the innermost circle. It's not the most important sphere, but it is the foundational one. When individuals are internally chaotic, that chaos cascades outward into relationships and communities. When individuals are internally stable, they become capable of the kind of presence and responsiveness that makes collective intelligence possible.
+In the Four Spheres framework, the **Sphere of Self** is the innermost circle. It's not the most important sphere, but it is the foundational one. When individuals are internally chaotic, that chaos cascades outward into relationships and communities. When individuals are internally stable, they become capable of the kind of presence and responsiveness that makes collective intelligence possible. The Self anchors the Tribe, is buffered by the Alliance, and engages the System by choice rather than compulsion.
 
 **Self-Regulation is not self-absorption**. It's the opposite. It's developing enough internal stability that you can be genuinely present with others instead of unconsciously projecting your unresolved stress onto them.
 
@@ -63,10 +63,11 @@ Through my investigation, I discovered three essential practices that form the f
 
 **The Technology**: Learning to maintain healthy boundaries between the spheres:
 
-- **Self ↔ Kinship**: Being generous with your community without losing yourself in others' problems
-- **Kinship ↔ System**: Engaging with necessary institutions without letting them colonize your relationships
-- **Information boundaries**: Consuming information consciously rather than being consumed by it
-- **Attention boundaries**: Choosing where to focus rather than being pulled by whatever is loudest
+- **Self ↔ Tribe**: Be generous with your community without losing yourself in others' problems
+- **Tribe ↔ Alliance**: Share loads and mediate conflicts across allied groups instead of escalating
+- **Alliance ↔ System**: Engage necessary institutions without letting them colonize your relationships
+- **Information boundaries**: Consume information consciously rather than being consumed by it
+- **Attention boundaries**: Choose where to focus rather than being pulled by whatever is loudest
 
 **Why This Matters**: Without clear boundaries, you become a conduit for other people's unresolved charge rather than a source of stability and clarity.
 

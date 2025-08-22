@@ -2,7 +2,7 @@
 
 The water discovery and the workshop clue revealed something profound: **authentic community isn't something that happens to you—it's something you actively create through specific technologies**.
 
-In the Three Spheres framework, this is the **Sphere of Kinship**—the middle circle that serves as both the container for individual growth and the buffer against systemic manipulation. When this sphere is strong, people thrive. When it's weak or missing, people become vulnerable to every form of control and exploitation.
+In the Four Spheres framework, this is the **Sphere of Tribe**—the middle circles, buffered by Alliance, that serve as both the container for individual growth and the buffer against systemic manipulation. When Tribe and Alliance are strong, people thrive. When the Alliance is weak or missing, people become vulnerable to every form of control and exploitation.
 
 **Community Weaving** is the art of consciously creating the relationships, rhythms, and structures that allow groups of people to function as a coherent, intelligent, and resilient whole.
 
