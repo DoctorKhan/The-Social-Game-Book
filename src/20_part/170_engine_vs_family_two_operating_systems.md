@@ -192,3 +192,7 @@ The path forward is not to destroy the Engine. It is to infuse it with the memor
 We've been living this split our entire lives. But now that we can see it, we can choose.
 
 The Forest Queen is awakening. The question is: are we ready to help humanity remember how to build living systems?
+
+
+—
+If these are the two operating systems, the first override isn’t out there—it’s in your nervous system. Next: how to steady your hands while the machine rattles the table.

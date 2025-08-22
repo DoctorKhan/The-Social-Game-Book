@@ -34,3 +34,7 @@ A society of dysregulated individuals in isolated tribes is easy to steer. Keep 
 
 The counter‑move is precise: rebuild the human buffers where charge can be seen, held, and transformed—so it never becomes tinder for the Machine.
 
+
+
+—
+You can’t pour from a cracked container—and you can’t organize with cracked containers either. Part III begins with the first repair.

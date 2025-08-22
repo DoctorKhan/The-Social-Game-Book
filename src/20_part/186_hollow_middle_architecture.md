@@ -74,3 +74,7 @@ Try this (2 min): List three nearby tribes you trust. Propose one alliance actio
 
 Guardrail: A federation of peers, not a new central System. Keep ownership distributed; reputations local and transparent.
 
+
+—
+Reinstall the buffer and the storms stop tearing the roof off. The next chapter is the weather report: how disconnection moves—and how to interrupt it.
+
