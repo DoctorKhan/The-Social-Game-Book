@@ -39,6 +39,9 @@ Without the buffer, individuals and small groups face the System directly. The c
 3. Manipulation — power can dictate terms to isolated groups
 4. The death of true politics — only zero‑sum struggles over the System remain
 
+
+But the Alliance Sphere is more than just infrastructure; it's a shared story. The post-war baby boom was powered by a strong national identity that functioned as a massive, cohesive Alliance Sphere. The "hollowing" was not just the removal of local institutions; it was the replacement of that unifying, forward-looking story with the divisive, isolating, and meaningless games of the System. To rebuild the Alliance Sphere, we must not only create new structures but also tell a new, more compelling story.
+
 ### The Great Forgetting: A Digital Counterfeit
 
 To hide the amputation, platforms sold us a synthetic replacement: global “communities” that simulate alliance while extracting attention and data. The result is the feeling of connection without the substance—no mutual aid, no apprenticeship, no shared infrastructure.
