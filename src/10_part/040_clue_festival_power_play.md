@@ -1,11 +1,9 @@
 
 # Clue 3: The Laboratory in the Desert
 
-The very colorful house I was living in the Bay Area of California turned out to be a community of burners—people who went to Burning Man each year.
+The house I lived in in the Bay wasn’t a house. It was a launch pad. Costumes drying over chairs, a welding rig in the garage, glitter in the grout of the kitchen tile. I didn’t go looking for a festival. It found me and dragged me into its gravity well until I was strapped to a car seat at 3 a.m. driving east with coffee and a list of strangers’ names.
 
-I hadn’t planned to seek out a festival, or even a social experiment. But after moving in with a community of burners, I found myself swept up in their annual migration to the desert. I was curious and suddenly I was joining a pilgrimage to a temporary city of 70,000 strangers in the Nevada desert.
-
-Clue, proof, experiment. Perhaps this was the proof I needed.
+Clue, proof, experiment. If Bali was a calendar, this would be a wipe of the slate.
 
 ## The Experimental Conditions
 
@@ -40,3 +38,5 @@ It was terrifying because it raised a darker question: If the blueprint for a he
 The desert had confirmed my hypothesis: even the most inauthentic, disorganized, and individualistic people could access collective intelligence when the right conditions were created.
 
 The grackles, the Balinese calendar, and the desert festival had all revealed pieces of the same puzzle. Now I needed to understand the underlying technologies that made this magic possible.
+
+The clue became a pattern. The pattern demands a culprit. Next: the rules of the machine we live inside.

@@ -1,4 +1,3 @@
-
 # Chapter 1: The Unseen Architect
 
 Tonight, I’m watching a sunset—on my phone, not outside. It’s beautiful, but somehow it feels like a substitute for the real thing. I scroll through messages and updates, surrounded by more connections than I could ever manage, and everyone says we’re freer than ever. But I keep wondering: if this is freedom, why does it feel so scripted?
@@ -11,5 +10,4 @@ Don't get me wrong, I am grateful for what I have. It is an amazing world. But a
 
 Let’s talk about it. Maybe, if we’re honest with each other, we can start to unravel what’s really going on here.
 
-For now, I’m stepping outside to catch the last light—no screen, no 
-filter. Just me, the sky, and a moment that belongs to nobody else.
+Maybe there is some invisible architect behind all this, pulling strings I’ll never see. But tonight, I just want something real. I’m heading outside to catch the last bit of sunlight—no screen, no filter. Just me, the sky, and a moment that’s mine alone.
