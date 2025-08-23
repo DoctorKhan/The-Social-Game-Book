@@ -1,12 +1,12 @@
 title: "The Social Game"
-subtitle: "How collective systems program us – and how to architect a new one"
+subtitle: "Creating a blueprint for a new society"
 book_number: 1
 author: "Rez Khan"
 series: "The Orphaned Species"
 
 structure:
   - type: introduction
-    title: "How to Use This Series: A Reader's Guide"
+    title: "The Orphaned Species Series"
     file: "00_introduction/000_introduction.md"
 
   - type: part
