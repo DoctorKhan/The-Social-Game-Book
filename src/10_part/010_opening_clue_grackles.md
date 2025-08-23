@@ -1,8 +1,6 @@
 # Chapter 2: The Grackle Clue
 
-Twilight under the live oaks on Congress Avenue. Heat still hanging in the air. People staring into phones, conversations stuttering and restarting like bad reception. Then—wing-beat static above me. A dark ribbon lifts out of the trees and begins to write in the sky.
-
-Grackles. Thousands. They split and braid and rejoin without a single collision, as if the air itself were spelling instructions only birds can read. No votes, no memos, no managers—just signal. The crowd below keeps missing it. I almost miss it, too.
+Every evening in the parking lot of the grocery store, HEB, an amazing thing happens. I watch as it begin. Grackles pour from the trees, a living river in the air. They merge and split in perfect formations, individual birds switching allegiances with a fluid grace that would make a choreographer weep. No leaders, no meetings, no conflict. Just a seamless, intelligent whole.
 
 A question tapped the back of my neck like rain before a storm: What signal are they following that we’re not?
 
