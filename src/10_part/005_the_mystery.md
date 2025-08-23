@@ -1,6 +1,8 @@
 # Chapter 1: The Unseen Architect
 
-I scroll through endless messages and updates, surrounded by more connections than I could ever truly hold. Everyone says we’re freer than ever, but I keep wondering: if this is freedom, why does it feel so scripted?
+The notification pings at 2:47 AM, slicing through the darkness like a blade. I reach for my phone before I'm fully awake, muscle memory overriding the part of my brain that knows better. Another like. Another comment. Another tiny hit of dopamine in the endless scroll that has become my life.
+
+I stare at the ceiling, surrounded by the blue glow of three different screens, and wonder when connection started feeling so much like captivity. They tell me I'm living in the most connected time in human history—that I've never been more free to express myself, to build relationships, to craft my own destiny. But if this is freedom, why does every choice feel like it was made for me before I even knew I was making it?
 
 I tell myself I’m just staying in touch, or that I need a social media presence for work. Now I’m using AI chatbots, too. Sometimes I catch myself playing along—chasing likes, promotions, the next shiny thing. I hit my goals, but the victories feel strangely hollow. The future looms, uncertain and maybe even doomed. Still, I keep fighting—searching for meaning, hoping for connection, refusing to give up.
 
