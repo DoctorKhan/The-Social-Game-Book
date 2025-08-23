@@ -1,7 +1,7 @@
 # The Social Game
 ## How collective systems program individual consciousness
 
-*Compiled August 22, 2025 at 3:50 PM*
+*Compiled August 22, 2025 at 9:05 PM*
 
 ---
 
@@ -36,7 +36,7 @@ Let’s talk about it. Maybe, if we’re honest with each other, we can start to
 Maybe there is some invisible architect behind all this, pulling strings I’ll never see. But tonight, I just want something real. I’m heading outside to catch the last bit of sunlight—no screen, no filter. Just me, the sky, and a moment that’s mine alone.
 
 
-## Chapter 2: Clue 1: The Grackle Phenomenon
+## Chapter 2: The Grackle Phenomenon
 
 Twilight under the live oaks on Congress Avenue. Heat still hanging in the air. People staring into phones, conversations stuttering and restarting like bad reception. Then—wing-beat static above me. A dark ribbon lifts out of the trees and begins to write in the sky.
 
@@ -65,7 +65,7 @@ Coordination emerges when signal clarity beats static. Birds show the baseline; 
 What would it look like if an entire village had tuned itself to the same beat—and time itself was the instrument?
 
 
-## Chapter 3: Clue 2: The Calendar in Bali
+## Chapter 3: The Calendar in Bali
 
 Twice a day the island exhales. Smoke lifts from offerings on doorsteps, and the traffic’s rhythm changes like a metronome bumped a notch. Gamelan bells don’t keep time so much as braid it. I kept checking my watch and felt a little foolish, like bringing a ruler to measure the ocean.
 
@@ -121,7 +121,7 @@ But I had discovered something profound in Bali—a technology that seemed almos
 I needed to test this hypothesis. And I found my laboratory in the most unlikely of places: a temporary city built on radical self-expression in the Nevada desert.
 
 
-## Chapter 4: Clue 3: The Laboratory in the Desert
+## Chapter 4: The Laboratory in the Desert
 
 The house I lived in in the Bay wasn’t a house. It was a launch pad. Costumes drying over chairs, a welding rig in the garage, glitter in the grout of the kitchen tile. I didn’t go looking for a festival. It found me and dragged me into its gravity well until I was strapped to a car seat at 3 a.m. driving east with coffee and a list of strangers’ names.
 
@@ -164,7 +164,7 @@ The grackles, the Balinese calendar, and the desert festival had all revealed pi
 The clue became a pattern. The pattern demands a culprit. Next: the rules of the machine we live inside.
 
 
-## Chapter 5: Clue 4: The Clue in the Flow
+## Chapter 5: See You in the Flow
 
 Salt on my tongue. Lava fields like spilled night. A trade wind that erased the last ten minutes of thought and made room for something older. I wasn’t chasing a vision so much as a rumor: that the island still carried a frequency you could feel in your teeth if you were quiet enough.
 
@@ -203,7 +203,7 @@ The clues were all in place. Time to meet the architects.
 What happens when the “machine” learns your rhythm before you do?
 
 
-## Chapter 6: Clue 5: The Crying Teenager
+## Chapter 6: The Crying Teenager
 
 Back in Palo Alto, the air smelled like eucalyptus and ambition. A friend leaned across a cafe table and said she’d just watched a girl break in public. Not a tantrum. A failure of the operating system. Face wet, friends frozen. “Everything is supposed to be perfect,” the girl kept saying, “but it all feels wrong.”
 
@@ -243,7 +243,7 @@ This was the Social Game's ultimate strategy: convince us that its artificial ch
 What happens when you see the strings? The next chapter is about the first clean cut.
 
 
-## Chapter 7: Clue 6: The Sovereignty of the Misfit
+## Chapter 7: The Sovereignty of the Misfit
 
 Belonging used to be a GPS coordinate. Your village. Your blood. Leave, and you died. The Social Game still runs that old fear in the background and calls it virtue: stay in your assigned box, or else.
 
