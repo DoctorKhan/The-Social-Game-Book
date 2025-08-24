@@ -17,6 +17,16 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 
 **The Philosophy**: This is not a timeline, but a description of developmental stages. A group can begin Phase 0 at any time. The phases are designed to be **emergent**—each phase creates the conditions for the next, but the specific timing and form will vary based on local conditions and opportunities.
 
+### The Bridge Economy (Transitioning from Wage Engine to Local Resilience)
+Most people are caught in the Engine: multiple jobs, high rent, little slack. Phase 0/1 must include a bridge:
+
+- Flotillas pool resources (housing, tools, food buys) to lower cash burn.
+- Launch member‑owned micro‑businesses that serve the Hub (childcare co‑ops, repair shops, meal trains).
+- Create local exchange systems (timebanks, shop‑credit, community scrip) to reduce external cash dependency.
+- Sequence debt‑reduction sprints as a group to unlock time for community work.
+This is not anti‑market; it is market‑relocalization. The goal is to reclaim margin for life.
+
+
 ## Phase 0: Seeding - The Flotilla Network (Now)
 
 **The Focus**: Internal work and high-trust community building.

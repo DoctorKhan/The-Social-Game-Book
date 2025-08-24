@@ -129,6 +129,10 @@ This discovery revealed that **community-calibrated consent** must be the founda
 
 **The Flexibility**: The specific structure of the councils and the methods of mediation can be adapted by each Hub to fit its cultural context. Some may use traditional elder councils, others may rotate leadership, still others may use consensus processes.
 
+
+### Scale-Aware Governance (Applying the Right Protocol at the Right Layer)
+At Flotilla scale, the Family Protocol (relational, consensus, repair-first) is primary. At Hub and Federation scale, transparent Engine mechanisms (clear roles, formal rules, explicit metrics, auditability) are necessary to manage complexity and prevent free‑rider dynamics. Governance adapts to scale; humanity stays in the loop at moments of justice and meaning.
+
 **The Result**: Governance that combines human wisdom with technological efficiency, preventing both the chaos of pure democracy and the tyranny of algorithmic rule.
 
 ## Protocol 5: The Law of Open Source Sovereignty (Radical Accessibility & Mentorship)

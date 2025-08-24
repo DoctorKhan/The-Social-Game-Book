@@ -19,6 +19,12 @@ The schism between consciousness development and control systems had become the 
 
 Every day we wake up and choose between two incompatible operating systems. And most of the time, we don't even know we're choosing.
 
+
+> Definition in one line: In a Family, you are an irreplaceable member; in an Engine, you are an interchangeable part. A family cannot fire a child; an engine ejects a faulty cog.
+
+### What I Am Not Saying (Clarity Up Front)
+This is not a romanticization of pre‑modern life, which was often brutal and coercive. The Family Protocol here is not a specific cultural template—it is an extension of biology: the non‑negotiable bonds of kinship where members are unique and irreplaceable. The Engine Protocol is a coordination technology for scale that treats roles as interchangeable parts. Both have their place; the art is applying each at the appropriate scale.
+
 ## The Parable of the Two Workshops
 
 Let me tell you a story that illustrates exactly what I discovered about these competing systems.

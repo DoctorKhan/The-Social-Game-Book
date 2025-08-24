@@ -39,6 +39,15 @@ Without the buffer, individuals and small groups face the System directly. The c
 3. Manipulation — power can dictate terms to isolated groups
 4. The death of true politics — only zero‑sum struggles over the System remain
 
+### Design or Drift?
+Two things can be true at once:
+
+- There is an emergent hollowing driven by systems optimizing for scale and efficiency.
+- Elites have repeatedly discovered and exploited this drift, accelerating it when it benefits them.
+
+Call it opportunistic exploitation: a consistent pattern of benefiting from fragmentation without requiring a single, timeless conspiracy. This framing keeps us focused on structure and incentives, not villains.
+
+
 
 But the Alliance Sphere is more than just infrastructure; it's a shared story. The post-war baby boom was powered by a strong national identity that functioned as a massive, cohesive Alliance Sphere. The "hollowing" was not just the removal of local institutions; it was the replacement of that unifying, forward-looking story with the divisive, isolating, and meaningless games of the System. To rebuild the Alliance Sphere, we must not only create new structures but also tell a new, more compelling story.
 

@@ -1,5 +1,21 @@
 # The Gender Schism: How the System Engineered a War Between the Sexes
 
+> Principle: Biology is instinct, not destiny. Patterns discussed here are statistical and contextual, not mandates for any individual. We study foundational currents so we can navigate them consciously, not to put people in boxes. Brain plasticity and culture are powerful—but they do not erase hormonal and neurological architectures shaped by evolution. A complete understanding looks at both.
+
+
+### Selected research (neutral, high‑level)
+
+- Hyde, J. S. (2005). The gender similarities hypothesis. American Psychologist, 60(6), 581–592. https://doi.org/10.1037/0003-066X.60.6.581
+- Cahill, L. (2006). Why sex matters for neuroscience. Nature Reviews Neuroscience, 7(6), 477–484. https://doi.org/10.1038/nrn1909
+- Ritchie, S. J., Cox, S. R., Shen, X., et al. (2018). Sex differences in the adult human brain: Evidence from 5,216 UK Biobank participants. Cerebral Cortex, 28(8), 2959–2975. https://doi.org/10.1093/cercor/bhy109
+
+#### Additional references (education and fertility trends)
+
+- Voyer, D., & Voyer, S. D. (2014). Gender differences in scholastic achievement: A meta-analysis. Psychological Bulletin, 140(4), 1174–1204. https://doi.org/10.1037/a0036620
+- United Nations, Department of Economic and Social Affairs (2022). World Fertility and Family Planning 2022. https://www.un.org/development/desa/pd/content/world-fertility-and-family-planning-2022
+
+
+
 The breakdown in relations between men and women—evidenced by plummeting marriage and fertility rates, pervasive loneliness, and a vitriolic online "gender war"—is not a series of individual failings. It is the predictable, engineered outcome of a society that has systematically dismantled the very infrastructure of human connection.
 
 This is not a bug in the system; it is a core feature of the **Social Game's** control strategy.

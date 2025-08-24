@@ -33,6 +33,12 @@ From this foundation, the counter-strategy unfolds. The Social Game maintains po
 
 This work is fueled by **preserving ancestral memory.** The Game works by making us forget how communities once functioned. By learning traditional skills—food preservation, conflict resolution, community organizing—from elders and historical sources, we reclaim the lost art of community. This knowledge allows us to develop **collective intelligence,** combining our skills to solve problems together. A community that can think and act collectively is far more powerful than the sum of its isolated members.
 
+
+#### Healthy Tribalism vs Manufactured Tribalism
+- Manufactured tribalism (the Social Game): horizontal conflict that feeds elites; identity built on opposition; high outrage, low creation.
+- Healthy tribalism (the Networked Ark): chosen identity anchored in creation, resilience, and life‑affirmation; identity built on shared work and care; low outrage, high creation.
+We don’t abandon group identity—we curate it toward building rather than blaming.
+
 These principles work in tandem. Conscious non-participation provides the clarity, horizontal bonds provide the relationships, economic interdependence provides the material foundation, ancestral memory provides the wisdom, and collective intelligence provides the power to create genuine alternatives. You're not just resisting the Social Game; you're demonstrating that something better is possible.
 
 #### Principle 1: Rebuilding Horizontal Bonds
