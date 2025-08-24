@@ -35,6 +35,8 @@ structure:
         file: "10_part/125_find_your_flotilla.md"
 
   - type: part
+    file: "20_part/000_part_intro_war.md"
+
     title: "Part II: The Rules of the Game — Understanding the System"
     chapters:
       - title: "The Two Operating Systems: The Engine vs. The Family"
