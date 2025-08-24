@@ -23,7 +23,7 @@ On the industrial farm, abundance looked like a mountain of grain—and a pharma
 The irony cut deep: the man who grew more food than anyone I knew could not safely eat from his own field. His body, and his children’s bodies, declared what my models only suggested: the Social Game is not just social. It is biological.
 
 ***
-**Aha:** “We are a healthy people living in a broken system” is not metaphor. The body itself rejects what monocrop logic produces. Health is not a commodity; it is an emergent property of living systems.
+**Aha:** “We are a healthy people living in a broken system” is not metaphor. The body itself rejects what monocrop logic produces. Health is not a commodity; it is an emergent property of living systems [see: References and Sources].
 
-**Try This:** Visit a farmer’s market and ask three growers how they build soil. Then visit the nearest big‑box grocery and read the ingredient list on five items you buy regularly. Which protocol—Engine or Family—does each environment reward?
+**Try This:** Visit a farmer’s market and ask three growers how they build soil. Then visit the nearest big‑box grocery and read the ingredient list on five items you buy regularly. Which protocol—Engine or Family—does each environment reward [see: References and Sources]?
 

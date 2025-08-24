@@ -96,8 +96,19 @@ structure:
         file: "40_part/260_emergent_roadmap_three_phases.md"
       - title: "The Litmus Tests — How We Know It's Working"
         file: "45_part/285_litmus_tests.md"
+      - title: "The Vitality Engine: A Cultural Blueprint for Growth and Resilience"
+        file: "45_part/290_vitality_engine.md"
+
       - title: "Conclusion: An Invitation to Become a World-Builder"
         file: "40_part/270_invitation_world_builder.md"
+
+
+  - type: appendix
+    title: "References and Sources"
+    chapters:
+      - title: "References and Sources"
+        file: "90_appendix/00_references.md"
+
 
   - type: appendix
     title: "Appendix: Practical Exercises and Field Manuals"

@@ -35,7 +35,7 @@ The standardized classroom is not neutral. It is a precision machine for trainin
 This is why the teenager in Palo Alto cries. By the time we meet her, her nervous system has been in training for a decade. The app is not the origin; it is the amplifier.
 
 ***
-**Aha:** Education always teaches two things: the content—and the protocol. If you design for bells, ranks, and rows, you train people for the Engine. If you design for mixed ages, real problems, and movement, you train people for the Family.
+**Aha:** Education always teaches two things: the content—and the protocol. If you design for bells, ranks, and rows, you train people for the Engine. If you design for mixed ages, real problems, and movement, you train people for the Family [see: References and Sources].
 
-**Try This:** Visit a local forest school, Montessori, or democratic school. Observe for one hour. Count: how many minutes are spent in movement, collaboration, and self‑directed work? Then observe a standard classroom (with permission). Count the same. What do the numbers teach you about the protocol being installed?
+**Try This:** Visit a local forest school, Montessori, or democratic school. Observe for one hour. Count: how many minutes are spent in movement, collaboration, and self‑directed work? Then observe a standard classroom (with permission). Count the same. What do the numbers teach you about the protocol being installed [see: References and Sources]?
 
