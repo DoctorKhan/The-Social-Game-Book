@@ -32,6 +32,9 @@ You have three choices:
 
 **Choice 3: Become a World-Builder**. You can use this knowledge as the foundation for building something genuinely different. This is the path of greatest resistance, but it is also the path of greatest possibility.
 
+
+I began this journey as a man who chose the first path. I believed in the system. I tried to optimize it, to fix it from within. But the evidence forced me to see the truth. This book is the story of my own conversion from a system-builder to a world-builder. If a data-obsessed analyst like me can make that journey, so can you.
+
 ## The Invitation
 
 I invite you to choose the third path. I invite you to become a world-builder.

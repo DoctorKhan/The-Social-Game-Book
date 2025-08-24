@@ -2,9 +2,9 @@
 
 Every evening in the parking lot of the grocery store, HEB, an amazing thing happens. I watch as it begin. Grackles pour from the trees, a living river in the air. They merge and split in perfect formations, individual birds switching allegiances with a fluid grace that would make a choreographer weep. No leaders, no meetings, no conflict. Just a seamless, intelligent whole.
 
-A question tapped the back of my neck like rain before a storm: What signal are they following that we’re not?
+I found myself asking a purely technical question: What is the processing architecture of this distributed network? How does it achieve such high-fidelity coordination with zero apparent latency?
 
-I started watching like a thief casing a house—quiet, patient, hungry for a pattern. The longer I stood there, the louder the contradiction became. We are a species that can pass a tool across centuries, build cathedrals we’ll never see finished, hold a line in a storm. Yet on the ground, we stall and jam and peel apart. The birds were not “in nature.” They were in the same city I was—in the same noise field—and still they found coherence.
+I started watching like a thief casing a house—quiet, patient, hungry for a pattern. The longer I stood there, the louder the contradiction became. We are a species that can pass a tool across centuries, build cathedrals we’ll never see finished, hold a line in a storm. Yet on the ground, we stall and jam and peel apart. This wasn't some isolated, natural phenomenon. They were operating in the same urban noise field as my human subjects, yet their simple biological script achieved a level of coherence my complex social models could not. The efficiency was frustrating.
 
 They felt like a control group running right over our heads.
 
@@ -12,7 +12,7 @@ So I pulled the thread. I began looking for places where human coherence still h
 
 Which left a harder thought I didn’t want to say out loud: maybe the static isn’t an accident.
 
-The birds handed me a baseline. If that’s what un-interfered coordination looks like, then our problem isn’t capacity—it’s interference. The question changed shape. I wasn’t asking why we fail to connect. I was hunting what prevents us from connecting—and who benefits when we don’t.
+The baseline was clear. If this is what un-interfered coordination looks like, then the human problem wasn't a lack of capacity—it was a systemic interference. My task was to identify the source of that signal degradation.
 
 ---
 

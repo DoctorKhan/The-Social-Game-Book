@@ -31,6 +31,9 @@ This neoteny is unprecedented in nature. Most animals lose their playfulness as 
 
 Holding those skulls, I realized I was looking at the biological evidence for why humans are naturally playful, creative, and adaptable. We're designed to remain curious and flexible throughout our lives—permanent children in the best possible sense.
 
+
+Holding those skulls, I felt a cold horror. My entire career had been dedicated to building "more serious, more productive" systems. I realized I hadn't been an optimizer; I had been a foot soldier in the War on Play. I was one of the architects of the cages I was now trying to understand.
+
 This playful nature is the very source of our resilience, creativity, and sovereignty. A playful people cannot be easily controlled. They invent their own games, create their own meaning, and bond in ways that transcend institutional authority.
 
 **This is why the war on play is so devastating.** The systems telling us to "grow up," "be serious," and "stop playing around" are attacking our core biological programming. They're trying to suppress the very trait that makes us most human and most free.

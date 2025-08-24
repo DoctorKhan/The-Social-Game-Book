@@ -9,6 +9,11 @@ structure:
     title: "The Orphaned Species Series"
     file: "00_introduction/000_introduction.md"
 
+
+  - type: introduction
+    title: "Prologue: Addendum — The Chimera Protocol"
+    file: "00_introduction/005_prologue_chimera_protocol.md"
+
   - type: part
     title: "Part I: The Awakening — Seeing the Game"
     chapters:

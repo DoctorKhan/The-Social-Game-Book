@@ -2,7 +2,7 @@
 # Clue 2: The Calendar in Bali
 
 
-Twice a day the island exhales. Smoke lifts from offerings on doorsteps, and the traffic’s rhythm changes like a metronome bumped a notch. Gamelan bells don’t keep time so much as braid it. I kept checking my watch and felt a little foolish, like bringing a ruler to measure the ocean.
+Twice a day the island exhales. Smoke lifts from offerings on doorsteps, and the traffic’s rhythm changes like a metronome bumped a notch. Gamelan bells don’t keep time so much as braid it. I kept checking my watch, feeling a rising sense of professional anxiety. It was a logistical nightmare.
 
 It was a coincidence that I went to Bali. I had been hired to write some software for a startup, and the founder happened to be there.
 
@@ -18,7 +18,7 @@ My breakthrough came not during a dramatic crisis, but in a quiet conversation w
 
 He smiled and explained, "Oh, most businesses here have staff from different religions. We need the Muslims to work during the Hindu holidays, the Christians to work during the Muslim holidays, and the Hindus to work during the Christian holidays. Otherwise, the island would never be open."
 
-The simplicity of his answer struck me with the force of a revelation. The entire economic system had bent itself to accommodate the social rhythm, not the other way around. The collective's ritual life was so important that it was the fixed point around which all other systems had to orbit.
+His answer was a stunning piece of data that broke all my assumptions. The entire economic system—what I considered the independent variable—had bent itself to accommodate the social rhythm. The dependent variable had become the master. My models inverted.
 
 I later learned this multi-layered approach was reflected in their sacred geography. While each religion had its own local temples, there were also great central temples—pilgrimage sites for everyone—that acted as the island's spiritual heart, weaving the different threads into a single tapestry.
 

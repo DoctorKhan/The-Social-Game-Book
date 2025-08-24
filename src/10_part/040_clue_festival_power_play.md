@@ -1,7 +1,7 @@
 
 # Clue 3: The Laboratory in the Desert
 
-The house I lived in in the Bay wasn’t a house. It was a launch pad. Costumes drying over chairs, a welding rig in the garage, glitter in the grout of the kitchen tile. I didn’t go looking for a festival. It found me and dragged me into its gravity well until I was strapped to a car seat at 3 a.m. driving east with coffee and a list of strangers’ names.
+My hypothesis was simple: remove the guardrails of modern society, and human behavior would devolve into its most primitive state. The festival in the desert was the perfect laboratory to test this. I went as an observer, a systems analyst expecting to document the predictable chaos of an unstructured environment.
 
 Clue, proof, experiment. If Bali was a calendar, this would be a wipe of the slate.
 
@@ -25,7 +25,7 @@ Even the city's design contributed to this unique social fabric. The layout was 
 
 ## The Unthinkable Conclusion
 
-The experiment was a success. It proved the hypothesis that had been forming since I watched the grackles in Austin:
+My experiment had failed spectacularly. Or rather, it had proven a hypothesis so contrary to my entire worldview that it felt like a failure. The conclusion was unthinkable:
 
 **We are not a broken people. We are a healthy people living in a broken system.**
 
@@ -34,6 +34,9 @@ The loneliness, anxiety, and division of modern life are not our natural state. 
 This discovery was both exhilarating and terrifying. It was exhilarating because it proved that a more authentic and organized way of life is possible, right now.
 
 It was terrifying because it raised a darker question: If the blueprint for a healthier society is this simple, why is it so rare? What powerful forces have a vested interest in maintaining the broken system?
+
+My life's work, my faith in optimization and rational design, crumbled to dust in the Nevada desert. For years, I had tried to build better systems to fix broken people. I finally understood. We are not a broken people. We are a healthy people living in a broken system. My system. And the terrifying question that had been a whisper in Austin was now a roar: If the blueprint for a healthier society is this simple, what powerful forces have a vested interest in maintaining the broken one?
+
 
 The desert had confirmed my hypothesis: even the most inauthentic, disorganized, and individualistic people could access collective intelligence when the right conditions were created.
 

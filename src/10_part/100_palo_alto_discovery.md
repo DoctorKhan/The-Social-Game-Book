@@ -5,7 +5,7 @@ Back in Palo Alto, the air smelled like eucalyptus and ambition. A friend leaned
 
 This wasn’t just teenage angst. It was a distress signal from the heart of the machine.
 
-Later that week, a father at a park gave me the key. His daughter was on the swings, not playing, but staring at her phone with the intensity of a day trader watching the market crash. "The kids here are the most depressed I've ever seen," he said. "It's like they're playing a game where the stakes feel like life and death, but the game itself is meaningless."
+I thought back to the girl whose father's words had started this whole investigation. Before the desert, she was a data point that broke my model. Later that week, a father at a park gave me the key. His daughter was on the swings, not playing, but staring at her phone with the intensity of a day trader watching the market crash. "The kids here are the most depressed I've ever seen," he said. "It's like they're playing a game where the stakes feel like life and death, but the game itself is meaningless."
 
 ## The Great Reversal
 
@@ -30,7 +30,7 @@ Normal adolescent mistakes, which should be learning experiences, now carried th
 
 These kids weren't weak or spoiled. Their anxiety and depression were not a malfunction; they were a **healthy response to an insane system**. Their minds, designed by evolution to solve real-world problems, were being broken by the cognitive dissonance of fighting for their lives in a game that didn't matter.
 
-They were the canaries in a gilded cage, showing us the endgame of a society that has systematically replaced meaningful work with meaningless play, and then turned that play into a new form of work.
+Now, I saw her not as a malfunction, but as a canary in a gilded cage, showing us the endgame of a society that has systematically replaced meaningful work with meaningless play, and then turned that play into a new form of work.
 
 This was the Social Game's ultimate strategy: convince us that its artificial challenges are what matter. The moment we see through this illusion, we regain the power to choose our own games—and our own challenges.
 
