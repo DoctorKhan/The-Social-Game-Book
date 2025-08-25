@@ -113,7 +113,7 @@ These arks are communities that maintain their internal sovereignty while connec
 As more communities adopt these principles, they create a parallel infrastructure that becomes increasingly attractive compared to the extractive systems they're replacing. People and resources naturally flow toward systems that serve human flourishing rather than exploitation.
 
 **The Transition Strategy:**
-This isn't about revolution or collapse—it's about building alternatives that are so obviously better that they naturally replace the old systems. Like how email replaced postal mail not through force, but through superior functionality.
+This approach focuses on building alternatives that are so obviously better that they naturally replace the old systems—like how email replaced postal mail through superior functionality rather than force.
 
 **The Scientific Foundation:**
 This approach is grounded in the best available knowledge from multiple scientific disciplines. It's not utopian dreaming—it's applied systems science for human organization.

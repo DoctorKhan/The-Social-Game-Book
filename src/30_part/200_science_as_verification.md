@@ -355,6 +355,6 @@ The most important verification is whether ideas work in practice. Regardless of
 
 Real science ultimately serves human flourishing. Any "science" that consistently produces results that harm human welfare while benefiting powerful institutions should be viewed with extreme skepticism.
 
-The goal isn't to reject all institutional science, but to reclaim the scientific method as a tool for independent verification rather than accepting it as a source of unquestionable authority. In an age of manufactured reality, the ability to test claims against observable evidence may be one of the most important skills for maintaining both personal freedom and collective sanity.
+The goal involves reclaiming the scientific method as a tool for independent verification rather than accepting it as a source of unquestionable authority, while maintaining respect for legitimate institutional research. In an age of manufactured reality, the ability to test claims against observable evidence may be one of the most important skills for maintaining both personal freedom and collective sanity.
 
 Science belongs to everyone who's willing to use its methods honestly. Don't let institutions steal it from you.

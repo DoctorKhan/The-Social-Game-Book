@@ -130,7 +130,7 @@ Their 'inefficient' time spent on ceremonies is actually their most important wo
 
 Here's what I realized: The problem isn't technology itself—it's that Engine protocols have invaded Family spaces. But what if we could use technology to create a hard separation, allowing each to thrive in its proper domain?
 
-AI is the ultimate Clockmaker tool. Its proper function isn't to replace human judgment, but to build supportive scaffolding for human Gardens to grow.
+AI is the ultimate Clockmaker tool. Its proper function lies in building supportive scaffolding for human Gardens to grow, rather than replacing human judgment.
 
 **AI Manages the Engine Sphere:**
 

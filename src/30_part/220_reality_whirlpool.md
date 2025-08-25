@@ -78,7 +78,7 @@ The mechanism is biochemically precise. It constructs your reality moment by mom
 
 * **The Relationship Conflict Whirlpool:** A hollow, sinking feeling appears when your partner uses a certain tone. Your mind supplies the narrative: "They don't respect me." The thought deepens the feeling of being hurt, which makes the "disrespect" interpretation feel certain. You're now experiencing "relationship problems."
 
-**The whirlpool's greatest trick is convincing you it's not a whirlpool—it's just reality.** The practices below are designed to break this spell by severing the automatic link between thought and feeling, causing the whirlpool to lose its energy and dissolve.
+**The whirlpool's greatest trick is convincing you that this temporary emotional storm represents permanent reality.** The practices below are designed to break this spell by severing the automatic link between thought and feeling, causing the whirlpool to lose its energy and dissolve.
 
 ---
 

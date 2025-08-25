@@ -25,7 +25,7 @@ Our species was designed to be neotenous—to retain the characteristics of yout
 
 "Look at them side by side," she said.
 
-I stared in amazement. The resemblance was striking: large heads, weak jaws, childlike proportions. Adult humans have the skull structure of juvenile chimps. But it's not just physical. We're neurologically designed to keep learning, playing, and bonding throughout our entire lives.
+I stared in amazement. The resemblance was striking: large heads, weak jaws, childlike proportions. Adult humans have the skull structure of juvenile chimps. This neoteny extends far beyond physical form—we're neurologically designed to keep learning, playing, and bonding throughout our entire lives.
 
 This neoteny is unprecedented in nature. Most animals lose their playfulness as they mature, but humans are biologically programmed for lifelong play, curiosity, and social bonding. We learn through games, we solve problems through creative experimentation, and we form communities through joyful, spontaneous creation of shared reality.
 
@@ -45,7 +45,7 @@ The Social Game, therefore, is a system designed with one primary objective: to 
 * **Community Sport** with **Gladiatorial Tribalism.**
 * **Embodied Joy** with **Digital Validation.**
 
-Understanding this is the ultimate 'manual override.' Every time you feel the pull of manufactured outrage, every time you are drawn into a binary conflict, you can now recognize it for what it is: a tactic in the War on Play, designed to keep you serious, anxious, and compliant. The most potent act of resistance, therefore, is not to fight the system on its own terms. It is to refuse to play its serious, dead-ended game, and instead, to remember how to play your own.
+Understanding this is the ultimate 'manual override.' Every time you feel the pull of manufactured outrage, every time you are drawn into a binary conflict, you can now recognize it for what it is: a tactic in the War on Play, designed to keep you serious, anxious, and compliant. The most potent act of resistance, therefore, lies in refusing to play the system's serious, dead-ended game and instead remembering how to play your own.
 
 #### The Anatomy of the War
 
@@ -59,7 +59,7 @@ The war against play operates through systematic corruption of our natural playf
 
 #### **The Statistical Annihilation of Childhood**
 
-The replacement of embodied, social play with isolated screen time is not a minor cultural shift; it is a fundamental transformation of the developmental environment for an entire generation. Jonathan Haidt frames the magnitude of this loss with a series of stark calculations.
+The replacement of embodied, social play with isolated screen time represents a fundamental transformation of the developmental environment for an entire generation. Jonathan Haidt frames the magnitude of this loss with a series of stark calculations.
 
 "Think of all the times you laughed with your friends in person," he asks, "and cut that... it's actually more than 50%." [Source: Galloway, Haidt, & Reeves Video Transcript] The data shows that time spent with friends has plummeted. But the losses cascade from there. He continues:
 
@@ -67,7 +67,7 @@ The replacement of embodied, social play with isolated screen time is not a mino
 - "Think of all the exercise you got. Cut that."
 - "Think of all the books you ever read. Cut that by 70%." [Source: Galloway, Haidt, & Reeves Video Transcript]
 
-This is the War on Play translated into hard numbers. We have engineered an environment that systematically starves children of the very inputs their nervous systems require for healthy development: synchronous action, physical touch, shared laughter, and time in nature. The result, Haidt concludes, is not surprising: "the highest levels of anxiety, depression, the sense of meaninglessness, [and] suicide that we've ever seen." [Source: Galloway, Haidt, & Reeves Video Transcript]
+This is the War on Play translated into hard numbers. We have engineered an environment that systematically starves children of the very inputs their nervous systems require for healthy development: synchronous action, physical touch, shared laughter, and time in nature. The result, Haidt concludes, follows predictably: "the highest levels of anxiety, depression, the sense of meaninglessness, [and] suicide that we've ever seen." [Source: Galloway, Haidt, & Reeves Video Transcript]
 
 
 ##### Corruption of Learning Play

@@ -1,6 +1,6 @@
 # Technology 1: Self-Regulation - The Foundation of Sovereignty
 
-The grackles, the Balinese calendar, and the desert festival all revealed the same truth: **human social intelligence works beautifully when it's not being systematically disrupted**.
+The grackles, the Balinese calendar, and the desert festival all revealed the same truth: **human social intelligence works beautifully in the absence of systematic disruption**.
 
 But here's what I realized watching those perfect formations in the sky: each individual bird had to be flying well for the flock to flow as one. The collective intelligence emerged from individual competence, not despite it.
 

@@ -143,7 +143,7 @@ The system has become so sophisticated that it can:
 
 ## The Realization
 
-We're not looking at separate historical incidents. We're looking at the same strategy being deployed repeatedly because it works. And it's not just historical—it's happening right now, in real-time, through the systems we've built.
+We're looking at the same strategy being deployed repeatedly across history because it works. This pattern extends beyond historical analysis—it's happening right now, in real-time, through the systems we've built.
 
 **The great question**: How do you fight a strategy that's been perfected over millennia?
 
