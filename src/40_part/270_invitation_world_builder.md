@@ -26,11 +26,11 @@ You now stand at a crossroads that every conscious person must face. You have se
 
 You have three choices:
 
-**Choice 1: Return to Sleep**. You can close this book, return to your normal life, and pretend you never saw what you've seen. This is the path of least resistance, but it is also the path of greatest suffering. Once you've seen the game, you cannot unsee it. Trying to ignore it will only create internal conflict and despair.
+**Choice 1: Integration**. You can take what resonates from this investigation and integrate it into your current life without major changes. This is a valid path that honors your existing commitments while allowing the insights to work on you gradually. Many people find that simply seeing the patterns creates natural shifts over time.
 
-**Choice 2: Become a Critic**. You can use this knowledge to become a more sophisticated critic of the system, pointing out its flaws and contradictions to anyone who will listen. This feels productive, but it is ultimately another form of participation in the game. Critics are still playing by the system's rules—they're just playing the role of opposition.
+**Choice 2: Become an Educator**. You can use this knowledge to help others see the patterns, sharing insights through teaching, writing, or conversation. This path serves an important function in raising collective awareness and can be deeply fulfilling for those called to it.
 
-**Choice 3: Become a World-Builder**. You can use this knowledge as the foundation for building something genuinely different. This is the path of greatest resistance, but it is also the path of greatest possibility.
+**Choice 3: Become a World-Builder**. You can use this knowledge as the foundation for building something genuinely different. This is the path of creative action, where you become part of the solution by creating alternatives that serve life.
 
 
 I began this journey as a man who chose the first path. I believed in the system. I tried to optimize it, to fix it from within. But the evidence forced me to see the truth. This book is the story of my own conversion from a system-builder to a world-builder. If a data-obsessed analyst like me can make that journey, so can you.
