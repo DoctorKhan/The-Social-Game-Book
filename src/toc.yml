@@ -8,12 +8,6 @@ structure:
   - type: introduction
     title: "The Orphaned Species Series"
     file: "00_introduction/000_introduction.md"
-
-  - type: introduction
-    title: "Quick Start Guide: Your First Steps to Conscious Living"
-    file: "00_introduction/001_quick_start_guide.md"
-
-  - type: introduction
     title: "Prologue: Addendum — The Chimera Protocol"
     file: "00_introduction/005_prologue_chimera_protocol.md"
 

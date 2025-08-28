@@ -1,11 +1,11 @@
-# Prologue: Addendum — The Chimera Protocol
+# Prologue: Addendum — The Atomization Protocol
 
 **[CLASSIFIED: EYES ONLY]**
 **Cycle 7 - Progress Assessment**
 
 The intervention is a success.
 
-By systematically hollowing the middle sphere of kinship, we have rendered the subjects dependent on the large-scale systems we control. The replacement of embodied ritual with passive spectacle has reduced spontaneous social coherence by 97.3%.
+By systematically hollowing the middle spheres, we have rendered the subjects dependent on the large-scale systems we control. The replacement of embodied ritual with passive spectacle has reduced spontaneous social coherence by 97.3%.
 
 The neoteny protocol is stable. Their innate playfulness—their most dangerous, sovereign trait—has been successfully channeled into meaningless, high-stakes games of status and consumption. They now mistake their performance in these games for their survival, and their "work" is the engine of our economy.
 

@@ -2,22 +2,9 @@
 
 ## How collective systems program individual consciousness
 
-*Compiled August 27, 2025 at 9:40 PM*
+*Compiled August 27, 2025 at 9:59 PM*
 
 ------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## The Orphaned Species Series
-
-> Learn the rules properly so that you can break them properly.
-
-1.  ***The Social Game*** — Gather the evidence
-2.  ***Manual Override*** — Learn the tools
-3.  ***The Human Experiment*** — Follow the trail
-4.  ***The Cosmic Game*** — The final revelation
-
-*See quick start guide*
 
 ------------------------------------------------------------------------
 
@@ -27,9 +14,9 @@
 
 The intervention is a success.
 
-By systematically hollowing the middle sphere of kinship, we have
-rendered the subjects dependent on the large-scale systems we control.
-The replacement of embodied ritual with passive spectacle has reduced
+By systematically hollowing the middle spheres, we have rendered the
+subjects dependent on the large-scale systems we control. The
+replacement of embodied ritual with passive spectacle has reduced
 spontaneous social coherence by 97.3%.
 
 The neoteny protocol is stable. Their innate playfulness—their most

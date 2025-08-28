@@ -1,8 +1,10 @@
 >Learn the rules properly so that you can break them properly.
 
-1. ***The Social Game*** — Gather the evidence
-2. ***Manual Override*** — Learn the tools
-3. ***The Human Experiment*** — Follow the trail
-4. ***The Cosmic Game*** — The final revelation
+This book is an invitation to play with the architecture of meaning. The journey begins by gathering evidence from the world around you, then learning the tools to navigate it, following the trail of human experience, and finally glimpsing the larger game at play.
 
-*See quick start guide*
+- ***The Social Game*** — Where the evidence is found
+- ***Manual Override*** — Where the tools are learned
+- ***The Human Experiment*** — Where the trail leads
+- ***The Cosmic Game*** — Where the final revelation unfolds
+
+If you’re ready to begin, start with the quick start guide.
