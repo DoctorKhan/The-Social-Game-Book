@@ -212,7 +212,7 @@ An individual with unmanaged internal charge (Reality Whirlpools) does not suffe
 *Example*: A parent stressed from work comes home caught in an anxiety whirlpool about deadlines. Unable to exit the whirlpool, they snap at their child over a minor issue, exporting their unresolved charge into the family system.
 
 **Step 2: From Kinship to the System**
-When a family or community cannot contain its collective charge, that energy moves outward into society. Family dysfunction feeds social dysfunction. Community desperation becomes political polarization.
+When a family or community cannot contain its collective charge, that energy moves outward into society. Kin dysfunction feeds social dysfunction. Community desperation becomes political polarization.
 
 **Step 3: From System to War and Collapse**
 When entire systems become overwhelmed with collective unresolved charge, that energy seeks expression through external war (projecting internal dysfunction onto enemies) or internal collapse (revolutions, economic crashes, social disintegration). Every civilization that destroys its Kinship sphere eventually faces this ultimate choice.

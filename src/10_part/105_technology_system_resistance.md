@@ -10,7 +10,7 @@ In the Three Spheres framework, this is the **Sphere of the System**—the outer
 
 The key insight from my investigation was recognizing that there are two fundamentally different ways to organize human activity:
 
-### The Family Protocol
+### The Kin Protocol
 
 - **Purpose**: Serving life and supporting growth
 - **Structure**: Organic, flexible, relationship-based
@@ -18,7 +18,7 @@ The key insight from my investigation was recognizing that there are two fundame
 - **Success metric**: Flourishing of individuals and the whole
 - **Examples**: Healthy families, authentic communities, traditional villages
 
-### The Engine Protocol  
+### The Machine Protocol  
 
 - **Purpose**: Maximizing efficiency and extracting value
 - **Structure**: Mechanical, rigid, role-based
@@ -26,7 +26,7 @@ The key insight from my investigation was recognizing that there are two fundame
 - **Success metric**: Growth, profit, control, scalability
 - **Examples**: Corporations, bureaucracies, industrial systems
 
-**The Crucial Understanding**: Neither protocol is inherently evil. The Engine protocol is necessary for coordinating large-scale activities. The problem arises when the Engine protocol colonizes areas of life that should operate on the Family protocol.
+**The Crucial Understanding**: Neither protocol is inherently evil. The Machine protocol is necessary for coordinating large-scale activities. The problem arises when the Machine protocol colonizes areas of life that should operate on the Kin protocol.
 
 ## The Four Technologies of System Resistance
 
@@ -38,7 +38,7 @@ Through my investigation, I discovered four essential technologies for maintaini
 
 **The Technology**: Learning to quickly identify which operating system is running in any given situation:
 
-**Family Protocol Indicators**:
+**Kin Protocol Indicators**:
 
 - Relationships matter more than roles
 - Decisions consider long-term impact on all members
@@ -46,7 +46,7 @@ Through my investigation, I discovered four essential technologies for maintaini
 - Individual growth is supported even when inconvenient
 - Success is measured by collective flourishing
 
-**Engine Protocol Indicators**:
+**Machine Protocol Indicators**:
 
 - Roles matter more than relationships  
 - Decisions optimize for measurable metrics
@@ -54,19 +54,19 @@ Through my investigation, I discovered four essential technologies for maintaini
 - Individual needs are subordinated to system needs
 - Success is measured by growth and control
 
-**Why This Matters**: When you can see which protocol is operating, you can engage appropriately without losing yourself. You can be professional in Engine contexts without becoming mechanical, and you can be authentic in Family contexts without being naive.
+**Why This Matters**: When you can see which protocol is operating, you can engage appropriately without losing yourself. You can be professional in Machine contexts without becoming mechanical, and you can be authentic in Kin contexts without being naive.
 
 ### Technology 2: Boundary Maintenance (Protecting Your Core)
 
-**The Discovery**: The crying teenager showed me what happens when people don't maintain clear boundaries between the spheres—the Engine protocol colonizes their most intimate relationships.
+**The Discovery**: The crying teenager showed me what happens when people don't maintain clear boundaries between the spheres—the Machine protocol colonizes their most intimate relationships.
 
 **The Technology**: Maintaining clear boundaries between different spheres of engagement:
 
-**Time Boundaries**: Limiting how much of your life energy goes to Engine-protocol activities. Having clear start and stop times for institutional engagement.
+**Time Boundaries**: Limiting how much of your life energy goes to Machine-protocol activities. Having clear start and stop times for institutional engagement.
 
 **Identity Boundaries**: Maintaining your authentic self while playing necessary roles. Being a good employee without becoming your job.
 
-**Relationship Boundaries**: Keeping your most important relationships operating on the Family protocol, even when you're embedded in Engine-protocol systems.
+**Relationship Boundaries**: Keeping your most important relationships operating on the Kin protocol, even when you're embedded in Machine-protocol systems.
 
 **Information Boundaries**: Consuming institutional information consciously rather than being consumed by it. Staying informed without being overwhelmed.
 

@@ -24,9 +24,9 @@ The pattern was unmistakable: **These women weren't superhuman. They had infrast
 The "traditional nuclear family" we idealize is a recent, unstable, and historically abnormal experiment. It was the result of a multi-generational project to dismantle the Alliance Sphere and isolate the Tribe.
 
 1.  **The Village Era (Pre-1800s):** In traditional societies, children were raised by an average of 10-15 adults within a tribe, which was itself part of a larger alliance of tribes. The Alliance Sphere was robust.
-2.  **The Extended Family Era (1800s-1920s):** As early empires broke down tribal structures, the extended family became the primary unit of resilience. Multiple generations living together provided a smaller, but still functional, alliance.
+2.  **The Extended Kin Era (1800s-1920s):** As early empires broke down tribal structures, the extended family became the primary unit of resilience. Multiple generations living together provided a smaller, but still functional, alliance.
 3.  **The Rise of Surrogate Alliances (The Church & The Corporation):** Institutions from the System began to mimic the functions of the Alliance Sphere. The Church offered a "holy family," and corporations offered a "company man" a career-long identity. But these were vertical structures demanding loyalty to the System, not horizontal alliances built on mutual aid.
-4.  **The Nuclear Family Experiment (1950s-Present):** This was the final blow. For the first time in history, we isolated parents with their children in separate houses, cut off from extended networks. This wasn't "traditional"; it was a radical social experiment.
+4.  **The Nuclear Kin Experiment (1950s-Present):** This was the final blow. For the first time in history, we isolated parents with their children in separate houses, cut off from extended networks. This wasn't "traditional"; it was a radical social experiment.
 
 The amnesia is now complete. We have been convinced that the most isolated, resource-intensive, and psychologically demanding form of child-rearing in human history is "natural."
 

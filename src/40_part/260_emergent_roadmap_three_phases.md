@@ -17,8 +17,8 @@ This chapter provides the practical, step-by-step sequence for implementation. I
 
 **The Philosophy**: This is not a timeline, but a description of developmental stages. A group can begin Phase 0 at any time. The phases are designed to be **emergent**—each phase creates the conditions for the next, but the specific timing and form will vary based on local conditions and opportunities.
 
-### The Bridge Economy (Transitioning from Wage Engine to Local Resilience)
-Most people are caught in the Engine: multiple jobs, high rent, little slack. Phase 0/1 must include a bridge:
+### The Bridge Economy (Transitioning from Wage Machine to Local Resilience)
+Most people are caught in the Machine: multiple jobs, high rent, little slack. Phase 0/1 must include a bridge:
 
 - Flotillas pool resources (housing, tools, food buys) to lower cash burn.
 - Launch member‑owned micro‑businesses that serve the Hub (childcare co‑ops, repair shops, meal trains).

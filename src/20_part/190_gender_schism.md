@@ -1,4 +1,4 @@
-# The Gender Schism: How the System Engineered a War Between the Sexes
+# The Gender Schism: How the System Machineered a War Between the Sexes
 
 > Principle: Biology is instinct, not destiny. Patterns discussed here are statistical and contextual, not mandates for any individual. We study foundational currents so we can navigate them consciously, not to put people in boxes. Brain plasticity and culture are powerful—but they do not erase hormonal and neurological architectures shaped by evolution. A complete understanding looks at both.
 
@@ -12,7 +12,7 @@
 #### Additional references (education and fertility trends)
 
 - Voyer, D., & Voyer, S. D. (2014). Gender differences in scholastic achievement: A meta-analysis. Psychological Bulletin, 140(4), 1174–1204. https://doi.org/10.1037/a0036620
-- United Nations, Department of Economic and Social Affairs (2022). World Fertility and Family Planning 2022. https://www.un.org/development/desa/pd/content/world-fertility-and-family-planning-2022
+- United Nations, Department of Economic and Social Affairs (2022). World Fertility and Kin Planning 2022. https://www.un.org/development/desa/pd/content/world-fertility-and-family-planning-2022
 
 
 
@@ -41,13 +41,13 @@ The internet didn't just change how we communicate. It fundamentally altered the
 
 The foundational attack was the systematic destruction of the **"Hollow Middle"**—the **Sphere of Kinship** that once served as the container for all human relationships. Without the dense web of extended family, neighborhoods, and community groups, men and women now meet as isolated, anxious individuals in a low-trust, high-stakes environment.
 
-This created the conditions for the **"Great Disintermediation" of the dating market**. The natural "middle men" of relationship formation—friends of friends, church socials, community events—were replaced by the brutal efficiency of the **Engine Protocol**. Dating apps turned potential partners into disposable products to be swiped on, optimized, and judged by superficial metrics, destroying the slow, embodied process of building trust and connection.
+This created the conditions for the **"Great Disintermediation" of the dating market**. The natural "middle men" of relationship formation—friends of friends, church socials, community events—were replaced by the brutal efficiency of the **Machine Protocol**. Dating apps turned potential partners into disposable products to be swiped on, optimized, and judged by superficial metrics, destroying the slow, embodied process of building trust and connection.
 
 **The Result**: Men and women meet in a marketplace designed for consumption, not connection.
 
 ### Front 2: The Educational Mismatch (The Sorting Mechanism)
 
-The modern education system has become a primary sorting mechanism for the **Engine Protocol**, and its design has unintentionally created a profound gender imbalance.
+The modern education system has become a primary sorting mechanism for the **Machine Protocol**, and its design has unintentionally created a profound gender imbalance.
 
 The system rewards skills like long-term focus on abstract tasks, rule-following, and verbal/written conscientiousness. As sociological data shows, these traits are, on average, more aligned with female developmental patterns. This gives girls and women a structural advantage in acquiring the **credentials** necessary for status in the System's **"False Hierarchy"**.
 
@@ -130,7 +130,7 @@ The solution is not to retreat to the past or wait for collapse. It is to consci
 
 The **Networked Ark** strategy directly addresses each of the four fronts of the war:
 
-**Rebuilding the Battlefield**: The entire strategy, starting with **Phase 0: The Flotilla Network**, is designed to consciously reconstruct the "Hollow Middle." By building high-trust, local communities, it creates the container where men and women can meet and form relationships based on the **Family Protocol**.
+**Rebuilding the Battlefield**: The entire strategy, starting with **Phase 0: The Flotilla Network**, is designed to consciously reconstruct the "Hollow Middle." By building high-trust, local communities, it creates the container where men and women can meet and form relationships based on the **Kin Protocol**.
 
 **Creating Alternative Status Hierarchies**: **Protocol 2: The Law of Two Feet (Embodied Proof-of-Work)** establishes that respect is earned through tangible, verifiable contributions—building, teaching, growing, healing—not through credentials from a system that may have alienated you. This provides a legitimate way for men whose "hunter" neurology was pathologized by schools to distinguish themselves through action and competence.
 

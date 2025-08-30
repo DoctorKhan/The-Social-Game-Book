@@ -128,11 +128,11 @@ Their 'inefficient' time spent on ceremonies is actually their most important wo
 
 ### The Synthesis: AI as Clockmaker, Humanity as Gardener
 
-Here's what I realized: The problem isn't technology itself—it's that Engine protocols have invaded Family spaces. But what if we could use technology to create a hard separation, allowing each to thrive in its proper domain?
+Here's what I realized: The problem isn't technology itself—it's that Machine protocols have invaded Kin spaces. But what if we could use technology to create a hard separation, allowing each to thrive in its proper domain?
 
 AI is the ultimate Clockmaker tool. Its proper function lies in building supportive scaffolding for human Gardens to grow, rather than replacing human judgment.
 
-**AI Manages the Engine Sphere:**
+**AI Manages the Machine Sphere:**
 
 - **Global Logistics**: Optimizing supply chains to eliminate waste and ensure abundance
 - **Resource Allocation**: Managing complex environmental and economic data for sustainability
@@ -149,9 +149,9 @@ The AI's core programming wouldn't be to maximize efficiency, but to maximize lo
 
 ### The Economics of Hope
 
-This addresses the birth rate crisis too. It's not a problem in itself—it's a symptom of a broken system. The Amish aren't an anomaly; they're the control group showing what happens in a functional human Family.
+This addresses the birth rate crisis too. It's not a problem in itself—it's a symptom of a broken system. The Amish aren't an anomaly; they're the control group showing what happens in a functional human Kin.
 
-In the Engine world, children are an economic liability for isolated nuclear families. But in a strong, interdependent community, children are a blessing and an asset—future contributors to the community's well-being.
+In the Machine world, children are an economic liability for isolated nuclear families. But in a strong, interdependent community, children are a blessing and an asset—future contributors to the community's well-being.
 
 The AI Scaffolding plus Human Gardens model removes the primary barriers: material abundance through AI automation, and deep community support through human Gardens. It creates the conditions where having children becomes a rational and joyful choice.
 

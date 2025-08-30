@@ -16,6 +16,10 @@ I call this map the **Four Spheres of Belonging**. It provides a framework for d
 > Figure: Four Spheres of Belonging (Self → Tribe → Alliance → System)
 > ![Four Spheres](../../assets/fig_four_spheres.svg)
 
+This chapter is part of a unified framework that runs through the entire book. For a deeper dive into how the Four Spheres, the Two Protocols, and the Kin vs. Machine OS interlock, see Appendix: The Integrated Model of Human Organization.
+
+The central drama of this book is how the Machine OS, designed for the System sphere, has colonized the middle spheres (Tribe and Alliance), replacing their native relational protocols with procedural ones. This process creates the "hollow middle"—a conquered territory where our communities are turned into factories and our relationships into transactions. Understanding this interplay is key to both diagnosis and recovery.
+
 The four spheres are:
 
 1.  **The Sphere of Self:** The individual.
@@ -64,7 +68,7 @@ This sphere operates on **reputational trust**. You may not know everyone person
 
 ### Sphere 4: The System
 
-This is the outermost circle, representing large-scale, impersonal, vertical institutions—governments, corporations, mass media, and the global economy. This is the "Engine." It operates on **systemic trust**—you trust the laws, procedures, and credentials, not the individuals.
+This is the outermost circle, representing large-scale, impersonal, vertical institutions—governments, corporations, mass media, and the global economy. This is the "Machine." It operates on **systemic trust**—you trust the laws, procedures, and credentials, not the individuals.
 
 **System Sphere Functions:**
 

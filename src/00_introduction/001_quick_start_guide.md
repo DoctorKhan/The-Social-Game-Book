@@ -69,7 +69,7 @@ That's it. You may still choose the same action, but you will have chosen it fro
 
 ## Week 4: The Protocol Recognition
 
-**Goal**: Begin to distinguish between Engine and Family protocols in your daily life.
+**Goal**: Begin to distinguish between Machine and Kin protocols in your daily life.
 
 **Daily Practice**:
 
@@ -80,9 +80,9 @@ That's it. You may still choose the same action, but you will have chosen it fro
 
 **Investigation Questions**:
 
-- Where do you encounter the Engine Protocol most strongly?
-- Where do you still experience the Family Protocol?
-- How can you bring more Family Protocol into your daily interactions?
+- Where do you encounter the Machine Protocol most strongly?
+- Where do you still experience the Kin Protocol?
+- How can you bring more Kin Protocol into your daily interactions?
 
 ## The Daily Check-In Protocol
 
@@ -91,7 +91,7 @@ That's it. You may still choose the same action, but you will have chosen it fro
 1. **Awareness**: "How conscious do I want to be today?"
 2. **Strings**: "What might try to trigger me today, and how will I respond?"
 3. **Connection**: "How will I strengthen my real relationships today?"
-4. **Protocol**: "Where can I choose Family over Engine today?"
+4. **Protocol**: "Where can I choose Kin over Machine today?"
 
 **Each evening, reflect:**
 
@@ -108,7 +108,7 @@ That's it. You may still choose the same action, but you will have chosen it fro
 
 **When Feeling Isolated**: Use the Sphere Audit. Reach out to one person in your Tribe or Alliance sphere.
 
-**When Caught in an Engine System**: Ask: "How can I bring humanity into this interaction?"
+**When Caught in an Machine System**: Ask: "How can I bring humanity into this interaction?"
 
 ## What to Expect
 
@@ -118,7 +118,7 @@ That's it. You may still choose the same action, but you will have chosen it fro
 
 **Week 3**: You may realize how isolated you've become. This recognition is the beginning of reconnection.
 
-**Week 4**: You might start seeing the Engine vs. Family distinction everywhere. This is your awakening to the social game.
+**Week 4**: You might start seeing the Machine vs. Kin distinction everywhere. This is your awakening to the social game.
 
 ## The Most Important Instruction
 

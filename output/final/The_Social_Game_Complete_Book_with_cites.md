@@ -2,7 +2,7 @@
 
 ## How collective systems program individual consciousness
 
-*Compiled August 30, 2025 at 3:05 PM*
+*Compiled August 30, 2025 at 3:30 PM*
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ meaningless, high-stakes games of status and consumption. They now
 mistake their performance in these games for their survival, and their
 “work” is the engine of our economy.
 
-They are born into Families, but they function in our Engines. The
+They are born into Families, but they function in our Machines. The
 resulting cognitive dissonance produces a constant, low-grade anxiety
 that makes them pliable and predictable.
 
@@ -46,7 +46,7 @@ testament to the power of optimization.
 They tell me I’m living in the most connected time in human history, and
 the data supports it. My career is built on designing the very systems
 that make this connection possible—scalable, efficient, and predictable.
-I build Engines. And business is good.
+I build Machines. And business is good.
 
 But lately, my models have been failing.
 
@@ -222,7 +222,7 @@ dismantles this technology in the name of “efficiency.”
 
 - Community rituals are abandoned for individual productivity.
 - Spontaneous conversations are cut short by scheduled appointments.
-- Family dinners are sacrificed for career demands.
+- Kin dinners are sacrificed for career demands.
 - Neighborhood gatherings are dismissed as a “waste of time.”
 
 We have been taught to optimize our lives for individual achievement,
@@ -257,7 +257,7 @@ natural law.
 
 Then I went to Barcelona.
 
-I went for a tech conference, an Engine Protocol gathering of the
+I went for a tech conference, an Machine Protocol gathering of the
 highest order. But in the hours between sessions, I walked. And on those
 walks, my entire understanding of what a city could be—what a community
 could be—was shattered.
@@ -291,8 +291,8 @@ cheese, and the owner, seeing my interest, insisted I try a sliver of
 aged Manchego. He then poured me a tiny glass of red wine from an open
 bottle he was sharing with a friend. This wasn’t an upsell; it was a
 welcome. It was a human transaction embedded in a relationship, however
-fleeting. It was the Family Protocol operating as the default setting
-for commerce.
+fleeting. It was the Kin Protocol operating as the default setting for
+commerce.
 
 The most jarring piece of data came at 2:00 PM. The city exhaled. The
 metal grates of the shops came down, and the streets emptied. This
@@ -313,8 +313,8 @@ woven daily.
 
 The contrast clarified the American tragedy. We hadn’t just lost our
 general stores; we had bulldozed the entire ecosystem that made them
-possible. We had optimized our world for the Engine, and in doing so, we
-had engineered away the possibility of the casual, serendipitous
+possible. We had optimized our world for the Machine, and in doing so,
+we had engineered away the possibility of the casual, serendipitous
 encounters that build the Alliance Sphere.
 
 - In America, you need a car to get anywhere, isolating you in a private
@@ -599,7 +599,7 @@ oldest intelligence—was treated like contraband.
 When one child stared out the window, the teacher pulled the blinds to
 eliminate the distraction. The distraction was a tree.
 
-I could feel the protocol. This was an induction into the Engine:
+I could feel the protocol. This was an induction into the Machine:
 compliant attention, scheduled obedience, measurable output. The
 curriculum didn’t just transmit facts; it installed an operating
 system—one that prepares you to be managed, measured, and monetized.
@@ -621,14 +621,14 @@ want to learn today?”
   reality.
 
 There were no bells. The day was paced by hunger, fascination, fatigue,
-and the sun. This was the Family Protocol: learning through play,
+and the sun. This was the Kin Protocol: learning through play,
 relationship, and real tasks embedded in place. The result wasn’t chaos.
 It was competence—and calm.
 
 #### What This Clue Reveals
 
 The standardized classroom is not neutral. It is a precision machine for
-training children into the Engine Protocol. It fragments attention,
+training children into the Machine Protocol. It fragments attention,
 suppresses the body, outlaws mixed‑age apprenticeship, and replaces
 curiosity with compliance. This is the Social Game’s primary induction
 agent—the place where the War on Play begins.
@@ -641,8 +641,8 @@ origin; it is the amplifier.
 
 **Aha:** Education always teaches two things: the content—and the
 protocol. If you design for bells, ranks, and rows, you train people for
-the Engine. If you design for mixed ages, real problems, and movement,
-you train people for the Family \[see: References and Sources\].
+the Machine. If you design for mixed ages, real problems, and movement,
+you train people for the Kin \[see: References and Sources\].
 
 **Try This:** Visit a local forest school, Montessori, or democratic
 school. Observe for one hour. Count: how many minutes are spent in
@@ -668,7 +668,7 @@ there were sun‑browned, strong, and irritatingly healthy.
 
 #### The Body’s Rebellion
 
-Monocrop agriculture is the Engine Protocol written on the land:
+Monocrop agriculture is the Machine Protocol written on the land:
 simplify, standardize, maximize throughput. It externalizes complexity
 to the chemical supply chain—and internalizes fragility in the human
 body.
@@ -702,8 +702,8 @@ References and Sources\].
 
 **Try This:** Visit a farmer’s market and ask three growers how they
 build soil. Then visit the nearest big‑box grocery and read the
-ingredient list on five items you buy regularly. Which protocol—Engine
-or Family—does each environment reward \[see: References and Sources\]?
+ingredient list on five items you buy regularly. Which protocol—Machine
+or Kin—does each environment reward \[see: References and Sources\]?
 
 ## Chapter 9: See You in the Flow
 
@@ -859,7 +859,7 @@ wrong for him?”
 I observed Marcus at school. In the classroom, he was a caged
 animal—restless, distracted, a bundle of vibrating energy the teacher
 was constantly trying to suppress. He was failing in the metrics of the
-Engine: sit still, focus on one abstract task, follow verbal
+Machine: sit still, focus on one abstract task, follow verbal
 instructions, delay gratification.
 
 But at recess, he was a different creature entirely. He was the first to
@@ -884,7 +884,7 @@ But Marcus was a hunter. His neurology was optimized for scanning the
 environment for threats and opportunities, for explosive bursts of
 action, and for kinesthetic, hands-on learning. The very traits that
 would have made him an invaluable scout, protector, or first responder
-in a traditional community were being pathologized in the Engine’s
+in a traditional community were being pathologized in the Machine’s
 sorting facility.
 
 We convinced the school to try an experiment. We didn’t medicate the
@@ -901,13 +901,13 @@ energy, once channeled, became a gift to the entire class.
 Marcus’s story is the story of millions of boys. The modern education
 system, in its relentless drive for standardization, has become a
 primary battlefield in the War on Play and a powerful enforcer of the
-Engine Protocol. It is a sorting mechanism that unintentionally favors
+Machine Protocol. It is a sorting mechanism that unintentionally favors
 one type of human wiring while systematically alienating another.
 
 1.  The Pathologizing of Natural Variation: The system takes a healthy,
     evolutionarily crucial archetype—the hunter/protector—and labels its
     traits a disorder (ADHD). It’s the ultimate expression of the
-    Engine’s logic: if a part doesn’t fit the machine, the part must be
+    Machine’s logic: if a part doesn’t fit the machine, the part must be
     defective.
 2.  The Systemic Mismatch: Boys’ later maturation of the prefrontal
     cortex and higher biological need for physical activity are not
@@ -969,7 +969,7 @@ you have to build it on the way.
 The modern System offered an escape from oppressive villages—but it
 replaced the trap with atomization. The Third Path isn’t a return to the
 village; it’s the conscious creation of chosen families—Flotillas—that
-combine modern freedom with the Family Protocol’s deep belonging.
+combine modern freedom with the Kin Protocol’s deep belonging.
 
 ## Chapter 13: Your Mission: Assemble Your Flotilla
 
@@ -1111,6 +1111,18 @@ desert, I could finally name the two incompatible operating systems at
 war for the soul of humanity. This was the framework that explained
 everything I had witnessed.
 
+This chapter is part of the book’s integrated model. For a full
+synthesis of how the Two Operating Systems, the Four Spheres, and the
+Two Protocols interlock, see Appendix: The Integrated Model of Human
+Organization.
+
+The central drama is not just a theoretical conflict. The Machine OS,
+designed for the System sphere, has invaded the middle spheres (Tribe
+and Alliance), replacing their native relational protocols with
+procedural ones. This colonization is the root of the “hollow middle”
+and the crisis of modernity. Our task is to diagnose this invasion and
+chart a path to recovery.
+
 As I dug deeper into the ancient patterns of social control, I
 discovered something that made me stop and examine my own life with
 horrifying clarity. I had been looking for the manipulation in
@@ -1123,7 +1135,7 @@ human life. And we’re all caught between them.
 
 The schism between consciousness development and control systems had
 become the blueprint for the two ways humanity organizes itself: as an
-Engine, and as a Family.
+Machine, and as a Kin.
 
 Every day we wake up and choose between two incompatible operating
 systems. And most of the time, we don’t even know we’re choosing.
@@ -1159,10 +1171,10 @@ humanity.
 As I analyzed these patterns, I created a framework to understand how
 they operate:
 
-> Figure: Engine vs Family Protocol (side-by-side table) ![Engine vs
-> Family](../../assets/fig_engine_vs_family_table.svg)
+> Figure: Machine vs Kin Protocol (side-by-side table) ![Machine vs
+> Kin](../../assets/fig_engine_vs_family_table.svg)
 
-| Attribute | The Engine Protocol | The Family Protocol |
+| Attribute | The Machine Protocol | The Kin Protocol |
 |:---|:---|:---|
 | **Core Unit** | **The Part.** An interchangeable component. | **The Member.** A unique, irreplaceable being. |
 | **Primary Purpose** | **Output & Efficiency.** Produce predictable results. | **Nurturing & Growth.** Well-being of all members. |
@@ -1176,13 +1188,13 @@ they operate:
 These protocols are not just abstract systems; they create distinct
 cultures of aspiration.
 
-The **Engine Protocol** fosters a culture of **aspirational luxury**,
+The **Machine Protocol** fosters a culture of **aspirational luxury**,
 where status is signaled through unsustainable consumption—the rented
 private jet selfie, the designer clothing haul, the curated online
 performance of wealth. It is a high-stakes, meaningless game designed to
 extract our attention and resources.
 
-The **Family Protocol** fosters a culture of **aspirational thrift**. It
+The **Kin Protocol** fosters a culture of **aspirational thrift**. It
 celebrates what the transcript calls “low culture”—the wholesome,
 achievable joys of the shared backyard barbecue, the community workshop,
 the local diner. In this culture, value is demonstrated through skill,
@@ -1191,15 +1203,15 @@ knowing how to fix a car or cook a meal for twenty people earns more
 status than owning an expensive watch.
 
 Aha: We don’t just “act wrong”—we run one of two social OS defaults. The
-“Engine” optimizes throughput; the “Family” optimizes belonging. Mixed
+“Machine” optimizes throughput; the “Kin” optimizes belonging. Mixed
 contexts cause phantom conflict.
 
 Try this (90 sec): In today’s meeting or dinner, name (quietly):
-“Engine-context” or “Family-context.” Watch how mismatched expectations
+“Machine-context” or “Kin-context.” Watch how mismatched expectations
 create friction. Ask: “What is this moment actually optimizing for?”
 
-Guardrail: Family ≠ no standards. Engine ≠ no care. Mismatch causes
-harm; alignment increases both outcomes and trust.
+Guardrail: Kin ≠ no standards. Machine ≠ no care. Mismatch causes harm;
+alignment increases both outcomes and trust.
 
 ### The Forgotten Sophistication: What We Lost
 
@@ -1213,7 +1225,7 @@ not passive subjects of evolutionary forces but **active political
 actors who consciously experimented with sophisticated governance
 systems**.
 
-**The Lost Arts of Family Governance:**
+**The Lost Arts of Kin Governance:**
 
 **1. Seasonal Dual Governance** Many ancient societies practiced
 “dual-morphology”—deliberately alternating between different political
@@ -1250,21 +1262,21 @@ balance and community healing, not political control. Their influence
 was typically limited to the spiritual realm, preventing the
 concentration of secular power.
 
-**The Key Insight**: Ancient Family governance was characterized by
+**The Key Insight**: Ancient Kin governance was characterized by
 **flexibility, diversity, and deep suspicion of permanent coercive
 power**. Our ancestors showed us that there have always been many
 different ways to be human and organize society.
 
-### The Great Takeover: Installing the Engine
+### The Great Takeover: Installing the Machine
 
-The original human tribe was a Family—not a chaotic, primitive system,
-but a sophisticated network of conscious political experimentation based
-on kinship, consensus, and active resistance to tyranny.
+The original human tribe was a Kin—not a chaotic, primitive system, but
+a sophisticated network of conscious political experimentation based on
+kinship, consensus, and active resistance to tyranny.
 
 The takeover was the moment the Clockmaker seized control of these
 elegant systems. They looked upon the diverse, experimental family of
 humanity and saw only inefficiency that needed to be standardized. Their
-solution was to dismantle these sophisticated Family systems and rebuild
+solution was to dismantle these sophisticated Kin systems and rebuild
 them as uniform engines.
 
 **The Transformation Process:**
@@ -1276,16 +1288,16 @@ them as uniform engines.
 
 This is why modern life feels schizophrenic. We are born into Families,
 our hearts running on the ancient software of unconditional love and
-intrinsic value. Then we are sent to work in Engines, where we must
+intrinsic value. Then we are sent to work in Machines, where we must
 operate as interchangeable parts valued only for our output.
 
 ### The Human Condition: A Cog That Yearns to Be Held
 
 The soul-crushing feeling of the modern workplace, the deep sense of
 alienation and meaninglessness that haunts our civilization—it’s the cry
-of a Family member being forced to pretend it is a Cog.
+of a Kin member being forced to pretend it is a Cog.
 
-We work in Engines but go home and try to build Families. We are judged
+We work in Machines but go home and try to build Families. We are judged
 by our function from 9 to 5, but long to be valued for our being in the
 evenings and on weekends. This constant code-switching between two
 incompatible operating systems is the primary source of stress, anxiety,
@@ -1293,7 +1305,7 @@ and exhaustion in modern life.
 
 ### The Legend of the Iron King
 
-Here’s a mythological story that captures the Engine protocol in its
+Here’s a mythological story that captures the Machine protocol in its
 purest form:
 
 Into the chaos after the sky wept fire came a being of terrible purpose.
@@ -1309,22 +1321,22 @@ Purpose.”
 He did not offer healing; he offered function.
 
 From the mountains, he drew iron. From fire, he forged gears. And from
-humanity, he built his great Engine. Each person received a single,
+humanity, he built his great Machine. Each person received a single,
 perfect task. They were no longer farmers, poets, or lovers. They were
 cogs, levers, and pistons.
 
 One day, a child approached the Iron King, holding a wildflower that had
 pushed through the city’s iron floor.
 
-“Your Majesty,” she whispered, “is your Engine not sad? It has no room
+“Your Majesty,” she whispered, “is your Machine not sad? It has no room
 for this.”
 
 The Iron King looked at the flower. It was illogical, inefficient,
 serving no function. With surgical precision, he plucked it from her
 hand and dropped it into a furnace.
 
-“The Engine is not sad,” he said. “The Engine is correct. Now return to
-your function.”
+“The Machine is not sad,” he said. “The Machine is correct. Now return
+to your function.”
 
 ### The Whispers of the Forest Queen
 
@@ -1361,7 +1373,7 @@ that could play the song of the wind that had broken it.
 I began to see how these two protocols manifested in contemporary
 institutions:
 
-**Engine Institutions:**
+**Machine Institutions:**
 
 - **Corporations**: Employees as “human resources” to be optimized or
   discarded
@@ -1370,16 +1382,16 @@ institutions:
 - **Modern Healthcare**: Bodies treated as machines to be repaired
 - **Government Bureaucracy**: Citizens as data points to be processed
 
-**Family Institutions (Under Siege):**
+**Kin Institutions (Under Siege):**
 
-- **Traditional Families**: Operating on Family protocol but under
-  Engine pressure
+- **Traditional Families**: Operating on Kin protocol but under Machine
+  pressure
 - **Indigenous Communities**: Maintaining consensus-based, care-focused
   systems
 - **Religious Communities**: At their best, offering unconditional
   acceptance
 - **Small Cooperatives**: Starting as Families but pressured to become
-  Engines
+  Machines
 
 ### The Psychological Toll
 
@@ -1388,26 +1400,25 @@ incompatible operating systems. The result is an epidemic of identity
 confusion, relationship dysfunction, existential anxiety, and chronic
 stress.
 
-We are born into Families but forced to work in Engines. We learn to
+We are born into Families but forced to work in Machines. We learn to
 love unconditionally at home, then compete ruthlessly at work. We value
 being in our personal lives, then are valued only for doing in our
 professional lives.
 
 ### The Path Forward: Integration, Not Domination
 
-The solution is not to destroy all Engines and return to a purely
-Family-based world. Both protocols have their place. The Engine protocol
+The solution is not to destroy all Machines and return to a purely
+Kin-based world. Both protocols have their place. The Machine protocol
 can be effective for specific tasks—building infrastructure,
 coordinating large projects, responding to emergencies.
 
-The problem is when the Engine protocol becomes the *only* protocol,
+The problem is when the Machine protocol becomes the *only* protocol,
 when it colonizes every aspect of human life.
 
 **The Integration Path:**
 
 - **Conscious Choice**: Recognizing which protocol serves each situation
-- **Sacred Boundaries**: Protecting Family spaces from Engine
-  colonization
+- **Sacred Boundaries**: Protecting Kin spaces from Machine colonization
 - **Hybrid Models**: Creating institutions that integrate both protocols
 - **Personal Integration**: Honoring both our need to contribute and our
   need to belong
@@ -1420,12 +1431,12 @@ that have been at war for the soul of humanity.
 
 The tragedy is not that the Iron King won. The tragedy is that we have
 forgotten the Forest Queen ever existed. We live our lives in the
-Engine, judging ourselves as efficient or inefficient parts, while a
-deeper part of us aches for the messy, beautiful wisdom of the Family.
+Machine, judging ourselves as efficient or inefficient parts, while a
+deeper part of us aches for the messy, beautiful wisdom of the Kin.
 
 To be a human in the modern world is to be a cog that yearns to be held.
 
-The path forward is not to destroy the Engine. It is to infuse it with
+The path forward is not to destroy the Machine. It is to infuse it with
 the memory of the Forest Queen. It is to learn how to build living
 systems, to create functional families, and to finally heal the divided
 soul that is our shared inheritance.
@@ -1465,6 +1476,19 @@ isolated and vulnerable.
 
 > Figure: Four Spheres of Belonging (Self → Tribe → Alliance → System)
 > ![Four Spheres](../../assets/fig_four_spheres.svg)
+
+This chapter is part of a unified framework that runs through the entire
+book. For a deeper dive into how the Four Spheres, the Two Protocols,
+and the Kin vs. Machine OS interlock, see Appendix: The Integrated Model
+of Human Organization.
+
+The central drama of this book is how the Machine OS, designed for the
+System sphere, has colonized the middle spheres (Tribe and Alliance),
+replacing their native relational protocols with procedural ones. This
+process creates the “hollow middle”—a conquered territory where our
+communities are turned into factories and our relationships into
+transactions. Understanding this interplay is key to both diagnosis and
+recovery.
 
 The four spheres are:
 
@@ -1539,7 +1563,7 @@ cooperation that is still grounded in human relationships.
 
 This is the outermost circle, representing large-scale, impersonal,
 vertical institutions—governments, corporations, mass media, and the
-global economy. This is the “Engine.” It operates on **systemic
+global economy. This is the “Machine.” It operates on **systemic
 trust**—you trust the laws, procedures, and credentials, not the
 individuals.
 
@@ -1682,6 +1706,18 @@ Artifact: Two Slips
 
 We need a map of our social world—and an autopsy of how it was hollowed.
 The Four Spheres framework explains both.
+
+This chapter builds on the book’s integrated model. For a deeper
+synthesis of the Four Spheres, the Two Protocols, and the Kin
+vs. Machine OS, see Appendix: The Integrated Model of Human
+Organization.
+
+The “hollow middle” is not just an empty space—it’s a conquered
+territory. The Machine OS, designed for the System sphere, has invaded
+the Tribe and Alliance spheres, replacing their relational protocols
+with procedural ones. This colonization is the root cause of isolation,
+polarization, and manipulation in modern life. Our recovery depends on
+restoring the native protocols and boundaries of the middle spheres.
 
 ### The Four Spheres of Belonging
 
@@ -1914,7 +1950,7 @@ Keep the populace divided, and they will police themselves.
 
 ------------------------------------------------------------------------
 
-#### The Machine’s Modern Engine
+#### The Machine’s Modern Machine
 
 But the historical blueprint felt incomplete. Machiavelli’s prince had
 to contend with people bound by family, faith, and community. Those
@@ -2109,7 +2145,7 @@ fighting each other. The result is a perfectly balanced,
 self-perpetuating conflict that prevents any serious vertical challenge
 to the System itself.
 
-### The Automated Divide and Conquer Engine
+### The Automated Divide and Conquer Machine
 
 **The great realization:** This is a marriage of ancient strategy and
 modern technology. The ‘what’ is two thousand years old. The ‘how’ is
@@ -2225,7 +2261,7 @@ dismantle the very pillars of community I had uncovered.*
   achievement: A meta-analysis. Psychological Bulletin, 140(4),
   1174–1204. https://doi.org/10.1037/a0036620
 - United Nations, Department of Economic and Social Affairs (2022).
-  World Fertility and Family Planning 2022.
+  World Fertility and Kin Planning 2022.
   https://www.un.org/development/desa/pd/content/world-fertility-and-family-planning-2022
 
 The breakdown in relations between men and women—evidenced by plummeting
@@ -2287,7 +2323,7 @@ anxious individuals in a low-trust, high-stakes environment.
 This created the conditions for the **“Great Disintermediation” of the
 dating market**. The natural “middle men” of relationship
 formation—friends of friends, church socials, community events—were
-replaced by the brutal efficiency of the **Engine Protocol**. Dating
+replaced by the brutal efficiency of the **Machine Protocol**. Dating
 apps turned potential partners into disposable products to be swiped on,
 optimized, and judged by superficial metrics, destroying the slow,
 embodied process of building trust and connection.
@@ -2298,7 +2334,7 @@ consumption, not connection.
 #### Front 2: The Educational Mismatch (The Sorting Mechanism)
 
 The modern education system has become a primary sorting mechanism for
-the **Engine Protocol**, and its design has unintentionally created a
+the **Machine Protocol**, and its design has unintentionally created a
 profound gender imbalance.
 
 The system rewards skills like long-term focus on abstract tasks,
@@ -2463,7 +2499,7 @@ fronts of the war:
 **Phase 0: The Flotilla Network**, is designed to consciously
 reconstruct the “Hollow Middle.” By building high-trust, local
 communities, it creates the container where men and women can meet and
-form relationships based on the **Family Protocol**.
+form relationships based on the **Kin Protocol**.
 
 **Creating Alternative Status Hierarchies**: **Protocol 2: The Law of
 Two Feet (Embodied Proof-of-Work)** establishes that respect is earned
@@ -2601,8 +2637,8 @@ To understand the systematic destruction of initiation, I traced the
 story of a single lineage from the 12th-century Scottish MacLeod clan to
 the present day:
 
-**Stage 1: Extended Family Networks (12th-15th Century)** In this era,
-the clan or extended family was the foundation of social life. Economic,
+**Stage 1: Extended Kin Networks (12th-15th Century)** In this era, the
+clan or extended family was the foundation of social life. Economic,
 social, and spiritual support came from a web of kinship ties.
 Initiation into adulthood was a communal process, involving hunting
 expeditions, warrior training, and ceremonial recognition by elders.
@@ -2617,7 +2653,7 @@ rites. The new ceremonies were less about personal transformation and
 more about conformity to church authority, shifting the locus of meaning
 from the community to the institution.
 
-**Stage 3: The Corporation as Surrogate Family (18th-20th Century)**
+**Stage 3: The Corporation as Surrogate Kin (18th-20th Century)**
 Industrialization uprooted people from their ancestral homes, demanding
 geographic mobility and absolute loyalty to employers. The corporation
 became the new “clan,” offering paychecks instead of belonging. During
@@ -2631,8 +2667,8 @@ invention. The myth of the nuclear family became a tool for furthering
 social fragmentation and cementing the corporation’s role as surrogate
 family.
 
-**Stage 4: The Isolated Nuclear Family (20th Century)** The nuclear
-family was promoted as the ideal, but this unit was too small to provide
+**Stage 4: The Isolated Nuclear Kin (20th Century)** The nuclear family
+was promoted as the ideal, but this unit was too small to provide
 genuine resilience or meaningful rites of passage. Without the support
 of extended kin, families became isolated and vulnerable. The rituals
 that once marked transitions in life became shallow or disappeared,
@@ -2772,8 +2808,8 @@ something that shouldn’t have been possible.
 
 The same pattern. Over and over again. Across different continents,
 different time periods, different cultures. The systematic suppression
-of Family-based wisdom traditions wasn’t random cultural evolution—it
-was a coordinated campaign to eliminate alternatives to Engine control.
+of Kin-based wisdom traditions wasn’t random cultural evolution—it was a
+coordinated campaign to eliminate alternatives to Machine control.
 
 But who could coordinate something across thousands of years and
 multiple continents? And why?
@@ -3128,8 +3164,8 @@ their natural abilities to heal, learn, and organize themselves.
 fear programming drive them back underground?
 
 This isn’t just about individual choices. It’s about whether our species
-will reclaim the Family-based wisdom traditions and community structures
-that could free us from Engine-based control systems.
+will reclaim the Kin-based wisdom traditions and community structures
+that could free us from Machine-based control systems.
 
 The infrastructure for human wisdom and natural community was never
 destroyed—just abandoned. Which means the path back to our original
@@ -4339,8 +4375,8 @@ the family system.
 
 **Step 2: From Kinship to the System** When a family or community cannot
 contain its collective charge, that energy moves outward into society.
-Family dysfunction feeds social dysfunction. Community desperation
-becomes political polarization.
+Kin dysfunction feeds social dysfunction. Community desperation becomes
+political polarization.
 
 **Step 3: From System to War and Collapse** When entire systems become
 overwhelmed with collective unresolved charge, that energy seeks
@@ -5639,7 +5675,7 @@ extract from you rather than serve you.
 The key insight from my investigation was recognizing that there are two
 fundamentally different ways to organize human activity:
 
-#### The Family Protocol
+#### The Kin Protocol
 
 - **Purpose**: Serving life and supporting growth
 - **Structure**: Organic, flexible, relationship-based
@@ -5648,7 +5684,7 @@ fundamentally different ways to organize human activity:
 - **Examples**: Healthy families, authentic communities, traditional
   villages
 
-#### The Engine Protocol
+#### The Machine Protocol
 
 - **Purpose**: Maximizing efficiency and extracting value
 - **Structure**: Mechanical, rigid, role-based
@@ -5657,9 +5693,9 @@ fundamentally different ways to organize human activity:
 - **Examples**: Corporations, bureaucracies, industrial systems
 
 **The Crucial Understanding**: Neither protocol is inherently evil. The
-Engine protocol is necessary for coordinating large-scale activities.
-The problem arises when the Engine protocol colonizes areas of life that
-should operate on the Family protocol.
+Machine protocol is necessary for coordinating large-scale activities.
+The problem arises when the Machine protocol colonizes areas of life
+that should operate on the Kin protocol.
 
 ### The Four Technologies of System Resistance
 
@@ -5675,7 +5711,7 @@ was operating and could adapt accordingly.
 **The Technology**: Learning to quickly identify which operating system
 is running in any given situation:
 
-**Family Protocol Indicators**:
+**Kin Protocol Indicators**:
 
 - Relationships matter more than roles
 - Decisions consider long-term impact on all members
@@ -5683,7 +5719,7 @@ is running in any given situation:
 - Individual growth is supported even when inconvenient
 - Success is measured by collective flourishing
 
-**Engine Protocol Indicators**:
+**Machine Protocol Indicators**:
 
 - Roles matter more than relationships  
 - Decisions optimize for measurable metrics
@@ -5693,28 +5729,28 @@ is running in any given situation:
 
 **Why This Matters**: When you can see which protocol is operating, you
 can engage appropriately without losing yourself. You can be
-professional in Engine contexts without becoming mechanical, and you can
-be authentic in Family contexts without being naive.
+professional in Machine contexts without becoming mechanical, and you
+can be authentic in Kin contexts without being naive.
 
 #### Technology 2: Boundary Maintenance (Protecting Your Core)
 
 **The Discovery**: The crying teenager showed me what happens when
-people don’t maintain clear boundaries between the spheres—the Engine
+people don’t maintain clear boundaries between the spheres—the Machine
 protocol colonizes their most intimate relationships.
 
 **The Technology**: Maintaining clear boundaries between different
 spheres of engagement:
 
 **Time Boundaries**: Limiting how much of your life energy goes to
-Engine-protocol activities. Having clear start and stop times for
+Machine-protocol activities. Having clear start and stop times for
 institutional engagement.
 
 **Identity Boundaries**: Maintaining your authentic self while playing
 necessary roles. Being a good employee without becoming your job.
 
 **Relationship Boundaries**: Keeping your most important relationships
-operating on the Family protocol, even when you’re embedded in
-Engine-protocol systems.
+operating on the Kin protocol, even when you’re embedded in
+Machine-protocol systems.
 
 **Information Boundaries**: Consuming institutional information
 consciously rather than being consumed by it. Staying informed without
@@ -6037,7 +6073,7 @@ Ark.
 ------------------------------------------------------------------------
 
 Cliffhanger to Part 4: If the third path is real, what constitutional
-physics keep it from becoming a new Engine—and how do we implement them
+physics keep it from becoming a new Machine—and how do we implement them
 today?
 
 These protocols are not arbitrary rules—they are the distilled wisdom
@@ -6062,7 +6098,7 @@ in your group. Ask: “If we change the physics here, what behaviors
 become easy? Which become hard?” Sketch a micro-rule that nudges the
 right default.
 
-Guardrail: Protocols aren’t a new Engine. Keep them minimal, testable,
+Guardrail: Protocols aren’t a new Machine. Keep them minimal, testable,
 and revisable. If a protocol can’t adapt, it’s a policy in disguise.
 
 This chapter presents the constitutional foundation of the Networked
@@ -6323,9 +6359,9 @@ leadership, still others may use consensus processes.
 
 #### Scale-Aware Governance (Applying the Right Protocol at the Right Layer)
 
-At Flotilla scale, the Family Protocol (relational, consensus,
+At Flotilla scale, the Kin Protocol (relational, consensus,
 repair-first) is primary. At Hub and Federation scale, transparent
-Engine mechanisms (clear roles, formal rules, explicit metrics,
+Machine mechanisms (clear roles, formal rules, explicit metrics,
 auditability) are necessary to manage complexity and prevent free‑rider
 dynamics. Governance adapts to scale; humanity stays in the loop at
 moments of justice and meaning.
@@ -6535,9 +6571,9 @@ are designed to be **emergent**—each phase creates the conditions for
 the next, but the specific timing and form will vary based on local
 conditions and opportunities.
 
-#### The Bridge Economy (Transitioning from Wage Engine to Local Resilience)
+#### The Bridge Economy (Transitioning from Wage Machine to Local Resilience)
 
-Most people are caught in the Engine: multiple jobs, high rent, little
+Most people are caught in the Machine: multiple jobs, high rent, little
 slack. Phase 0/1 must include a bridge:
 
 - Flotillas pool resources (housing, tools, food buys) to lower cash
@@ -6893,7 +6929,7 @@ The Principle: A vitalistic culture celebrates wholesome, achievable,
 and skill‑based values—what we call “low culture”—over the unsustainable
 pursuit of elite luxury. This is Aspirational Thrift, where status comes
 from what you can contribute, not what you can consume. It is the
-cultural expression of a healthy Family Protocol, which values being and
+cultural expression of a healthy Kin Protocol, which values being and
 creating over performing and extracting.
 
 System Integration:
@@ -7149,7 +7185,7 @@ and a question: What did they know that we had forgotten?
 
 The journey to answer that question has taken us through the hidden
 architecture of modern society. We’ve uncovered the two competing
-operating systems, the **Engine Protocol** and the **Family Protocol**,
+operating systems, the **Machine Protocol** and the **Kin Protocol**,
 and seen how one has colonized the other. We’ve witnessed the **War on
 Play**, a multi-millennial campaign to suppress our innate sovereignty
 and creativity.
@@ -8017,8 +8053,8 @@ sphere, or do they point outward to the System?
 
 **Examples**:
 
-- **Childcare**: Family/community vs. daycare/nannies
-- **Elder care**: Family/community vs. nursing homes
+- **Childcare**: Kin/community vs. daycare/nannies
+- **Elder care**: Kin/community vs. nursing homes
 - **Emotional support**: Friends/family vs. therapy/medication
 - **Learning**: Mentorship/community vs. formal education
 - **Conflict resolution**: Community mediation vs. legal system

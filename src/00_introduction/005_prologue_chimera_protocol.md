@@ -9,7 +9,7 @@ By systematically hollowing the middle spheres, we have rendered the subjects de
 
 The neoteny protocol is stable. Their innate playfulness—their most dangerous, sovereign trait—has been successfully channeled into meaningless, high-stakes games of status and consumption. They now mistake their performance in these games for their survival, and their "work" is the engine of our economy.
 
-They are born into Families, but they function in our Engines. The resulting cognitive dissonance produces a constant, low-grade anxiety that makes them pliable and predictable.
+They are born into Families, but they function in our Machines. The resulting cognitive dissonance produces a constant, low-grade anxiety that makes them pliable and predictable.
 
 They will never look for the architects. They are too busy fighting each other. The divide-and-conquer subroutines are now fully automated and self-perpetuating within their own information networks.
 

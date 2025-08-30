@@ -1,4 +1,4 @@
-# The Scientific Learning Engine
+# The Scientific Learning Machine
 
 Cold Open — Experiment Standup
 “Safety hit two out of ten last night,” Ana says. “We end the experiment if it drops again.”

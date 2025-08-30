@@ -102,7 +102,7 @@ The next chapter will present this framework: **The Five Non-Negotiable Protocol
 
 ---
 
-Cliffhanger to Part 4: If the third path is real, what constitutional physics keep it from becoming a new Engine—and how do we implement them today?
+Cliffhanger to Part 4: If the third path is real, what constitutional physics keep it from becoming a new Machine—and how do we implement them today?
 
 These protocols are not arbitrary rules—they are the distilled wisdom from studying every successful and failed alternative community in history. They represent the minimum viable constraints needed to build a civilization that serves life rather than extracting from it.
 

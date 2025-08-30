@@ -13,7 +13,7 @@ Artifact: Contribution Wall (5 items)
 - Conflict repair circle — 30 minutes; apology, restitution, closure
 
 
-A small group built a functional “Family‑default” hub inside an Engine world. This is not a fantasy; it already works. The question is scale.
+A small group built a functional “Kin‑default” hub inside an Machine world. This is not a fantasy; it already works. The question is scale.
 
 ## Context
 

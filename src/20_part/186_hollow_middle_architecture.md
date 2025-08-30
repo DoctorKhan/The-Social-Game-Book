@@ -10,6 +10,10 @@ Artifact: Two Slips
 
 We need a map of our social world—and an autopsy of how it was hollowed. The Four Spheres framework explains both.
 
+This chapter builds on the book's integrated model. For a deeper synthesis of the Four Spheres, the Two Protocols, and the Kin vs. Machine OS, see Appendix: The Integrated Model of Human Organization.
+
+The "hollow middle" is not just an empty space—it's a conquered territory. The Machine OS, designed for the System sphere, has invaded the Tribe and Alliance spheres, replacing their relational protocols with procedural ones. This colonization is the root cause of isolation, polarization, and manipulation in modern life. Our recovery depends on restoring the native protocols and boundaries of the middle spheres.
+
 ## The Four Spheres of Belonging
 
 > Figure: Four Spheres of Belonging (Self → Tribe → Alliance → System)

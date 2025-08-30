@@ -21,7 +21,7 @@ A healthy Tribe can often absorb and co-regulate this charge. But when the Tribe
 
 #### Step 2: From Tribe to Alliance (or directly to System)
 
-When a community or family unit (Sphere 2: Tribe) cannot contain its collective charge, that energy moves outward. Family feuds escalate. A community's economic desperation, if not resolved through mutual aid, can be harnessed by political actors, turning into social unrest, crime, or political polarization (scapegoating).
+When a community or family unit (Sphere 2: Tribe) cannot contain its collective charge, that energy moves outward. Kin feuds escalate. A community's economic desperation, if not resolved through mutual aid, can be harnessed by political actors, turning into social unrest, crime, or political polarization (scapegoating).
 
 In a healthy society with a strong Alliance Sphere, this is where inter-tribal conflicts would be mediated. But in our world with its hollow middle, this energy flows directly to the System.
 

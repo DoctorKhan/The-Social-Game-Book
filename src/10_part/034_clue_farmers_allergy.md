@@ -8,7 +8,7 @@ Across the county line, a regenerative farm looked unkempt by comparison: hedger
 
 ### The Body’s Rebellion
 
-Monocrop agriculture is the Engine Protocol written on the land: simplify, standardize, maximize throughput. It externalizes complexity to the chemical supply chain—and internalizes fragility in the human body.
+Monocrop agriculture is the Machine Protocol written on the land: simplify, standardize, maximize throughput. It externalizes complexity to the chemical supply chain—and internalizes fragility in the human body.
 
 - Broad‑spectrum herbicides reduce plant diversity; gut microbiomes mirror the loss.
 - Pesticides suppress insect life; immune systems lose practice and misfire.
@@ -25,5 +25,5 @@ The irony cut deep: the man who grew more food than anyone I knew could not safe
 ***
 **Aha:** “We are a healthy people living in a broken system” is not metaphor. The body itself rejects what monocrop logic produces. Health is not a commodity; it is an emergent property of living systems [see: References and Sources].
 
-**Try This:** Visit a farmer’s market and ask three growers how they build soil. Then visit the nearest big‑box grocery and read the ingredient list on five items you buy regularly. Which protocol—Engine or Family—does each environment reward [see: References and Sources]?
+**Try This:** Visit a farmer’s market and ask three growers how they build soil. Then visit the nearest big‑box grocery and read the ingredient list on five items you buy regularly. Which protocol—Machine or Kin—does each environment reward [see: References and Sources]?
 

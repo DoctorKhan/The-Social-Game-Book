@@ -8,7 +8,7 @@ Aha: Protocols are physics, not policies. They shape incentives so the right beh
 
 Try this (2 min): Pick one protocol and apply it to a recurring friction in your group. Ask: “If we change the physics here, what behaviors become easy? Which become hard?” Sketch a micro-rule that nudges the right default.
 
-Guardrail: Protocols aren’t a new Engine. Keep them minimal, testable, and revisable. If a protocol can’t adapt, it’s a policy in disguise.
+Guardrail: Protocols aren’t a new Machine. Keep them minimal, testable, and revisable. If a protocol can’t adapt, it’s a policy in disguise.
 
 This chapter presents the constitutional foundation of the Networked Ark—five protocols that any community, hub, or network node must adopt to be part of this larger civilizational alternative. These are not arbitrary rules but the distilled wisdom from studying every successful and failed alternative community in history.
 
@@ -131,7 +131,7 @@ This discovery revealed that **community-calibrated consent** must be the founda
 
 
 ### Scale-Aware Governance (Applying the Right Protocol at the Right Layer)
-At Flotilla scale, the Family Protocol (relational, consensus, repair-first) is primary. At Hub and Federation scale, transparent Engine mechanisms (clear roles, formal rules, explicit metrics, auditability) are necessary to manage complexity and prevent free‑rider dynamics. Governance adapts to scale; humanity stays in the loop at moments of justice and meaning.
+At Flotilla scale, the Kin Protocol (relational, consensus, repair-first) is primary. At Hub and Federation scale, transparent Machine mechanisms (clear roles, formal rules, explicit metrics, auditability) are necessary to manage complexity and prevent free‑rider dynamics. Governance adapts to scale; humanity stays in the loop at moments of justice and meaning.
 
 **The Result**: Governance that combines human wisdom with technological efficiency, preventing both the chaos of pure democracy and the tyranny of algorithmic rule.
 

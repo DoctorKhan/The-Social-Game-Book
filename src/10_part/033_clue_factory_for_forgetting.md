@@ -15,7 +15,7 @@ The bell fractured the morning like a fire alarm. Children filed into rows as if
 
 When one child stared out the window, the teacher pulled the blinds to eliminate the distraction. The distraction was a tree.
 
-I could feel the protocol. This was an induction into the Engine: compliant attention, scheduled obedience, measurable output. The curriculum didn’t just transmit facts; it installed an operating system—one that prepares you to be managed, measured, and monetized.
+I could feel the protocol. This was an induction into the Machine: compliant attention, scheduled obedience, measurable output. The curriculum didn’t just transmit facts; it installed an operating system—one that prepares you to be managed, measured, and monetized.
 
 ### The Alternative Model
 
@@ -26,16 +26,16 @@ The second classroom had no rows because it had no room. It was a clearing under
 - A conflict over a shovel convened a democratic circle; they surfaced feelings, made agreements, and returned to play.
 - Movement was constant. Attention wasn’t forced; it was courted by reality.
 
-There were no bells. The day was paced by hunger, fascination, fatigue, and the sun. This was the Family Protocol: learning through play, relationship, and real tasks embedded in place. The result wasn’t chaos. It was competence—and calm.
+There were no bells. The day was paced by hunger, fascination, fatigue, and the sun. This was the Kin Protocol: learning through play, relationship, and real tasks embedded in place. The result wasn’t chaos. It was competence—and calm.
 
 ### What This Clue Reveals
 
-The standardized classroom is not neutral. It is a precision machine for training children into the Engine Protocol. It fragments attention, suppresses the body, outlaws mixed‑age apprenticeship, and replaces curiosity with compliance. This is the Social Game’s primary induction agent—the place where the War on Play begins.
+The standardized classroom is not neutral. It is a precision machine for training children into the Machine Protocol. It fragments attention, suppresses the body, outlaws mixed‑age apprenticeship, and replaces curiosity with compliance. This is the Social Game’s primary induction agent—the place where the War on Play begins.
 
 This is why the teenager in Palo Alto cries. By the time we meet her, her nervous system has been in training for a decade. The app is not the origin; it is the amplifier.
 
 ***
-**Aha:** Education always teaches two things: the content—and the protocol. If you design for bells, ranks, and rows, you train people for the Engine. If you design for mixed ages, real problems, and movement, you train people for the Family [see: References and Sources].
+**Aha:** Education always teaches two things: the content—and the protocol. If you design for bells, ranks, and rows, you train people for the Machine. If you design for mixed ages, real problems, and movement, you train people for the Kin [see: References and Sources].
 
 **Try This:** Visit a local forest school, Montessori, or democratic school. Observe for one hour. Count: how many minutes are spent in movement, collaboration, and self‑directed work? Then observe a standard classroom (with permission). Count the same. What do the numbers teach you about the protocol being installed [see: References and Sources]?
 

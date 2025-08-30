@@ -52,16 +52,16 @@ In other cases, previous knowledge is lost not just through inertia, but through
 To understand the systematic destruction of initiation, I traced the story of a single lineage from the 12th-century Scottish MacLeod clan to the present day:
 
 
-**Stage 1: Extended Family Networks (12th-15th Century)**
+**Stage 1: Extended Kin Networks (12th-15th Century)**
 In this era, the clan or extended family was the foundation of social life. Economic, social, and spiritual support came from a web of kinship ties. Initiation into adulthood was a communal process, involving hunting expeditions, warrior training, and ceremonial recognition by elders. These rites created a sense of belonging and resilience, with wisdom and resources circulating freely among family members.
 
 **Stage 2: The Catholic Church's Intervention (15th-17th Century)**
 The Church intervened to reshape family structures, outlawing cousin marriages and promoting celibacy among clergy. This weakened kinship bonds and replaced clan-based initiation with institutional religious rites. The new ceremonies were less about personal transformation and more about conformity to church authority, shifting the locus of meaning from the community to the institution.
 
-**Stage 3: The Corporation as Surrogate Family (18th-20th Century)**
+**Stage 3: The Corporation as Surrogate Kin (18th-20th Century)**
 Industrialization uprooted people from their ancestral homes, demanding geographic mobility and absolute loyalty to employers. The corporation became the new "clan," offering paychecks instead of belonging. During this period, propaganda began to reshape collective memory. Norman Rockwell’s paintings, for example, glorified the nuclear family as the American ideal, erasing the reality of extended kinship networks and communal support that had been traditional for centuries. These images didn’t just reflect social change—they actively promoted atomization, making people nostalgic for a family structure that was itself a recent invention. The myth of the nuclear family became a tool for furthering social fragmentation and cementing the corporation’s role as surrogate family.
 
-**Stage 4: The Isolated Nuclear Family (20th Century)**
+**Stage 4: The Isolated Nuclear Kin (20th Century)**
 The nuclear family was promoted as the ideal, but this unit was too small to provide genuine resilience or meaningful rites of passage. Without the support of extended kin, families became isolated and vulnerable. The rituals that once marked transitions in life became shallow or disappeared, leaving individuals without a clear path to adulthood or community belonging.
 
 **Stage 5: The Atomized Digital Individual (21st Century)**
@@ -110,7 +110,7 @@ Perhaps most devastatingly, our capacity for playful sovereignty—the ability t
 
 As I traced these patterns deeper into history, I discovered something that made my blood run cold. I was sitting in the British Library at 2 AM, surrounded by stacks of archaeological reports, when I noticed something that shouldn't have been possible.
 
-The same pattern. Over and over again. Across different continents, different time periods, different cultures. The systematic suppression of Family-based wisdom traditions wasn't random cultural evolution—it was a coordinated campaign to eliminate alternatives to Engine control.
+The same pattern. Over and over again. Across different continents, different time periods, different cultures. The systematic suppression of Kin-based wisdom traditions wasn't random cultural evolution—it was a coordinated campaign to eliminate alternatives to Machine control.
 
 But who could coordinate something across thousands of years and multiple continents? And why?
 
@@ -312,7 +312,7 @@ We're living through the end of a multi-thousand-year suppression campaign. Both
 
 **The question is:** Will we embrace these alternatives, or will the fear programming drive them back underground?
 
-This isn't just about individual choices. It's about whether our species will reclaim the Family-based wisdom traditions and community structures that could free us from Engine-based control systems.
+This isn't just about individual choices. It's about whether our species will reclaim the Kin-based wisdom traditions and community structures that could free us from Machine-based control systems.
 
 The infrastructure for human wisdom and natural community was never destroyed—just abandoned. Which means the path back to our original potential is still available.
 

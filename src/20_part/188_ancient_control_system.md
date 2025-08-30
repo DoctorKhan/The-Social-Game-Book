@@ -29,7 +29,7 @@ It wasn't a conspiracy hatched in a smoky room. It was more like a principle of 
 
 ---
 
-### The Machine's Modern Engine
+### The Machine's Modern Machine
 
 But the historical blueprint felt incomplete. Machiavelli’s prince had to contend with people bound by family, faith, and community. Those bonds were a natural defense. The ghost in our modern machine, I realized, was far more sophisticated. It didn't just exploit divisions; it actively dissolved the bonds that might resist it.
 
@@ -128,7 +128,7 @@ This is the Elite Calculation in its most elegant and devastating modern form. T
 The progressive narrative can frame female struggle as a direct result of patriarchy and toxic masculinity. The reactionary narrative can frame male struggle as a direct result of feminism and female empowerment. Both narratives achieve the same strategic goal: they point the finger horizontally, ensuring that the two groups with the most to gain from cooperating against a failing economic system exhaust their energy fighting each other. The result is a perfectly balanced, self-perpetuating conflict that prevents any serious vertical challenge to the System itself.
 
 
-## The Automated Divide and Conquer Engine
+## The Automated Divide and Conquer Machine
 
 **The great realization:** This is a marriage of ancient strategy and modern technology. The 'what' is two thousand years old. The 'how' is brand new. The result is a perfectly automated engine of division that channels legitimate grievances into conflicts that don't threaten the power structure.
 

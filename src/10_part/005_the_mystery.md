@@ -2,7 +2,7 @@
 
 The notification pings at 2:47 AM. A build has completed. I check the logs from my phone before my feet hit the floor, muscle memory serving the part of my brain that never sleeps. The system is clean. Another efficiency gained. Another elegant solution deployed. My life is a testament to the power of optimization.
 
-They tell me I'm living in the most connected time in human history, and the data supports it. My career is built on designing the very systems that make this connection possible—scalable, efficient, and predictable. I build Engines. And business is good.
+They tell me I'm living in the most connected time in human history, and the data supports it. My career is built on designing the very systems that make this connection possible—scalable, efficient, and predictable. I build Machines. And business is good.
 
 But lately, my models have been failing.
 

@@ -161,8 +161,8 @@ For each essential life function, ask:
 
 **Examples**:
 
-- **Childcare**: Family/community vs. daycare/nannies
-- **Elder care**: Family/community vs. nursing homes
+- **Childcare**: Kin/community vs. daycare/nannies
+- **Elder care**: Kin/community vs. nursing homes
 - **Emotional support**: Friends/family vs. therapy/medication
 - **Learning**: Mentorship/community vs. formal education
 - **Conflict resolution**: Community mediation vs. legal system

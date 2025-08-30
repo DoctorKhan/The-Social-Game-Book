@@ -63,7 +63,7 @@ The system hijacks the male appetite for risk and channels it into these non-pro
 This is where **Protocol 2: The Law of Two Feet (Embodied Proof-of-Work)** becomes so critical. Imagine if Alex could channel his intelligence and drive into a community project: designing and building a solar power system for the hub, or organizing a long-distance pilgrimage route. The stakes are real—the community needs power, the journey is physically demanding. The risk is authentic, and the reward—increased community resilience and personal status earned through tangible contribution—is real and lasting. It honors the drive for high-stakes action but grounds it in productive reality.
 
 
-#### **Case Study: The Engineering of the Gambling Trap**
+#### **Case Study: The Machineering of the Gambling Trap**
 
 Perhaps no modern phenomenon illustrates the hijacking of the male risk-taking drive more clearly than the explosion of online sports betting. This is not a simple vice; it is a technology of extraction precision-engineered to exploit a known set of vulnerabilities. Richard Reeves identifies this as a "perfect storm" hitting young men, resulting from a combination of factors:
 

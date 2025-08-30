@@ -117,7 +117,7 @@ The Networked Ark is not a destination—it is a way of traveling together throu
 
 We began this investigation with a simple observation of birds in a sky, and a question: What did they know that we had forgotten?
 
-The journey to answer that question has taken us through the hidden architecture of modern society. We've uncovered the two competing operating systems, the **Engine Protocol** and the **Family Protocol**, and seen how one has colonized the other. We've witnessed the **War on Play**, a multi-millennial campaign to suppress our innate sovereignty and creativity.
+The journey to answer that question has taken us through the hidden architecture of modern society. We've uncovered the two competing operating systems, the **Machine Protocol** and the **Kin Protocol**, and seen how one has colonized the other. We've witnessed the **War on Play**, a multi-millennial campaign to suppress our innate sovereignty and creativity.
 
 The diagnosis is complete. We can see the game board, the players, and the rules. But all of these symptoms point to a single, strategic wound at the heart of our civilization.
 

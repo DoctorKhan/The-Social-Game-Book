@@ -25,4 +25,4 @@ Initial dimensions (to refine with data):
 - Belonging, Reciprocity, Conflict Repair, Contribution Velocity
 - Asset Productivity, Mentorship Density, Governance Participation
 
-Note: This chapter introduces the concept; implementation details and experimental methods appear in the Scientific Learning Engine chapter.
+Note: This chapter introduces the concept; implementation details and experimental methods appear in the Scientific Learning Machine chapter.

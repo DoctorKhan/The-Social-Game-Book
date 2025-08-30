@@ -1,4 +1,4 @@
-# The Vitality Engine: A Cultural Blueprint for Growth and Resilience
+# The Vitality Machine: A Cultural Blueprint for Growth and Resilience
 
 Why do some communities, organizations, and even entire eras explode with energy, creativity, and growth, while others stagnate and decline? The answer isn't just in economic plans or organizational charts; it's in the cultural operating system they run on. Widespread depression, loneliness, and collapsing fertility rates are not isolated problems; they are symptoms of a culture running on obsolete software.
 
@@ -44,7 +44,7 @@ System Integration:
 
 ### Pillar 4: Aspirational Thrift (The "Low Culture" Advantage)
 
-The Principle: A vitalistic culture celebrates wholesome, achievable, and skill‑based values—what we call "low culture"—over the unsustainable pursuit of elite luxury. This is Aspirational Thrift, where status comes from what you can contribute, not what you can consume. It is the cultural expression of a healthy Family Protocol, which values being and creating over performing and extracting.
+The Principle: A vitalistic culture celebrates wholesome, achievable, and skill‑based values—what we call "low culture"—over the unsustainable pursuit of elite luxury. This is Aspirational Thrift, where status comes from what you can contribute, not what you can consume. It is the cultural expression of a healthy Kin Protocol, which values being and creating over performing and extracting.
 
 System Integration:
 

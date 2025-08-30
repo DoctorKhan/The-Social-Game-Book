@@ -40,7 +40,7 @@ Returning to the West was a shock. I saw how our culture systematically dismantl
 
 *   Community rituals are abandoned for individual productivity.
 *   Spontaneous conversations are cut short by scheduled appointments.
-*   Family dinners are sacrificed for career demands.
+*   Kin dinners are sacrificed for career demands.
 *   Neighborhood gatherings are dismissed as a "waste of time."
 
 We have been taught to optimize our lives for individual achievement, but in doing so, we have destroyed the very social fabric that gives our lives meaning and resilience. We have become the most efficient lonely people in the history of the world.

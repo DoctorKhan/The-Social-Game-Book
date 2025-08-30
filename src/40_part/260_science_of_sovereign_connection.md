@@ -89,7 +89,7 @@ This creates a coherent and resilient culture that scales naturally, without nee
 
 **Example: Fractal Decision-Making**
 
-- **Family Level**: Consensus-based decisions about household matters, with age-appropriate participation from children
+- **Kin Level**: Consensus-based decisions about household matters, with age-appropriate participation from children
 - **Neighborhood Level**: Council meetings using the same consensus process to address local issues
 - **Regional Level**: Federation of neighborhood representatives using the same decision-making principles for larger-scale coordination
 - **Bioregional Level**: Coordination between regions using the same values-based approach for ecosystem management

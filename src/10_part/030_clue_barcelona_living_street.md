@@ -4,7 +4,7 @@ My models had shown me the data of disconnection, but I had come to believe, unc
 
 Then I went to Barcelona.
 
-I went for a tech conference, an Engine Protocol gathering of the highest order. But in the hours between sessions, I walked. And on those walks, my entire understanding of what a city could be—what a community could be—was shattered.
+I went for a tech conference, an Machine Protocol gathering of the highest order. But in the hours between sessions, I walked. And on those walks, my entire understanding of what a city could be—what a community could be—was shattered.
 
 My American brain, trained on spreadsheets and scalability, screamed "inefficiency." There were no vast parking lots. No six-lane arterial roads designed to move cars at maximum speed. No sprawling strip malls. Instead, the city was a dense, human-scaled tapestry of life.
 
@@ -15,7 +15,7 @@ In the small green parks that punctuated the blocks, the full spectrum of life w
 Around Gaudí’s masterpieces, benches curled like taffy and mosaics glittered like candy. It felt like Candyland at civic scale—a city telling its children and elders alike: play is allowed here. Gaudí didn’t optimize throughput; he optimized wonder. And wonder, I realized, is a precondition for trust—and trust is how the Alliance Sphere breathes.
 
 
-The economic life felt different, too. I walked into a small shop to buy cheese, and the owner, seeing my interest, insisted I try a sliver of aged Manchego. He then poured me a tiny glass of red wine from an open bottle he was sharing with a friend. This wasn't an upsell; it was a welcome. It was a human transaction embedded in a relationship, however fleeting. It was the Family Protocol operating as the default setting for commerce.
+The economic life felt different, too. I walked into a small shop to buy cheese, and the owner, seeing my interest, insisted I try a sliver of aged Manchego. He then poured me a tiny glass of red wine from an open bottle he was sharing with a friend. This wasn't an upsell; it was a welcome. It was a human transaction embedded in a relationship, however fleeting. It was the Kin Protocol operating as the default setting for commerce.
 
 The most jarring piece of data came at 2:00 PM. The city exhaled. The metal grates of the shops came down, and the streets emptied. This wasn't a shutdown; it was a reorientation. It was the rhythm of the island of Bali, transplanted to a major European metropolis. The entire System—the world of commerce and productivity—bent to the needs of the Tribe. It was time for lunch, for family, for rest.
 
@@ -23,7 +23,7 @@ I was walking through the living proof of what America had systematically destro
 
 Here, the infrastructure for the Alliance Sphere was baked into the physical design of the city. You didn't need to schedule a playdate or organize a community meeting because the opportunities for connection were constant and emergent. The small shops, the walkable streets, the public squares—they were the loom upon which the fabric of community was woven daily.
 
-The contrast clarified the American tragedy. We hadn't just lost our general stores; we had bulldozed the entire ecosystem that made them possible. We had optimized our world for the Engine, and in doing so, we had engineered away the possibility of the casual, serendipitous encounters that build the Alliance Sphere.
+The contrast clarified the American tragedy. We hadn't just lost our general stores; we had bulldozed the entire ecosystem that made them possible. We had optimized our world for the Machine, and in doing so, we had engineered away the possibility of the casual, serendipitous encounters that build the Alliance Sphere.
 
 - In America, you need a car to get anywhere, isolating you in a private steel box.
 - In Barcelona, your feet are your primary transport, forcing you into public space.
