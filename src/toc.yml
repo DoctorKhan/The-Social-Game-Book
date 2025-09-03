@@ -8,14 +8,12 @@ structure:
   - type: introduction
     title: "The Orphaned Species Series"
     file: "00_introduction/000_introduction.md"
-    title: "Prologue: Addendum — The Chimera Protocol"
-    file: "00_introduction/005_prologue_chimera_protocol.md"
 
   - type: part
     title: "Part I: The Awakening — Seeing the Game"
     chapters:
-      - title: "The Unseen Architect"
-        file: "10_part/005_the_mystery.md"
+      - title: "The Great Reversal"
+        file: "10_part/005_the_great_reversal.md"
       - title: "The Grackle Phenomenon"
         file: "10_part/010_opening_clue_grackles.md"
       - title: "The Calendar in Bali"
