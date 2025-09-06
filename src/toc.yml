@@ -10,10 +10,22 @@ structure:
     file: "00_introduction/000_introduction.md"
 
   - type: part
-    title: "Part I: The Awakening — Seeing the Game"
+    title: "Part I: The Premise — Our Forgotten Nature"
     chapters:
-      - title: "The Great Reversal"
-        file: "10_part/005_the_great_reversal.md"
+      - title: "Let's Pretend"
+        file: "10_part/011_lets_pretend.md"
+      - title: "The Childlike Species"
+        file: "10_part/012_the_childlike_species.md"
+      - title: "The Great Game"
+        file: "10_part/013_the_great_game.md"
+      - title: "What We Forgot"
+        file: "10_part/014_what_we_forgot.md"
+      - title: "The Game That Never Ends"
+        file: "10_part/015_the_game_that_never_ends.md"
+
+  - type: part
+    title: "Part II: The Investigation — Gathering the Clues"
+    chapters:
       - title: "The Grackle Phenomenon"
         file: "10_part/010_opening_clue_grackles.md"
       - title: "The Calendar in Bali"
