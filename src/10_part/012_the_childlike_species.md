@@ -24,4 +24,8 @@ Look at wolf pups, lion cubs, and dolphin calves—play-rehearsal is universal a
 
 When a culture suppresses play, it suppresses the very mechanism by which humans become resilient and wise. In the chapters ahead, you’ll see what happens when play is captured by systems that prefer compliance to vitality.
 
-Next: Chapter 3 — The Great Game.
+So what happened 70,000 years ago? Perhaps we developed the ability to believe in something that isn’t literal and still act as if it were true. It was the birth of “let’s pretend.”
+
+This cognitive leap allowed us to invent and share fictions. With the simple phrase “what if?” we could detach from the immediate present. The stunning cave paintings of Lascaux were not just decorations; they were virtual reality simulators, coaching manuals for the hunt. A coach uses a whiteboard to diagram a football play; our ancestors used a cave wall to diagram a bison hunt, teaching strategy and teamwork through representation.
+
+Stories became tools for survival. A narrative about a hero who eats the red berries and dies is a far more effective and memorable lesson than a simple command. The story doesn't have to be literally true to teach a deeper truth. Through shared fictions—myths, laws, gods, and nations—we learned to cooperate in massive numbers. We learned to play.
