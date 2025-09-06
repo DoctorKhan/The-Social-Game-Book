@@ -1,4 +1,4 @@
-## Chapter 1: The Spark
+# Chapter 1: The Spark
 
 For hundreds of thousands of years, our ancestors lived in a deep and dreamless stasis. They made the same teardrop-shaped hand-axe, generation after generation, a tool so stable it has been called the species' longest-running joke. They were successful survivors, but their world was static, their minds locked in the immediate present.
 

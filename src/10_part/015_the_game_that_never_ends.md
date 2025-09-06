@@ -1,8 +1,4 @@
-Excellent. This chapter serves as a powerful conclusion to the book's opening argument. Here is an improved version that elaborates on your strong ideas and integrates them into a more fluid narrative, consistent with the established style.
-
-***
-
-## Chapter 5: The Game That Never Ends
+# Chapter 5: The Game That Never Ends
 
 When a board game becomes joyless and rigged, the players can do something remarkable: they can stop. They can flip the board, scatter the pieces, and either start over with a fresh sense of fairness or choose a different game entirely. This power to reset is the very soul of play.
 

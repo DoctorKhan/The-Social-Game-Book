@@ -1,4 +1,4 @@
-## Chapter 3: The Great Game
+# Chapter 3: The Great Game
 
 ### The Technology of Make‑Believe
 
