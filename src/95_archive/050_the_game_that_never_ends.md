@@ -1,4 +1,4 @@
-# Chapter 33: The Game That Never Ends
+# Chapter 37: The Game That Never Ends
 
 When a board game becomes joyless and rigged, the players can do something remarkable: they can stop. They can flip the board, scatter the pieces, and either start over with a fresh sense of fairness or choose a different game entirely. This power to reset is the very soul of play.
 

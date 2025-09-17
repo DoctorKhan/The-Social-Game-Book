@@ -1,4 +1,4 @@
-# Chapter 57: Chapter: The Class Collapse
+# Chapter 58: Chapter: The Class Collapse
 
 ## Outline
 

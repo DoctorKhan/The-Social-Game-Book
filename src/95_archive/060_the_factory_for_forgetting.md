@@ -1,4 +1,4 @@
-# Chapter 39: Clue X: The Factory for Forgetting
+# Chapter 42: Clue X: The Factory for Forgetting
 
 I thought the War on Play was a slogan. Then I went back to school.
 

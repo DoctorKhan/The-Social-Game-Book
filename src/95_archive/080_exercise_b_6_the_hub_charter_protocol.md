@@ -1,4 +1,4 @@
-# Chapter 46: Exercise B.6: The Hub Charter Protocol - A Template for Phase 1
+# Chapter 48: Exercise B.6: The Hub Charter Protocol - A Template for Phase 1
 
 **Purpose**: This exercise provides a template that guides a group of committed Flotillas through drafting a founding charter for a potential Bioregional Hub. It makes the transition from Phase 0 (discussion) to Phase 1 (action) tangible and provides a clear, structured path forward.
 

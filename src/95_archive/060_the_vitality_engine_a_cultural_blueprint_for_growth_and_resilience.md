@@ -1,4 +1,4 @@
-# Chapter 41: The Vitality Machine: A Cultural Blueprint for Growth and Resilience
+# Chapter 43: The Vitality Machine: A Cultural Blueprint for Growth and Resilience
 
 Why do some communities, organizations, and even entire eras explode with energy, creativity, and growth, while others stagnate and decline? The answer isn't just in economic plans or organizational charts; it's in the cultural operating system they run on. Widespread depression, loneliness, and collapsing fertility rates are not isolated problems; they are symptoms of a culture running on obsolete software.
 

@@ -1,4 +1,4 @@
-# Chapter 55: The Sovereignty of the Misfit
+# Chapter 56: The Sovereignty of the Misfit
 
 Belonging used to be a GPS coordinate. Your village. Your blood. Leave, and you died. The Social Game still runs that old fear in the background and calls it virtue: stay in your assigned box, or else.
 

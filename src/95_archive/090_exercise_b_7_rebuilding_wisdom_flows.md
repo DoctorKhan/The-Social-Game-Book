@@ -1,4 +1,4 @@
-# Chapter 50: Exercise B.7: Rebuilding Wisdom Flows - Creating True Learning Hierarchies
+# Chapter 51: Exercise B.7: Rebuilding Wisdom Flows - Creating True Learning Hierarchies
 
 **Purpose**: This exercise provides a framework for distinguishing between true hierarchy (natural learning pathways) and false hierarchy (institutional control), and for creating learning communities that transmit genuine wisdom.
 

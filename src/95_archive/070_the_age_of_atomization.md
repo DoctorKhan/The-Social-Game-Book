@@ -1,4 +1,4 @@
-# Chapter 44: The Age of Atomization - How They Dismantled Human Wisdom
+# Chapter 46: The Age of Atomization - How They Dismantled Human Wisdom
 
 ## The First Clue: The Missing Masters
 

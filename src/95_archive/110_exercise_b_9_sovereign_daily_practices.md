@@ -1,4 +1,4 @@
-# Chapter 54: Exercise B.9: Sovereign Daily Practices - Living Consciously in a Programmed World
+# Chapter 55: Exercise B.9: Sovereign Daily Practices - Living Consciously in a Programmed World
 
 **Purpose**: This exercise provides practical techniques for maintaining consciousness and sovereignty while navigating systems designed to extract value and attention from you.
 

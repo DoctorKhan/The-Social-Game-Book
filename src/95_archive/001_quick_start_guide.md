@@ -1,4 +1,4 @@
-# Chapter 2: Quick Start Guide: Your First Steps to Conscious Living
+# Chapter 12: Quick Start Guide: Your First Steps to Conscious Living
 
 *"The best way to understand the social game is not just to read about it, but to start playing it consciously."*
 

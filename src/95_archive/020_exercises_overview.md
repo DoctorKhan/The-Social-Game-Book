@@ -1,4 +1,4 @@
-# Chapter 11: Your Phase 0 Toolkit: The Foundational Work of a World-Builder
+# Chapter 19: Your Phase 0 Toolkit: The Foundational Work of a World-Builder
 
 *This appendix contains all the practical exercises, protocols, and field manuals referenced throughout The Social Game. These exercises are designed to transform theoretical understanding into direct experience and practical skill—they are the foundational work of building a new world.*
 

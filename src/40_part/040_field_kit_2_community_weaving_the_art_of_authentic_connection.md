@@ -1,4 +1,4 @@
-# Chapter 25: Technology 2: Community Weaving - The Art of Authentic Connection
+# Chapter 9: Technology 2: Community Weaving - The Art of Authentic Connection
 
 The water discovery and the workshop clue revealed something profound: **authentic community isn't something that happens to you—it's something you actively create through specific technologies**.
 

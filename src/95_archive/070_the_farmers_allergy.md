@@ -1,4 +1,4 @@
-# Chapter 45: Clue X: The Farmer's Allergy
+# Chapter 47: Clue X: The Farmer's Allergy
 
 I used to think the Social Game was a psychological shadow. Then I met a farmer who couldn’t eat his own wheat.
 

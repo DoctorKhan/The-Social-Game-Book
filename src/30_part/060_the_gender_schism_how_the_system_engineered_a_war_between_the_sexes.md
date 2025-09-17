@@ -1,4 +1,4 @@
-# Chapter 40: The Gender Schism: How the System Machineered a War Between the Sexes
+# Chapter 5: The Gender Schism: How the System Machineered a War Between the Sexes
 
 > Principle: Biology is instinct, not destiny. Patterns discussed here are statistical and contextual, not mandates for any individual. We study foundational currents so we can navigate them consciously, not to put people in boxes. Brain plasticity and culture are powerful—but they do not erase hormonal and neurological architectures shaped by evolution. A complete understanding looks at both.
 

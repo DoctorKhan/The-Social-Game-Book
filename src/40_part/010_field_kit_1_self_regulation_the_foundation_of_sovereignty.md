@@ -1,4 +1,4 @@
-# Chapter 4: Technology 1: Self-Regulation - The Foundation of Sovereignty
+# Chapter 8: Technology 1: Self-Regulation - The Foundation of Sovereignty
 
 The grackles, the Balinese calendar, and the desert festival all revealed the same truth: **human social intelligence works beautifully in the absence of systematic disruption**.
 

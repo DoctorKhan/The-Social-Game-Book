@@ -1,4 +1,4 @@
-# Chapter 27: The Emergent Roadmap: A Three-Phase Guide to Building the Ark
+# Chapter 31: The Emergent Roadmap: A Three-Phase Guide to Building the Ark
 
 Cold Open — First Keys
 We turned the lock on a battered door. Paint dust fell like confetti. “This is ours?” someone whispered. We laughed like kids. Then we swept.

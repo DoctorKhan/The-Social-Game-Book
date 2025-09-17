@@ -1,4 +1,4 @@
-# Chapter 35: The Litmus Tests: Laughter, Children, Crisis, Exit
+# Chapter 39: The Litmus Tests: Laughter, Children, Crisis, Exit
 
 Cold Open — After the Storm
 “Who called you?” I asked.

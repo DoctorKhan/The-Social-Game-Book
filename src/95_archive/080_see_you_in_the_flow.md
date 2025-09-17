@@ -1,5 +1,5 @@
 
-# Chapter 48: Clue 4: The Clue in the Flow
+# Chapter 50: Clue 4: The Clue in the Flow
 
 Salt on my tongue. Lava fields like spilled night. A trade wind that erased the last ten minutes of thought and made room for something older. I wasn’t chasing a vision so much as a rumor: that the island still carried a frequency you could feel in your teeth if you were quiet enough.
 

@@ -1,4 +1,4 @@
-# Chapter 13: The Childlike Species
+# Chapter 21: The Childlike Species
 
 The air in my friend’s lab smelled of dust and disinfectant. An anthropologist, she laid three photographs on the table, each skull lit from the same stark angle. 
 

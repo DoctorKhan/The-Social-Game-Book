@@ -1,4 +1,4 @@
-# Chapter 37: Exercise B.4: The Three Doors Practice
+# Chapter 41: Exercise B.4: The Three Doors Practice
 
 **Referenced in**: Chapter 9 - "The Reality Whirlpool: A First Aid Kit for Emotional Hijacking"  
 **Objective**: To develop practical skill in escaping Reality Whirlpools using the three-door method.

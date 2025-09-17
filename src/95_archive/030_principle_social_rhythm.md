@@ -1,4 +1,4 @@
-# Chapter 18: Principle 1: The Technology of Social Rhythm
+# Chapter 25: Principle 1: The Technology of Social Rhythm
 
 I was standing in a Balinese village at 5:30 AM, jet-lagged and disoriented, when I heard it—the sound that would change everything I thought I knew about human connection.
 

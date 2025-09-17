@@ -1,5 +1,5 @@
 
-# Chapter 12: Clue 2: The Calendar in Bali
+# Chapter 20: Clue 2: The Calendar in Bali
 
 
 Twice a day the island exhales. Smoke lifts from offerings on doorsteps, and the traffic’s rhythm changes like a metronome bumped a notch. Gamelan bells don’t keep time so much as braid it. I kept checking my watch, feeling a rising sense of professional anxiety. It was a logistical nightmare.

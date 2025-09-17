@@ -1,4 +1,4 @@
-# Chapter 16: The Marionette's Discovery
+# Chapter 23: The Marionette's Discovery
 
 *"To be or not to be, that is the question."*
 — William Shakespeare, *Hamlet*

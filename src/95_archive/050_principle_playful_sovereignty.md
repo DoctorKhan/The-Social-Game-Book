@@ -1,4 +1,4 @@
-# Chapter 31: Principle 2: The Sovereignty of Play
+# Chapter 35: Principle 2: The Sovereignty of Play
 
 I was watching a 45-year-old investment banker named David transform into a pirate captain, and I couldn't stop laughing.
 

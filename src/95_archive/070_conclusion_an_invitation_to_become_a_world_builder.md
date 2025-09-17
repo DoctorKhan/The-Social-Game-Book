@@ -1,4 +1,4 @@
-# Chapter 42: Conclusion: An Invitation to Become a World-Builder
+# Chapter 44: Conclusion: An Invitation to Become a World-Builder
 
 We began this journey with a simple observation: the grackles in Austin knew something we had forgotten. They moved with an effortless coordination that our species, despite all our intelligence and technology, seemed to have lost.
 

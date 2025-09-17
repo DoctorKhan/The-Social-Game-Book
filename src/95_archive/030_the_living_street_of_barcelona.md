@@ -1,4 +1,4 @@
-# Chapter 21: Clue X: The Living Street of Barcelona
+# Chapter 27: Clue X: The Living Street of Barcelona
 
 My models had shown me the data of disconnection, but I had come to believe, unconsciously, that this was the inevitable price of modern efficiency. Suburban sprawl, big-box stores, the atomized family in its car-cocoon—these felt less like choices and more like the endpoint of a natural law.
 

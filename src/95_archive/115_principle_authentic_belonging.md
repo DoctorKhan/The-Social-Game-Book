@@ -1,4 +1,4 @@
-# Chapter 56: Principle 4: Authentic Belonging
+# Chapter 57: Principle 4: Authentic Belonging
 
 The deepest lie of the Social Game is that belonging comes from conformity. It presents us with a false choice: be yourself and be alone, or suppress your true nature and be accepted. This is the foundation of its control.
 

@@ -1,4 +1,4 @@
-# Chapter 23: The Reality Whirlpool - A First Aid Kit for Emotional Hijacking
+# Chapter 29: The Reality Whirlpool - A First Aid Kit for Emotional Hijacking
 
 *"To be or not to be, that is the question."*
 — William Shakespeare, *Hamlet*

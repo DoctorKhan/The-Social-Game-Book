@@ -1,4 +1,4 @@
-# Chapter 30: Exercise B.3: Identifying Your Strings
+# Chapter 34: Exercise B.3: Identifying Your Strings
 
 **Referenced in**: Chapter 8 - "Parable of the Marionette Strings"  
 **Objective**: To move from understanding the marionette metaphor to directly observing the "strings" that influence your own consciousness. This exercise transforms the parable from an interesting story into a practical diagnostic tool.

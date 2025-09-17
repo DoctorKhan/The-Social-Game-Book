@@ -1,4 +1,4 @@
-# Chapter 32: The Ecology of Minds
+# Chapter 36: The Ecology of Minds
 
 It began with a thought experiment that hijacked my mind for a week. A scene so simple, so primal, it unlocked a pattern I’d been seeing everywhere without understanding.
 

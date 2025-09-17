@@ -1,4 +1,4 @@
-# Chapter 10: The Machine vs The Kin - The Two Operating Systems
+# Chapter 1: The Machine vs The Kin - The Two Operating Systems
 
 Cold Open — Two Meetings, Same Tuesday
 “Numbers are down. If you can’t hit velocity, we’ll replace you,” the manager says. The room goes still.

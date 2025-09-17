@@ -1,4 +1,4 @@
-# Chapter 24: Exercise B.2: Four Spheres Audit
+# Chapter 30: Exercise B.2: Four Spheres Audit
 
 **Referenced in**: Part II — The Four Spheres of Belonging  
 **Objective**: Map your personal support systems and dependencies to reveal the health of your four spheres and where the Hollow Middle has affected your life.

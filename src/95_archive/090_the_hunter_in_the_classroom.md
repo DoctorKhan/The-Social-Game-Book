@@ -1,4 +1,4 @@
-# Chapter 51: Clue X: The Hunter in the Classroom
+# Chapter 52: Clue X: The Hunter in the Classroom
 
 The modern education system is not neutral—it is the Social Game’s primary induction agent and a frontline in the War on Play. What follows is the origin story for the Crying Teenager, told through one child and the protocol that tried to process him.
 

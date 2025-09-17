@@ -1,4 +1,4 @@
-# Chapter 26: The Dynamics of Disconnection
+# Chapter 4: The Dynamics of Disconnection
 
 The collapse of the Alliance Sphere did not just change our social map; it changed how energy moves through that map. To see why ordinary life keeps spilling into culture war and why institutions keep converting stress into conflict, we need both the structural x‑ray and the behavioral time‑lapse.
 

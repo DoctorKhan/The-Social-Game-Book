@@ -1,5 +1,5 @@
 
-# Chapter 53: Clue 5: The Crying Teenager
+# Chapter 54: Clue 5: The Crying Teenager
 
 Back in Palo Alto, the air smelled like eucalyptus and ambition. A friend leaned across a cafe table and said she’d just watched a girl break in public. Not a tantrum. A failure of the operating system. Face wet, friends frozen. “Everything is supposed to be perfect,” the girl kept saying, “but it all feels wrong.”
 

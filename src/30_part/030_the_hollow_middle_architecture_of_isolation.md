@@ -1,4 +1,4 @@
-# Chapter 20: The Hollow Middle: Architecture of Isolation
+# Chapter 3: The Hollow Middle: Architecture of Isolation
 
 Cold Open — The Porch
 Mrs. Alvarez waves from her porch. “You never sit anymore,” she says. I glance at the HOA notice tucked under my wiper: Lawn Noncompliance, $75. I wave back, climb into my car, and drive to the gym to walk on a moving belt.

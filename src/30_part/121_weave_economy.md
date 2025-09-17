@@ -1,4 +1,4 @@
-# Chapter 60: Chapter: The Weave Economy
+# Chapter 7: Chapter: The Weave Economy
 
 ## Outline
 

@@ -1,4 +1,4 @@
-# Chapter 8: The Control Group
+# Chapter 17: The Control Group
 
 We pride ourselves on the technology of coordination. Our calendars sync to the cloud, our teams collaborate on sprawling project management platforms, and our algorithms connect millions in a seamless digital web. We believe we need all this complexity to manage our lives, and certainly, it helps.
 

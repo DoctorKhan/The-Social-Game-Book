@@ -1,4 +1,4 @@
-# Chapter 3: The Great Reversal
+# Chapter 13: The Great Reversal
 
 The air in my friend’s lab smelled of dust and disinfectant. An anthropologist, she didn’t bring out fossils or bones. Instead, she laid three photographs on the table, each skull lit from the same stark angle.
 

@@ -1,5 +1,5 @@
 
-# Chapter 34: Clue 3: The Laboratory in the Desert
+# Chapter 38: Clue 3: The Laboratory in the Desert
 
 My hypothesis was simple: remove the guardrails of modern society, and human behavior would devolve into its most primitive state. The festival in the desert was the perfect laboratory to test this. I went as an observer, a systems analyst expecting to document the predictable chaos of an unstructured environment.
 

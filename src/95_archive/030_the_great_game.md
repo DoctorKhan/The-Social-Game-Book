@@ -1,4 +1,4 @@
-# Chapter 19: The Great Game
+# Chapter 26: The Great Game
 
 ### The Technology of Make‑Believe
 

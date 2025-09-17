@@ -1,4 +1,4 @@
-# Chapter 22: The Scientific Learning Machine
+# Chapter 28: The Scientific Learning Machine
 
 Cold Open — Experiment Standup
 “Safety hit two out of ten last night,” Ana says. “We end the experiment if it drops again.”

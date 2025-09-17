@@ -1,5 +1,5 @@
 
-# Chapter 36: The Ghost in the Machine
+# Chapter 40: The Ghost in the Machine
 
 The argument started over the hiss of a milk steamer. I was in a coffee shop, half-listening to my friends, Mike and Sarah, until the tone of their conversation dropped, losing its warmth.
 

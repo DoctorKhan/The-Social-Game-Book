@@ -1,4 +1,4 @@
-# Chapter 58: Glossary of Terms
+# Chapter 59: Glossary of Terms
 
 **Charge / Energetic Charge:** A term used to describe the felt, embodied emotional and psychological energy within a person. A "stable charge" refers to a state of emotional and psychological equilibrium and resilience.
 

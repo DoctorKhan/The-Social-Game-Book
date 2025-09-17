@@ -1,4 +1,4 @@
-# Chapter 17: Exercise B.1: Flotilla Formation Guide
+# Chapter 24: Exercise B.1: Flotilla Formation Guide
 
 **Referenced in**: Introduction - "Find Your Flotilla"  
 **Objective**: To form a "Flotilla"—a small, trusted group of 2-4 individuals who will go through this material with you. This is your peer-to-peer support network, your reality-testing lab, and your co-investigative team.

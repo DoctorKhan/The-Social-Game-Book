@@ -1,4 +1,4 @@
-# Chapter 9: The Strategist's Dilemma & The Third Path
+# Chapter 18: The Strategist's Dilemma & The Third Path
 
 Having documented the mechanisms of the Social Game, I faced the crucial question that haunts every person who sees the system clearly: **What do we do about it?**
 

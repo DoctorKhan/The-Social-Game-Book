@@ -1,4 +1,4 @@
-# Chapter 28: Clue X: The Midwife's Archive
+# Chapter 32: Clue X: The Midwife's Archive
 
 The trail of clues had shown me how our social and economic structures had been hollowed out, but I was beginning to suspect the attack was deeper. It wasn't just about how we gathered or traded; it was about what we were allowed to know. The next clue wasn't in a city or a desert, but in a small, cluttered room that smelled of dried lavender and old paper. It was the home of Elena, a woman in her late eighties who the locals once called a healer, and who the state now called a retired curiosity.
 

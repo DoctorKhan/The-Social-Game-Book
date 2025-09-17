@@ -1,4 +1,4 @@
-# Chapter 38: Technology 3: System Resistance - Maintaining Sovereignty in the Machine
+# Chapter 10: Technology 3: System Resistance - Maintaining Sovereignty in the Machine
 
 The flow discovery in Hawaii and the crying teenager in Palo Alto revealed the final piece of the puzzle: **how to engage with necessary systems without being consumed by them**.
 

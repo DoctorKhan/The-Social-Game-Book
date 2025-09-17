@@ -1,4 +1,4 @@
-# Chapter 43: Exercise B.5: The 30-Day Field Manual
+# Chapter 45: Exercise B.5: The 30-Day Field Manual
 
 **Referenced in**: Introduction and Part II Conclusion
 **Objective**: A comprehensive investigation protocol that will ground everything that follows in your direct, personal experience. You will become a detective of your own consciousness, gathering evidence of how social programming operates in real-time.
