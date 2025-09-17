@@ -6,7 +6,7 @@ series: "The Orphaned Species"
 
 structure:
   - type: introduction
-    title: "The Orphaned Species Series"
+    title: "Series Note: The Orphaned Species"
     file: "00_introduction/000_introduction.md"
 
   - type: part
@@ -42,10 +42,10 @@ structure:
         file: "10_part/034_clue_farmers_allergy.md"
       - title: "See You in the Flow"
         file: "10_part/090_clue_pacific_hawaiian_flow.md"
-      - title: "The Crying Teenager"
-        file: "10_part/100_palo_alto_discovery.md"
       - title: "The Hunter in the Classroom"
         file: "10_part/035_clue_hunter_in_the_classroom.md"
+      - title: "The Crying Teenager"
+        file: "10_part/100_palo_alto_discovery.md"
       - title: "The Sovereignty of the Misfit"
         file: "10_part/110_sovereignty_of_the_misfit.md"
       - title: "Your Mission: Assemble Your Flotilla"
@@ -54,7 +54,7 @@ structure:
   - type: part
     file: "20_part/000_part_intro_war.md"
 
-    title: "Part II: The Rules of the Game — Understanding the System"
+    title: "Part III: The Rules of the Game — Understanding the System"
     chapters:
       - title: "The Two Operating Systems: The Engine vs. The Family"
         file: "20_part/170_engine_vs_family_two_operating_systems.md"
@@ -75,7 +75,7 @@ structure:
         file: "40_part/225_war_on_play.md"
 
   - type: part
-    title: "Part III: Manual Override — Reclaiming Your Sovereignty"
+    title: "Part IV: Manual Override — Reclaiming Your Sovereignty"
     chapters:
       - title: "Field Kit 1: Self-Regulation — The Foundation of Sovereignty"
         file: "10_part/035_technology_self_regulation.md"
@@ -91,7 +91,7 @@ structure:
         file: "10_part/105_technology_system_resistance.md"
 
   - type: part
-    title: "Part IV: The New Game — Building the Ark"
+    title: "Part V: The New Game — Building the Ark"
     chapters:
       - title: "The Third Path — Escaping the Strategist's Dilemma"
         file: "40_part/240_strategists_dilemma.md"
@@ -111,14 +111,7 @@ structure:
 
 
   - type: appendix
-    title: "References and Sources"
-    chapters:
-      - title: "References and Sources"
-        file: "90_appendix/00_references.md"
-
-
-  - type: appendix
-    title: "Appendix: Practical Exercises and Field Manuals"
+    title: "Appendix A: The Exercises"
     chapters:
       - title: "Flotilla Quick‑Start Guide (One‑Pager)"
         file: "90_appendix/305_flotilla_quick_start.md"
@@ -142,5 +135,15 @@ structure:
         file: "90_appendix/390_cultural_stewardship_guide.md"
       - title: "Exercise B.9: Sovereign Daily Practices"
         file: "90_appendix/400_sovereign_daily_practices.md"
+
+  - type: appendix
+    title: "Appendix B: Glossary of Terms"
+    chapters:
       - title: "Glossary of Terms"
         file: "90_appendix/360_appendix_glossary.md"
+
+  - type: appendix
+    title: "Appendix C: References and Sources"
+    chapters:
+      - title: "References and Sources"
+        file: "90_appendix/00_references.md"
